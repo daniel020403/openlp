@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Pagtoo Maoy Pagdaug</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ang atong pagsalig, ang atong pagtoo,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Maoy makabuntog sa yutan-on nga gahum.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Mga sundalo ni Jesus panindog na kamo.<br/>Ang away padayonon ta samtang may adlaw pa.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Pagsuklan ta ang kaaway sa bug-os nga kusog,<br/>Pagtoo maoy pagdaug ning kalibutan ta.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ang gugma N'ya bandila ta, espada Pulong N'ya.<br/>Ang dalang tul-id sundon man sa mga linuwas;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Nakadaug silang tanan tungod sa pagtoo,<br/>Pagtoo ang taming nato, magmadaugon ta.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Mga kaaway naglibot kanato paglaglag,<br/>Talikdan tang kadautan, ang panulay suklan,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kamatuoran ibakos, kal'wasan isul-ob,<br/>Ang kayutaan mauyog nga atong gitumban.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Kaniya nga nakadaug iganti ang kupo,<br/>Ngalan niya hibaloan sa kahimayaan;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Kadasig ipadayon ta, ang gugma man usab,<br/>Dag-ong mga kaaway ta sa ngalan ni Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

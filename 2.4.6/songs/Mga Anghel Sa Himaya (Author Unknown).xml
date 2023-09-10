@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Mga Anghel Sa Himaya</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Umari na ug simbahon,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Ang natawo nga Hari ta. AMEN.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Mga anghel sa himaya,<br/>Sa yuta kumunsad na;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ug inyo karong awiton,<br/>Nga natawo na si Jesus.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Didto man sa kapatagan,<br/>May mga magbalantay;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ug natawo ang Manunubos,<br/>Ang langitnong Hari ta.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Mga taw'ng manggialamon,<br/>Nga gikan sa sidlakan;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Nagpangita sa Mesiyas,<br/>Sa pagsimba Kaniya.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Di madugay S'ya mobalik,<br/>Sa yutang natawhan N'ya;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ang tanan nga magtotoo,<br/>Motipon sa pagsimba.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:52">
+  <properties>
+    <titles>
+      <title>Blessed Assurance</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>c1 c1 v1 v2 v3</verseOrder>
+    <authors>
+      <author>Fanny Jane Crosby Phoebe Palmer Knapp</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>This is my story, this is my song,<br/>Praising my Savior all the day long.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Blessed assurance, Jesus is mine!<br/>Oh, what a foretaste of glory divine!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Heir of salvation, purchase of God,<br/>Born of His Spirit, washed in His blood!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Perfect submission, perfect delight!<br/>Visions of rapture now burst at my sight!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Angels descending bring from above<br/>Echoes of mercy, whispers of love.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Perfect submission, all is at rest.<br/>I in my Savior am happy and blest;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Watching and waiting, looking above,<br/>Filled with His goodness, lost in His love.</lines>
+    </verse>
+  </lyrics>
+</song>

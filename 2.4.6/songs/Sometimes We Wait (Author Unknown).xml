@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Sometimes We Wait</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v17 v18 v19 v20 v21 v22 v23 v24 v9 v10 v11 v12 v13 v14 v15 v16 v9 v10 v11 v12 v13 v14 v15 v25 v26</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Did Moses know when the branches spoke</lines>
+    </verse>
+    <verse name="v2">
+      <lines>he would be the chosen one?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Or did his people know that a cloud of smoke</lines>
+    </verse>
+    <verse name="v4">
+      <lines>would safely lead them home?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sometimes God will speak through a bush of flames</lines>
+    </verse>
+    <verse name="v6">
+      <lines>or pillars in the sky,</lines>
+    </verse>
+    <verse name="v7">
+      <lines>But at times His silence fills our days</lines>
+    </verse>
+    <verse name="v8">
+      <lines>leaving us to wonder “Why?”</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Sometimes we wait, simply to find</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Sometimes His answers come with time,</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Not right away clearly to see,</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Sometimes we never get those parted seas</lines>
+    </verse>
+    <verse name="v13">
+      <lines>That lead us from the shore.</lines>
+    </verse>
+    <verse name="v14">
+      <lines>But there is a place</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Where we rest in His grace</lines>
+    </verse>
+    <verse name="v16">
+      <lines>As we learn to wait on the Lord.</lines>
+    </verse>
+    <verse name="v17">
+      <lines>If I had my way, there would come a day</lines>
+    </verse>
+    <verse name="v18">
+      <lines>with a never-ending dawn.</lines>
+    </verse>
+    <verse name="v19">
+      <lines>No more mournful sighs in the dark of night</lines>
+    </verse>
+    <verse name="v20">
+      <lines>as I wonder where He’s gone.</lines>
+    </verse>
+    <verse name="v21">
+      <lines>I would never see how His mercy reigns</lines>
+    </verse>
+    <verse name="v22">
+      <lines>beneath a cloudless sky.</lines>
+    </verse>
+    <verse name="v23">
+      <lines>There would be no need for healing grace</lines>
+    </verse>
+    <verse name="v24">
+      <lines>to comfort when we cry.</lines>
+    </verse>
+    <verse name="v25">
+      <lines>As we learn to wait…</lines>
+    </verse>
+    <verse name="v26">
+      <lines>on the Lord.</lines>
+    </verse>
+  </lyrics>
+</song>

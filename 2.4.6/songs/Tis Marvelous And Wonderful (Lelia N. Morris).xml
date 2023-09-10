@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Tis Marvelous And Wonderful</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Lelia N. Morris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Wonderful, wonderful,<br/>Marvelous and wonderful<br/>What He has done for my soul!<br/>The half has never been told</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Oh, it is wonderful.<br/>It is marvelous and wonderful<br/>What Jesus has done for this soul of mine!<br/>The half has never been told.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>The Savior has come in His mighty power,<br/>And spoken peace to my soul.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And all of my life from that very hour,<br/>I've yielded to His control.<br/>I've yielded to His control.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>'Twas only a foretaste of joys divine<br/>In Canaan waiting for me;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Where sweetest honey and milk and wine<br/>Were dripping from ev'ry tree<br/>Were dripping from ev'ry tree.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>From glory to glory He leads me on<br/>From grace to grace ev'ry day;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>And brighter and brighter the glory dawns<br/>While pressing my homeward way<br/>While pressing my homeward way.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>If fellowship here with my Lord can be<br/>So inexpressibly sweet</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Oh, what will it be when His face we see<br/>When 'round the white throne we meet.<br/>When 'round the white throne we meet.</lines>
+    </verse>
+  </lyrics>
+</song>

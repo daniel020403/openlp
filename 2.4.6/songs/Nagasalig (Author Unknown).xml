@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Nagasalig</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Nagasalig,<br/>Ang saad sa Ginoo gisaligan ko;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Nagasalig,<br/>Ang saad N'ya akong gisaligan.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Nagasalig ko sa saad ni Jesus,<br/>Day'gon ko S'ya hangtud sa kahangturan;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Akong kinabuhi giharian N'ya,<br/>Ug sa saad N'ya nagsalig ko.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Nagasalig ko sa saad ni Jesus,<br/>Bisan hulgaon ako sa kalisud;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ang kahadlok ug kakulba mahanaw,<br/>Ug sa saad N'ya nagsalig ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Nagasalig ko sa saad ni Cristo,<br/>Kay sa gugma N'ya nahidugtong ako;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ug may kadaugan ko matag adlaw,<br/>Ug sa saad N'ya nagsalig ko.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Nagasalig ko sa saad ni Cristo,<br/>Kay kini wala gayuy pagkapukan;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sundon ko ang mando sa Espiritu,<br/>Ug sa saad N'ya nagsalig ko.</lines>
+    </verse>
+  </lyrics>
+</song>

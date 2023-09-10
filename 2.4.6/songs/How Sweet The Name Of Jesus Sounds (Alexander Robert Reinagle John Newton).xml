@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>How Sweet The Name Of Jesus Sounds</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Alexander Robert Reinagle John Newton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>How sweet the name of Jesus sounds,<br/>In a believer's ear;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>It soothes his sorrows, heals his wounds<br/>And drives away his fear.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>It makes the wounded Spirit whole<br/>And calms the troubled breast;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>'Tis manna to the hungry soul<br/>And to the weary, rest.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Dear name! the Rock on which I build,<br/>My shield and hiding place;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>My never failing treasure,<br/>Filled with boundless stores of grace.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Jesus, my Shepherd, Brother, Friend,<br/>My Prophet, Priest, and King</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>My Lord, my Life, my Way, my End,<br/>Accept the praise I bring.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Weak is the effort of my heart<br/>And cold my warmest thought;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>But when I see Thee as Thou art,<br/>I'll praise Thee as I ought.</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>Till then I would Thy love proclaim<br/>With ev'ry fleeting breath;</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>And may the music of Thy name<br/>Refresh my soul in death.</lines>
+    </verse>
+  </lyrics>
+</song>

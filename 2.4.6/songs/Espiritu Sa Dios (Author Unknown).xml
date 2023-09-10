@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Espiritu Sa Dios</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Espiritu  sa Dios,<br/>Gamhi ako karon;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tudloi ko paghigugma,<br/>Sa gihigugma Mo.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Espiritu sa Dios<br/>Hinloing dughan ko;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Hangtud nga akong matuman,<br/>Ang kabubut-on Mo.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Espiritu sa Dios<br/>Hupnga king dughan ko;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Hangtud nga magadilaab,<br/>King kasing-kasing ko.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Espiritu sa Dios<br/>Buhia na ako;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sa kinabuhing hingpit Mo,<br/>Sa himayang dayon. AMEN.</lines>
+    </verse>
+  </lyrics>
+</song>

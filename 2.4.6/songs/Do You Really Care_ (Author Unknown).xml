@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Do You Really Care?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Do you really care?<br/>Do you know how to share<br/>With people everywhere?</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Do you really care?<br/>Will you take the dare?<br/>Spread Good News everywhere?<br/>The cross of Christ to bear? <br/>Do you really care?</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I look around in the place that I live;<br/>I see people with so much to give;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Yet there are those who are dying to know <br/>Just that somebody cares.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I see people just longing to know<br/>What they can live for and where they can go;<br/>We have the hope and the puspose to share,<br/>But, do we really care?</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>People grope in darkness, <br/>Searching for a way,<br/>Don't you know of someone<br/>You can help today?</lines>
+    </verse>
+  </lyrics>
+</song>

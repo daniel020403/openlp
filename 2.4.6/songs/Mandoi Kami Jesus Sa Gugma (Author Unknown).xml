@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Mandoi Kami Jesus Sa Gugma</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Mandoi kami Jesus sa gugma,<br/>Bantayi sa kalumo;<br/>Sa mga langitnon nga kalan-on,<br/>Pakan-a gayud kami.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>O bulahang Manluluwas,<br/>Gilukat Nimo kami;<br/>O bulahang Manluluwas,<br/>Higugmaa g'yud kami.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Misaad Ka man pagdawat namo,<br/>Bisan dautan kami;<br/>Ang dugo g'yud Nimo nga gamhanan,<br/>Nagahugas sa sala.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>O bulahang Manluluwas,<br/>Nagasangpit man kami;<br/>O bulahang Manluluwas,<br/>Pamation Mo kami.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Among pangitaon ang kaluoy,<br/>Sundong kabubut-on Mo;<br/>Among Manluluwas ug Ginoo,<br/>Sa gugma busga kami.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>O bulahang Maluluwas,<br/>Gihigugma Mo kami;<br/>O bulahang Manluluwas,<br/>Nagpadayong gugma Mo.</lines>
+    </verse>
+  </lyrics>
+</song>

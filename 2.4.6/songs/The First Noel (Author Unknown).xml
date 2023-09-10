@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>The First Noel</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Noel, Noel, Noel, Noel,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Born is the King of Israel.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>The first Noel,<br/>The angel did say,<br/>Was to certain poor shepherds,<br/>In fields as they lay;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>In fields where they<br/>Lay keeping their sheep,<br/>On a cold winter's night<br/>That was so deep.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>They looked up and saw a star<br/>Shining in the east,<br/>Beyond them far,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And to the earth<br/>It gave great light,<br/>And so it continued<br/>Both day and night.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>And by the light<br/>Of that same star,<br/>Three wise men came</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>From country far;<br/>To seek for a King<br/>Was their intent,<br/>And to follow the star,<br/>Wherever it went.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>This star drew nigh<br/>To the northwest,<br/>O'er Bethlehem<br/>It took its rest,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>And there it did<br/>Both stop and stay,<br/>Right over the place<br/>Where Jesus lay.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Then entered in<br/>Those wise men three,<br/>Full rev'rently<br/>Upon their knee,</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>And offered there<br/>In His presence,<br/>Their gold, and myrrh,<br/>And frankincense.</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>Then let us all<br/>With one accord,<br/>Sing praises to<br/>Our heavenly Lord,</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>That hath made heav'n<br/>And earth of naught,<br/>And with His blood<br/>Mankind hath bought.</lines>
+    </verse>
+  </lyrics>
+</song>

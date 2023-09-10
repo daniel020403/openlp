@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>May Bag-ong Adlaw</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>May bag-ong adlaw unya sa langit,<br/>May bag-ong adlaw sa himaya N'ya;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>May bag-ong adlaw unya sa langit,<br/>May bag-ong adlaw diha kang Jesus.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Kon ang pagpanaw ko matapus na,<br/>Unya mahanaw'ng kabudlay'ng tanan;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dihang sugaton ako ni Jesus,<br/>O bag-ong adlaw man kini.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kang Jesus makita ang katahum,<br/>Ug daygon S'ya sa mga tinubos;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kuyog kanila simbahon ko S'ya,<br/>O bag-ong adlaw man kini.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kon ang pagpanaw ko matapus na,<br/>Ug sa himaya ako moabut;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang Manluluwas makita ko na,<br/>O bag-ong adlaw man kini.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Saliging Dugo Ni Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>May kahibulongan nga gahum,<br/>Sa dugo ni Jesus;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>May kahibulongan nga gahum,<br/>Sa bililhon Niya nga dugo.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Bout ka bang maluwas sa sala?<br/>Gamhanang dugo N'ya ni Jesus;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Buot bang magmadaugon ikaw?<br/>Saliging dugo ni Jesus.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sa pagpangandak napun-an ka ba?<br/>Gamhanang dugo N'ya ni Jesus;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Duol ikaw sa Kalbaryo karon,<br/>Saliging dugo ni Jesus.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Buot ka bang mahinloan karon? <br/>Gamhanang dugo N'ya ni Jesus;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Tanang lama sa sala hugasan,<br/>Saliging dugo ni Jesus.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Buot ka bang mag-alagad  sa Dios?<br/>Gamhanang dugo N'ya ni Jesus;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Daygon mo ba sa kanunay Siya!<br/>Saliging dugo ni Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

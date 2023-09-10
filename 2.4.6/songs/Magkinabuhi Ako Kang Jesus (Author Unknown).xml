@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Magkinabuhi Ako Kang Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ginoo'g Manluluwas Imoha na ako,<br/>Kay didto sa Kalbaryo gihalad mong tanan;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Way lain nga Ginoo sa kasingkasing ko,<br/>Ang kinabuhi ko karon Imoha na Jesus.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Magkinabuhi ako kang Jesus,<br/>Magbuhat sa nahamut-an sa Dios;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Akong ituyan kalag ug tanan,<br/>Ang panalangin maako gayud.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Magkinabuhi ako kang Jesus,<br/>Kay Iyang gipakamatyan ako;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Tanan itugyan ug sundon ko S'ya,<br/>Sa Iyang gugma ako gidani.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Magkinabuhi ako kang Jesus,<br/>Bisan diin magpamando sa Dios;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Mga kasakit antuson ko lang,<br/>Akong pas-anon ang krus ko karon.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Magkinabuhi ako kang Jesus,<br/>Kay S'yang bililhon sa akong tanan;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Tultolan ko ang nanghisalaag,<br/>Sa kaluwasan pailhon sila.</lines>
+    </verse>
+  </lyrics>
+</song>

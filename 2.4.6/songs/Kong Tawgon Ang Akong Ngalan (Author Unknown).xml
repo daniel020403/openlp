@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Kong Tawgon Ang Akong Ngalan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Kong ang ngalan ko pagtawgon,<br/>Kong ang ngalan ko pagtawgon,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Kong ang ngalan ko pagtawgon,<br/>Kong S'ya magtawag atua man ako.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Kon patunggon unya ang trumpeta nga Iya sa Dios,<br/>Ug ang Diosnong kaadlawon moabot;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mga linuwas sa kalangitan pagtigumon N'ya,<br/>Pagtawag Niya atua man ako.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>May adlaw'ng banhawon man ang nangamatay kang Jesus,<br/>Pinaagi sa Iyang Diosnong gahum;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Didto sa kapanganuran pagtigumon man sila;<br/>Pagtawag Niya, atua man ako.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Sa kanunay ang Ginoo pagaalagaron ta,<br/>Ug ang Iyang Pulong imantala ta;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kong matapus ang mga kahago nato nga tanan,<br/>Pagtawag Niya, atua man ako.</lines>
+    </verse>
+  </lyrics>
+</song>

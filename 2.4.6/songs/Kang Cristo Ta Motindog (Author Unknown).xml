@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Kang Cristo Ta Motindog</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kang Cristo ta motindog,<br/>Sundalo ni Jesus;<br/>Ituboy ang bandila,<br/>Ayaw ipaagaw.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kanunay'ng kadaugan,<br/>Kon S'ya ang magamando;<br/>Mawagtang ang kaaway,<br/>Ug magpangulo S'ya.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kang Cristo ta motindog,<br/>Kaaway suklan mo;<br/>Sa grasya N'ya sumalig,<br/>Kay 'naa N'yang kusog.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sa pulong nga langitnon,<br/>Kanunay'ng magasul-ob;<br/>Ug sa kaisug asdang,<br/>Labani si Jesus.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kang Cristo ta motindog,<br/>Ang takna hapit na;<br/>Gubaton tang kaaway,<br/>Hangtud sa pagdaug.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang mga mananaug,<br/>Sa Hari koronahan;<br/>Unya uban Kaniya,<br/>Mohari man kita.</lines>
+    </verse>
+  </lyrics>
+</song>

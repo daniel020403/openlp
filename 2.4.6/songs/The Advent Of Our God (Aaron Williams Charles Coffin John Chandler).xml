@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>The Advent Of Our God</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Aaron Williams Charles Coffin John Chandler</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>The advent of our God,<br/>With eager hearts we greet;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And we must praise Him in this hour,<br/>With hymns and anthems sweet.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>All glory to the Son,<br/>Who comes to set us free;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>With Father, Spirit ever One,<br/>Through all eternity.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>The everlasting Son,<br/>Incarnate stoops to be;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Himself the servant's form<br/>Puts on to set his people free.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Come, Zion's daughter,<br/>Rise to meet your lowly King;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Nor let your faithless heart despise<br/>The peace He comes to bring.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>As judge, on clouds of light,<br/>He soon will come again;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>And all His scattered saints<br/>Unite with Him on high to reign.</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>Before the dawning day<br/>Let sin be put to flight;</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>No longer let the law hold sway,<br/>But walk in freedom's light.</lines>
+    </verse>
+  </lyrics>
+</song>

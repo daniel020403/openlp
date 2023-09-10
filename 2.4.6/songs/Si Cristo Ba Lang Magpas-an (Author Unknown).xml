@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Si Cristo Ba Lang Magpas-an</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Si Cristo ba lang magpas-an,<br/>Way labut ba kita?</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dili kay tagsa-tagsa man,<br/>Magpas-an sa krus n'ya.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ang krus hinalad dad-on ko,<br/>Hangtud nga mamatay;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ug sa langitnon nga dapit,<br/>Purong-purongan ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Sa linagbasang tiil N'ya,<br/>Akong igabutang;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang bulawang korona ko,<br/>Ug daygon ko Siya.</lines>
+    </verse>
+  </lyrics>
+</song>

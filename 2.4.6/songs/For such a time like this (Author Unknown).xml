@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>For such a time like this</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 c1 v4 c1 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>In the ancient days of Persia,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>in the palace of the king lived a Jewish maid named Esther</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Who would rise to be the Queen,</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>With a meek and quiet spirit she found favor in God’s sight,</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>And the God she loved exalted her by His grace and might.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>For such a time as this <br/>our God has made us strong,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>and now we lift His banner high.<br/> We must battle sin and wrong,</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>We will stand for truth and right.<br/>We will boldly face each task,</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Our God has blessed and raised us up,<br/> For such a time as this.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Wicked Haman hated Mordecai,<br/>So He sought to kill the Jews.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And it looked like He would prosper till Queen Esther heard the news.</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Then she cried to God for mercy and she went before the king.</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Esther pleaded for Her people’s lives risking everything.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Still today the Lord is searching,<br/> for some Heroes of the faith.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Who will stand with strength and courage, <br/>in a war that must be waged.</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Ev’ry blessings we’ve been given,<br/> has a price we’re called to pay.</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>God desires a living sacrifice,<br/>pledge your life today.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>And now we lift His banner high.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>We must battle sin and wrong,</lines>
+    </verse>
+    <verse name="v4c">
+      <lines>Our God has blessed and raised us up,<br/> for such a time as this.</lines>
+    </verse>
+    <verse name="v4d">
+      <lines>For such a time as this!</lines>
+    </verse>
+  </lyrics>
+</song>

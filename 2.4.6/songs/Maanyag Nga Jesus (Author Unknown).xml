@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Maanyag Nga Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Maanyag nga Jesus,<br/>Hari sa tanan Ikaw,<br/>Anak sa Dios ug Anak sa Tawo;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Halaran, ludhan ka,<br/>Ug Pasidunggan pa,<br/>Ang bugtong kong kalipay Ka.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ang patag matahum,<br/>Ug ang kakahoyan man,<br/>Sa bulak binakbakan man;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Labaw pa si Jesus,<br/>Ug may kaputli pa,<br/>Ang maglilipay Ko Siya.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ang adlaw matahum,<br/>Ug mga bituon man,<br/>Bisan ang bulan ngamasulaw;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Maanyag pa Siya,<br/>Mahimayaon pa,<br/>Kay sa tanang binuhat N'ya</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Maanyag nga si Jesus,<br/>Ang Ginoo man Ikaw,<br/>Anak sa Dios ug Anak sa Tawo;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Himaya ug dungog,<br/>Pagtahud, pagdayeg,<br/>Sa kahangturan Imo man.</lines>
+    </verse>
+  </lyrics>
+</song>

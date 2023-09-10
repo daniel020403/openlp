@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Salig</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Bisan bangis ang bagyo,<br/>Bukid man mangatumpag</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Dili ka mabalaka,<br/>Salig lang kang Jesus.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang tanang pulong ni Jesus,<br/>Gikan sa atong Dios;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dili ug dili mabungkag,<br/>Dugo'ng timaan N'ya.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Bisan pa kon ang kahayag,<br/>Daw nagpahilayo;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Dumduma lang ug paabot,<br/>May kabuntagon pa.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kon 'naa ka sa pag-antus,<br/>Sultihi si Jesus;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Panalanginan ka Niya,<br/>Ug ubanan ikaw.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Salig Kaniya ni Jesus,<br/>Kon mag-inusara</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>S'ya ang higala'ng matuod,<br/>Di ka talikdan N'ya.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Sa tanan mo nga kahimtang,<br/>Sa Dios sumalig ka;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Hangtud dangaton ang langit,<br/>Oo, sumalig ka.</lines>
+    </verse>
+  </lyrics>
+</song>

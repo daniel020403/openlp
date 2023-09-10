@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Ring The Bells Of Heaven</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>c1 v1 v1 v2 v3</verseOrder>
+    <authors>
+      <author>George F. Root William O. Cushing</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Glory! Glory! How the angels sing!<br/>Glory! Glory! How the loud harps ring!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>'Tis the ransomed army, like a mighty sea,<br/>Pealing forth the anthem of the free.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ring the bells of heaven!<br/>There is joy today,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>For a soul returning from the wild!<br/>See the Father meets Him out upon the way,<br/>Welcoming His weary wand'ring child.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For the wand'rer now is reconciled.<br/>Yes a soul is rescued from His sinful way,<br/>And is born anew a ransomed child.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ring the bells of heaven!<br/>Spread the feast today!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Angels swell the glad triumphant strain!<br/>Tell the joyful tidings;<br/>Bear it far away!<br/>For a precious soul is born again.</lines>
+    </verse>
+  </lyrics>
+</song>

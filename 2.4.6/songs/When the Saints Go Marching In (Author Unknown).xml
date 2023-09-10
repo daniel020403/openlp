@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>When the Saints Go Marching In</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>When the saints go marching in <br/>When the saints go marching in;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Lord I want to be in that number <br/>When the saints go marching in;</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I’m a pilgrim and a stranger <br/>Wand’ring thro’ this world of sin,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>On my way to that fair city, <br/>When the Saints go marching in.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Oh, I know I’ll see my Savior <br/>If my life is free from sin,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Heaven's doors will open for me <br/>When the Saints go marching in.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>When we gather <br/>‘round the Throne <br/>And the gates are closed within,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>I’ll be shouting “Glory, Glory” <br/>When the Saints go marching in.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>I’m waiting for the chariot <br/>To swing low and I’ll step in.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>On the clouds I’ll ride to Heaven <br/>When the Saints go marching in.</lines>
+    </verse>
+  </lyrics>
+</song>

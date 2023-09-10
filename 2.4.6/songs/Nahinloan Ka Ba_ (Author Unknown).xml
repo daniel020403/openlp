@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Nahinloan Ka Ba?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Nahinloan ka ba,<br/>Sa mahal nga dugo ni Jesus?</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Nausab na ba ang kinabuhi mo,<br/>Sa mahal nga dugo ni Jesus?</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Duol kang Jesus aron mahinloan ka.<br/>Sabililhon niya nga dugo;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Imo bang saligan si Jesus karon,<br/>Nga mohinlo sa imong sala?</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kuyog ba ikaw kanunay kang Cristo?<br/>Nahinloan ka ba sa dugo?</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Nausab na ba ang kinabuhi mo,<br/>Nga kanimo maoy nagluwas?</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kon mobalik na ang atong Ginoo,<br/>Andam na ba ikaw pag-uban?</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Nagasalig ba ikaw sa Ginoo,<br/>Kon nahinloan ka  sa dugo?</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Paglikay na sa tanang kahilayan,<br/>Pagpahugas sa Iyang dugo;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sa himaya'ng dayon makakuyog ka,<br/>Nahigugma pagluwas Siya.</lines>
+    </verse>
+  </lyrics>
+</song>

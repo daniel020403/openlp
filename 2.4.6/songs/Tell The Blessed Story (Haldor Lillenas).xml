@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Tell The Blessed Story</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Haldor Lillenas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Tell the blessed story, of the cross of Jesus.<br/>Tell the blessed story, of the hallowed cross.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Until every nation, learns of full salvation.<br/>Tell the blessed story of the cross.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Church of God awaken, heed the Lord's command.<br/>Tell the blessed story of the cross.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Fields are white for harvesting, on ev'ry hand.<br/>Tell the blessed story of the cross.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Has He not commissioned you, the news to bear.<br/>Tell the blessed story of the cross.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Go ye into all the world, and ev'rywhere<br/>Tell the blessed story of the cross.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Stand no longer idle, while the moments fly.<br/>Tell the blessed story of the cross.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Multitudes in heathen darkness live and die.<br/>Tell the blessed story of the cross.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Publish unto all the world redeeming grace.<br/>Tell the blessed story of the cross.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Until in the home of rest you find your place,<br/>Tell the blessed story of the cross.</lines>
+    </verse>
+  </lyrics>
+</song>

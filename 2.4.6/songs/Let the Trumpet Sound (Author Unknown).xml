@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Let the Trumpet Sound</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v3 v8 v9 v10 v11 v12</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the trumpet sound<br/>And let the children of God</lines>
+    </verse>
+    <verse name="v2">
+      <lines>arise in worship<br/>Let the trumpet sound</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And let the high praise of God<br/>the high praise of God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>the high praise of God be in the air<br/>Hear all you people God is good</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And good to those of us who fear Him<br/>He has not treated us as we deserve<br/>but has called us forth</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He has called us forth<br/>He has called us forth<br/>He has called us forth into His marvelous glorious light<br/>Let the trumpet sound</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And let the children of God<br/>arise in worship<br/>Let the trumpet sound</lines>
+    </verse>
+    <verse name="v8">
+      <lines>the high praise of God be in the air<br/>Holy and righteous are His ways<br/>Wisdom and justice go before Him</lines>
+    </verse>
+    <verse name="v9">
+      <lines>He has exalted far above all gods<br/>We shall praise His name<br/>We shall praise His name</lines>
+    </verse>
+    <verse name="v10">
+      <lines>We shall praise His name<br/>His great and wonderful excellent name<br/>Let the trumpet sound!</lines>
+    </verse>
+    <verse name="v11">
+      <lines>And let the children of God arise in worship!<br/>Let the trumpet sound!</lines>
+    </verse>
+    <verse name="v12">
+      <lines>And let the high praise of God<br/>the high praise of God <br/>the high praise of God<br/>the high praise of God be in the air.</lines>
+    </verse>
+  </lyrics>
+</song>

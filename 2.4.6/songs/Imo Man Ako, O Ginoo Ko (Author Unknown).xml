@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Imo Man Ako, O Ginoo Ko</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>O Jesus ipaduol ako,<br/>Sa namatyan Mo nga krus;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>O Jesus ipaduol nimo ako,<br/>Sa hamiling kilid mo.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Imo man ako, O Ginoo ko,<br/>Nadungog kong tingog Mo;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Gitudloan ko nga sa gugma Mo,<br/>Makaduol man ako.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Gahina Jesus, ug sangkapi ko,<br/>Alang sa bulohaton;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Pun-a sa gugma ug sa grasya Mo,<br/>Ug Ikaw pagsundon ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Malipayon man ang pagduol ko,<br/>Sa pag-ampo O Jesus;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kay ako ingon sa higala Mo,<br/>Nakigsulti Kanimo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ang gugmang hingpit di masabtan ko,<br/>Hangtud nga makita Ka;<br/>Ang kalipay'ng hingpit maangkon ko,<br/>Haduol lang Kanimo.</lines>
+    </verse>
+  </lyrics>
+</song>

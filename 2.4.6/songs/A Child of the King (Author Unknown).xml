@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:52">
+  <properties>
+    <titles>
+      <title>A Child of the King</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I’m a child of the King, <br/>A child of the King:<br/>With Jesus my Saviour <br/>I’m a child of the King.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>My Father is rich <br/>in house and lands,<br/>He holdeth the wealth <br/>of the world in His hands!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Of rubies and diamonds, <br/>of silver and gold,<br/>His coffers are full, <br/>He has riches untold.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>My Father’s own Son, <br/>the Saviour of men, <br/>Once wandered on earth <br/>as the poorest of them;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>But now He is pleading <br/>our pardon on high,<br/>That we may be His <br/>when He comes by and by.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I once was an outcast <br/>stranger one earth,<br/>A sinner by choice, <br/>and an alien by birth;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>But I’ve been adopted,<br/>My name’s written down, <br/>An heir to a mansion, <br/>a robe, and a crown.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>A tent or a cottage, <br/>why should I care?<br/>They’re building a palace <br/>for me over there;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Tho’ exiled from home, <br/>yet, still I may sing:<br/>All glory to God, <br/>I’m a child of the King.</lines>
+    </verse>
+  </lyrics>
+</song>

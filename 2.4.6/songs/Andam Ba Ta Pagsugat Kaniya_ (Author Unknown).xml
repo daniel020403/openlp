@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:52">
+  <properties>
+    <titles>
+      <title>Andam Ba Ta Pagsugat Kaniya?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Andam ba ta pagsugat Kaniya,<br/>Didto sa kalangitan?</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Nagatukaw ba kita kanunay,<br/>Andam alang sa pagbalik Niya?</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Sa takna nga si Jesus mobalik,<br/>Sa adlaw o gabii;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Makita ba kitang matinumanon,<br/>Andam, alang Kaniya?</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kon moabot S'ya sa kaadlawon,<br/>Sa tinagsa tawgon ta;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kon sutaon N'ya ang atong buhat,<br/>Mahimuot ba ang Dios?</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Sa gipiyal ni Jesus kanato,<br/>Maampingon ba kita?</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kon di gayud ta masalawayon,<br/>Masadyang pahulay ta.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Magmalipayon kadtong magtukaw,<br/>Alang sa himaya N'ya;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Kon S'ya motungha dinhi sa yuta,<br/>Managbantay ba kita?</lines>
+    </verse>
+  </lyrics>
+</song>

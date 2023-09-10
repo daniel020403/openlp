@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Kanimo, O Jesus Mitoo Ko</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kanimo, O Jesus Cordero Ka sa Dios,<br/>Mitoo ko; Pag-ampo dunggon Mo,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Papasi sa sala;<br/>Imo ako karon, Ginoo ko.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kon may kaluya ko dasiga O Jesus,<br/>Sa grasya Mo; Sa pagpalandong ko,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sa kamatayon Mo;<br/>Hinaut gugma ko magdilaab.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Sa mga kalisud ug kagul-anan ko,<br/>Magmando Ka; Hayagang kadulom,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Luha pahiran Mo;<br/>O bantayi ako, O Ginoo.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Kong tapus nang tanan ug mamatay ako,<br/>Anaa ka; Mga kahadlok ko,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Kuha, O Jesus;<br/>Ang dayon nga dapit, puloy-an ko.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>My Jesus I Love Thee</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Adoniram J. Gordon William R. Featherston</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>My Jesus I love Thee;<br/>I know Thou art mine.<br/>For Thee all the follies<br/>Of sin I resign.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>My gracious Redeemer,<br/>My Savior art Thou.<br/>If ever I loved Thee,<br/>My Jesus, 'tis now.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I love Thee,<br/>Because Thou hast first loved me,<br/>And purchased my pardon<br/>On Calvary's tree.<br/>I love Thee</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>For wearing the thorns<br/>On Thy brow,<br/>If ever I loved Thee,<br/>My Jesus, 'tis now.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I'll love Thee in life,<br/>I will love Thee in death,<br/>And praise Thee</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>As long as Thou lendest me breath;<br/>And say when the death dew<br/>Lies cold on my brow,<br/>"If ever I loved Thee,<br/>My Jesus 'tis now."</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>In mansions of glory<br/>And endless delight,<br/>I'll ever adore Thee<br/>In heaven so bright.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>I'll sing with the glittering crown<br/>On my brow,<br/>"If ever I loved Thee,<br/>My Jesus, 'tis now."</lines>
+    </verse>
+  </lyrics>
+</song>

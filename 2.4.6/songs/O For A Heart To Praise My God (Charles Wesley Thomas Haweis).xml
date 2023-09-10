@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>O For A Heart To Praise My God</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Charles Wesley Thomas Haweis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O for a heart to praise my God,<br/>A heart from sin set free,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A heart that always feels thy blood<br/>So freely shed for me.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>A heart resigned, submissive, meek,<br/>My great Redeemer's throne,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Where only Christ is heard to speak,<br/>Where Jesus reigns alone.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>A humble, lowly, contrite heart,<br/>Believing, true, and clean,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Which neither life nor death can part<br/>From Christ who dwells within.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>A heart in every thought renewed<br/>And full of love divine,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Perfect and right and pure and good,<br/>A copy, Lord, of thine.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Thy nature, gracious Lord, impart;<br/>Come quickly from above;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Write thy new name upon my heart,<br/>Thy new, best name of Love.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:52">
+  <properties>
+    <titles>
+      <title>Ang Gipangandoy Sa Kalag</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ang gipangandoy sa kalag,<br/>Mao ang pag-ampo;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Daw tinago ang kainit,<br/>Niining dughan ko.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Pag-ampo ang makaagaw,<br/>Sa mga kaguol;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ang paghangad sa itaas,<br/>Makapadotdot N'ya.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ang pangamuyo tingog man,<br/>Sa mahinolsolon;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ug may kalipay sa langit,<br/>Kon may nag-ampo man.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Buhi kini nga panghupaw,<br/>Sa mga linuwas;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sa langit mikayab Siya,<br/>Nga naga-ampo man. AMEN.</lines>
+    </verse>
+  </lyrics>
+</song>

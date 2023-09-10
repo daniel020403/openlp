@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Dare to Stand Like Joshua</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Dare to stand like Joshua<br/>Dare to say the word</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>As for me and my house<br/>We will serve the Lord<br/>Verse 1<br/>We are bound for Canaan land<br/>Tenting by the way</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Who shall lead us on the road?<br/>Choose your King today</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Many trials we have seen<br/>Thus far on our way</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>He hath led us safely through<br/>Shall He lead today?</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>When the dark Red sea of doubt<br/>Billowed in our way</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Then He parted ev'ry wave<br/>So He will today</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Can we safely trust a guide<br/>Who knows not the way?</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>God hath traveled ev'ry foot<br/>He shall lead today</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Just before us Jordan rolls<br/>Just across the way</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>We can safely trust the Lord<br/>He shall lead today</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Nagsandig  Ko Sa Bukton N'ya</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Kang Jesus lang,<br/>'Naang kasegurohan ko;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Nagasandig,<br/>Sa gamhanan  g'yud nga bukton N'ya.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Pagkatam-is sa pakig-ambitay,<br/>Sa nagsandig sa bukton sa Dios;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang kalinaw man naangkon ko na,<br/>Kay nagsandig ko sa bukton N'ya.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Pagkatam-is man sa pagpanaw ko,<br/>Kay nagsandig sa bukton sa Dios;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ako nga dalan gilamdagan N'ya,<br/>Kay nagsandig ko sa bukton N'ya.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ang kahadlok ko Iyang giwala,<br/>Kay nagsandig sa bukton sa Dios;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>May kalinaw ko kuyog kang Jesus,<br/>Kay nagsandig ko sa bukton N'ya.</lines>
+    </verse>
+  </lyrics>
+</song>

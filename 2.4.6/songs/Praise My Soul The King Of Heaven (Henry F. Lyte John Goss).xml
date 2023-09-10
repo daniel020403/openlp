@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Praise My Soul The King Of Heaven</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Henry F. Lyte John Goss</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Praise my soul, the King of heaven;<br/>To His feet thy tribute bring;<br/>Ransomed, healed, restored, forgiven,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Evermore His praises sing:<br/>Alleluia! Alleluia!<br/>Praise the everlasting King!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Praise Him for His grace and favor<br/>To our fathers in distress.<br/>Praise Him, still the same forever.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Slow to chide and swift to bless:<br/>Alleluia! Alleluia!<br/>Glorious in His faithfulness!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Father-like He tends and spares us.<br/>Well our feeble frame He knows;<br/>In His hands He gently bears us,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Rescues us from all our foes:<br/>Alleluia! Alleluia!<br/>Widely yet His mercy flows!</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Angels in the height, adore Him,<br/>Ye behold Him face to face;<br/>Sun and moon, bow down before Him,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Dwellers all in time and space:<br/>Alleluia! Alleluia!<br/>Praise with us the God of grace!</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Frail as summer's flow'r we flourish;<br/>Blows the wind and it is gone;<br/>But, while mortals rise and perish,</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>God endures unchanging on:<br/>Praise Him, praise Him,<br/>Praise Him, praise Him,<br/>Praise with us the God of grace.</lines>
+    </verse>
+  </lyrics>
+</song>

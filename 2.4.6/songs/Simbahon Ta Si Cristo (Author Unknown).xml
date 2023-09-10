@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Simbahon Ta Si Cristo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Simbahon ta si Cristo,<br/>Simbahon ta si Cristo,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Simbahon ta si Cristo,<br/>Ang Ginoo.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Kamong malipayon ug maminatud-on,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Duol na, duol na sa Betlehem;<br/>Duol Kaniya, Hari S'yang langitnon.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kamong manulonda nagamalipayon,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Magsinggit, mag-awit kamong tanan;<br/>Sa Dios himaya, sa kinahitas-an.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ikaw nga dalaygon ug mahimayaon,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kanimo mag-awit kami Jesus;<br/>Nakita namo ang buhi nga Pulong.</lines>
+    </verse>
+  </lyrics>
+</song>

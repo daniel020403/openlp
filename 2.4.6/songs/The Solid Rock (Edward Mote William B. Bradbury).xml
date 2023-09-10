@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>The Solid Rock</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Edward Mote William B. Bradbury</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>On Christ the solid Rock I stand,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>All other ground is sinking sand.<br/>All other ground is sinking sand.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>My hope is built on nothing less<br/>Than Jesus' blood and righteousness.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I dare not trust the sweetest frame,<br/>But wholly lean on Jesus' name.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>When darkness seems to hide His face,<br/>I rest on His unchanging grace.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>In every high and stormy gale,<br/>My anchor holds within the veil.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>His oath, His covenant, His blood,<br/>Support me in the whelming flood.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>When all around my soul gives way,<br/>He then is all my Hope and Stay.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>When He shall come with trumpet sound,<br/>O may I then in Him be found!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Dressed in His righteousness alone,<br/>Faultless to stand before the throne!</lines>
+    </verse>
+  </lyrics>
+</song>

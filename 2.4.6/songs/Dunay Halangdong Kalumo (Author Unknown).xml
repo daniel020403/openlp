@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Dunay Halangdong Kalumo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Dunay halangdong kalumo,<br/>Sa Manluluwas ta;<br/>Masidlak ang korona N'ya,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sa grasya dato S'ya,<br/>Sa grasya dato S'ya.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Nakita N'yang napukan ko,<br/>Ako gibangon N'ya;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kanako gipas-an N'yang krus,<br/>Ug ang kasakit ko,<br/>Ug ang kasakit ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kalipay, kinabuhi ko,<br/>Siya ang tuburan;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang kamatayon gidaug,<br/>Lubnganan man usab,<br/>Lubnganan man usab.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Sa gugma N'ya nadawat ko,<br/>Ang panalangin N'ya;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Kon daghan pa ang lawas ko,<br/>Ihalad kong tanan,<br/>Ihalad kong tanan.</lines>
+    </verse>
+  </lyrics>
+</song>

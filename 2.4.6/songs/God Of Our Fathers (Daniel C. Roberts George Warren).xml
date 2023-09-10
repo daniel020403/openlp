@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>God Of Our Fathers</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Daniel C. Roberts George Warren</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>God of our fathers, whose Almighty hand<br/>Leads forth in beauty all the starry band</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Of shining worlds in splendor through the skies,<br/>Our grateful songs before Thy throne arise.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Thy love divine hath led us in the past.<br/>In this free land by Thee our lot is cast.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Be Thou our Ruler, Guardian, Guide, and Stay,<br/>Thy word our law, Thy paths our chosen way.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>From war's alarms, from deadly pestilence,<br/>Be Thy strong arm our ever sure defense.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Thy true religion in our hearts increase;<br/>Thy bounteous goodness nourish us in peace.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Refresh Thy people on their toilsome way.<br/>Lead us from night to never ending day.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Fill all our lives with love and grace divine;<br/>And glory, laud, and praise be ever Thine.</lines>
+    </verse>
+  </lyrics>
+</song>

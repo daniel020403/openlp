@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Sa Krus Sundalo Ba Ako?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Sa krus sundalo ba ako,<br/>Nga sakop ni Jesus?</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ug may kaulaw ba ako,<br/>Pagsugid Kaniya?</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sa langit dad-on ba ako,<br/>Sa tumang Kasayon?</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>ug di ba maningkamot ko,<br/>Pagkab-ot sa ganti?</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Tinuod bang moaway ko?<br/>Dios ko, dasiga na;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Antuson ko ang kalisud,<br/>Saligang Pulong Mo.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Tanang mga balaan Mo,<br/>Nagmadaugon g'yod;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Nagtutok man sa halayo,<br/>Kay didtong pagdaug.</lines>
+    </verse>
+  </lyrics>
+</song>

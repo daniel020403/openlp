@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:52">
+  <properties>
+    <titles>
+      <title>Ang Bantuganng Mananambal</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ang ngalan Niyang matahum,<br/>Pagaawiton sa langit,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Ngalan nga labing tam-is,<br/>Jesus nga bulahan.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang maluloy-on nga Jesus,<br/>Bantugang Mananambal;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang Pulong N'ya mohupay man,<br/>Sa dunay balatian.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ang kasal -anan kong tanan,<br/>Ni Cristo gipasaylo;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Purong-purongan man Ikaw,<br/>Sa Hari nga langitnon.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ihatag nako kang Jesus,<br/>Tanan nga pagdalayeg;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang ngalan sa Manunubos,<br/>Ginahigugma nako.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Kahadlok, kasal-anan ko,<br/>Gikuha sa Ginoo;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Kalag ko malipayon na,<br/>Tinood sa ngalan Niya.</lines>
+    </verse>
+  </lyrics>
+</song>

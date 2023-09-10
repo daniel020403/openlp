@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Win The Lost At Any Cost</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Souls are crying, <br/>Men are dying.<br/>Won't you lead them to the cross?<br/>Go and find them,<br/>Help to win them,<br/>Win the lost at any cost.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Go out and win, <br/>Rescue from sin,<br/>Day's almost done<br/>low sets the sun.<br/>Souls are crying,<br/>Men are dying,<br/>Win the lost at any cost.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>As we look around us<br/>All the fields are white<br/>Ripened unto harvest</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>And so swiftly comes the night;<br/>Christians must get busy<br/>There is work to do,<br/>Here's an urgent task awaiting you.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Christ our loving Shepherd,<br/>went out from the fold<br/>Seeking for the stray lamb</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>That was lost in darkened cold;<br/>Tender hands of kindness<br/>Raised him from the ground,<br/>Now's the little lost one had been found.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Check your fold my Christian,<br/>Are the children in?<br/>Are there yet some straying,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Lost in blackened fields of sin;<br/>You must go and reach them,<br/>Go without delay,<br/>Soon the shades of night <br/>will end the day.</lines>
+    </verse>
+  </lyrics>
+</song>
