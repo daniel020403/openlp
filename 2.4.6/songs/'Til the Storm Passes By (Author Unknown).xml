@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:52">
+  <properties>
+    <titles>
+      <title>'Til the Storm Passes By</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>'Til the storm passes over, 'til the thunder sounds no more,<br/>'Til the clouds roll forever from the sky,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Hold me fast; let me stand in the hollow of Thy hand.<br/>Keep me safe 'til the storm passes by</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>In the dark of the midnight have I oft hid my face<br/>While the storms howl above me, and there's no hiding place.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>'Mid the crash of the thunder,<br/>precious Lord, hear my cry; <br/>Keep me safe 'till the storm passes by.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Many times Satan whispered,<br/>"There is no use to try, For there's no end of sorrow;<br/>there's not hope by and by"</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>But I know Thou art with me, and tomorrow I'll rise<br/>Where the storms never darken the skies.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>When the long night has ended and the storms come no more,<br/>Let me stand in Thy presence on that bright, peaceful shore.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>In that land where the tempest never comes,<br/>Lord, may I dwell with Thee,<br/>when the storm passes by.</lines>
+    </verse>
+  </lyrics>
+</song>

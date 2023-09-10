@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>From Every Stormy Wind</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Hugh Stowell Thomas Hastings</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>From every stormy wind that blows,<br/>From every swelling tide of woes,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>There is a calm, a sure retreat:<br/>'Tis found beneath the mercy seat.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>There is a place where Jesus sheds<br/>The oil of gladness on our heads,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>A place than all beside more sweet:<br/>It is the Blood-bought mercy seat.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>There is a scene where spirits blend,<br/>Where friend holds fellowship with friend.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Though sundered far by faith they meet<br/>Around the common mercy seat.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ah whither could we flee for aid,<br/>When tempted desolate dismayed,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Or how the hosts of hell defeat,<br/>Had suff'ring saints no mercy seat.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Ah there on eagle wings we soar,<br/>And sin an sense molest no more;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>And heav'n comes down our souls to greet,<br/>While glory crowns the mercy seat.</lines>
+    </verse>
+  </lyrics>
+</song>

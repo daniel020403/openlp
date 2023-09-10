@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Down In My Heart</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>George W. Cooke</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>And I'm so happy, so very happy,<br/>I've got the love of Jesus in my heart,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And I'm so happy, so very happy,<br/>I've got the love of Jesus in my heart.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I've got the joy, joy, joy, joy,<br/>Down in my heart, down in my heart,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Down in my heart.<br/>I've got the joy, joy, joy, joy,<br/>Down in my heart,<br/>Down in my heart to stay.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I have the peace<br/>That passeth understanding<br/>Down in my heart, down in my heart,<br/>Down in my heart.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I have the peace<br/>That passeth understanding<br/>Down in my heart,<br/>Down in my heart to stay.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I have the love of Jesus,<br/>Love of Jesus, down in my heart,<br/>Down in my heart, down in my heart.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>I have the love of Jesus,<br/>Love of Jesus, down in my heart,<br/>Down in my heart to stay.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>I've got the wonderful love,<br/>Of my blessed Redeemer,<br/>Way down in the depths of my heart,<br/>Way down in the depths of my heart.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Way down in the depths of my heart.<br/>I've got the wonderful love,<br/>Of my blessed Redeemer,<br/>Way down in the depths of my heart,<br/>Way down in the depths of my heart to stay.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>For there is therefore now no condemnation,<br/>Down in my heart,<br/>Down in my heart, down in my heart,</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>For there is therefore now no condemnation,<br/>Down in my heart,<br/>Down in my heart today.</lines>
+    </verse>
+  </lyrics>
+</song>

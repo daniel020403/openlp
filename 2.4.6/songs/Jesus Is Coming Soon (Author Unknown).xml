@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Jesus Is Coming Soon</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Jesus is coming soon<br/>Morning or night or noon</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Many will meet their doom<br/>Trumpets will sound</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>All of the dead shall rise<br/>Righteous meet in the skies</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Going where no one dies<br/>Heavenward bound</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Troublesome times are here<br/>Filling men's hearts with fear</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Freedom we all hold dear<br/>Now is at stake</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Humbling your hearts to God<br/>Saves from the chast'ning rod</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Seek the way pilgrims trod<br/>Christians awake</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Troubles will soon be o'er<br/>Happy forevermore</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>When we meet on that shore<br/>Free from all care</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Rising up in the sky<br/>Telling this world goodbye</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Homeward we then will fly<br/>Glory to share</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Love of so many cold<br/>Losing their home of gold</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>This in God's word is told<br/>Evils abound</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>When these signs come to pass<br/>Nearing the end at last</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>It will come very fast<br/>Trumpets will sound</lines>
+    </verse>
+  </lyrics>
+</song>

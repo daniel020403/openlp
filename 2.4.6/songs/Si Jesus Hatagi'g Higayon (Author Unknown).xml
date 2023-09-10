@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Si Jesus Hatagi'g Higayon</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Hatagi'g higayon si Jesus karon<br/>Nga modumala sa kinabuhi mo</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Siya lamang ang nasayod sa gihandum<br/>Sa kalag mo, sa kasing-kasing mo<br/>Si Jesus hatagi'g higayon</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Nanglabay ang mga tuig sa imong kinabuhi<br/>Ikaw nagapangita,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Naangkon mo ba ang kalinaw<br/>Nga dili molubad ang kalibutan</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Way laing idalit kaguol ug kapakyasan lang.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Mga butang nga makaiibog sa mga panan-awon<br/>Lumalabay lamang, tutuki Siya nga nagtubos</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kanimo sa Krus ang pulong Niya itisok sa dughan<br/>Maangkon mo kinabuhing way utlanan.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Unsa pa'y gihulat o nakapugong<br/>S'ya ang dalan kamatuoran ug kinabuhi<br/>Hatagi'g higayon si Jesus karon<br/>Nga modumala sa kinabuhi mo</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Siya lamang ang nasayod sa gihandom sa kalag mo sa kasing-kasing mo<br/>Si Jesus hatagi'g higayon<br/>Sa kasing-kasing mo<br/>Si Jesus hatagi'g higayon</lines>
+    </verse>
+  </lyrics>
+</song>

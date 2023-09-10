@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Satisfied</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Clara Teare Williams Ralph E. Hudson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Hallelujah! I have found Him<br/>Whom my soul so long has craved!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Jesus satisfies my longings;<br/>Thro' His blood I now am saved.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>All my lifelong I had panted,<br/>For a draught from some cool spring</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>That I hoped would quench the burning<br/>Of the thirst I felt within.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Feeding on the husks around me<br/>Till my strength was almost gone,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Longed my soul for something better,<br/>Only still to hunger on.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Poor I was and sought for riches,<br/>Something that would satisfy;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>But the dust I gathered round me<br/>Only mocked my soul's sad cry.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Well of water, ever springing,<br/>Bread of life, so rich and free,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Untold wealth that never faileth,<br/>My Redeemer is to me.</lines>
+    </verse>
+  </lyrics>
+</song>

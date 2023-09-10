@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:52">
+  <properties>
+    <titles>
+      <title>Ang Dios Man Magabantay</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ang Dios magabantay<br/>Adlaw'ng tanan sa dalan mo,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Magbantay man ang Dios,<br/>Iya kang bantayan.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Dili ka maguol gayud,<br/>Ang Dios man magabantay;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sa Iyang gugma pabilin ka,<br/>Magbantay man Siya.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sa panahon sa kalisud,<br/>Ang Dios man magabantay;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sa katalagman ug kaguol,<br/>Iya kang bantayan.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Sa mga kinahanglan mo,<br/>Ang Dios man magabantay;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang panalangin dawaton mo,<br/>Iya kang bantayan.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Bisan unsaon ka pagsulay,<br/>Ang Dios man magabantay;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Kang Cristo lamang mosalig ka,<br/>Iya kang bantayan.</lines>
+    </verse>
+  </lyrics>
+</song>

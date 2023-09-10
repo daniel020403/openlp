@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Purongpurungan Siya</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Purong-purongan S'yang Corderong may gahum<br/>Mga langitnon nga panon,<br/>Kaniya nagdayeg;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Pag-awit, pagdayeg, ihatag kang Jesus,<br/>Kay S'ya ang dayong Hari ta,<br/>Ug dili hitupngan.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Purong-purongan S'ya ang Hari sa gugma,<br/>Kanhi S'ya gidagmalan man,<br/>Sa mga katawhan;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sa langitnong dapit, atua S'ya karon,<br/>Ug magaawit ang tanan,<br/>Sa Iyang katahum.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Purong-purongan S'ya ang dayong Hari ta,<br/>Sa langit ug sa yuta man;<br/>Gamhanan S'ya gayud;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>S'yang pasidunggan ta, ang Manluluwas S'ya,<br/>Tahuron man sa kataha,<br/>Si Cristong atong Dios.</lines>
+    </verse>
+  </lyrics>
+</song>

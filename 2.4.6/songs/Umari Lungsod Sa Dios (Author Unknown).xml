@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Umari Lungsod Sa Dios</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Umari lungsod sa Dios,<br/>Pasalamat kang Jesus;<br/>Ang tanan nga anihon,<br/>Sa dapa na hipuson.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang kinahanglanon ta,<br/>Ni Jesus gihatag na;<br/>O pasalamatan ta,<br/>Ang langitnong Amahan.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kalibutan Iya man,<br/>Ug ingon ang katamnan;<br/>Bunga sa kakahoyan,<br/>Hayop sa kapatagan.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Isda sa kadagatan,<br/>Anihon sa kaumahan;<br/>Iya tang giandaman,<br/>Sa Dios natong Amahan.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kalibutan ang uma,<br/>Nga gipugsan N'ya sa Dios;<br/>Tuyo N'yang pabungahon<br/>Sa kahimayaan N'ya.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Iyang Pulong ang binhi,<br/>Nga gisangyaw man dinhi,<br/>Ang anihon N'ya unya,<br/>Mga magtotoo ra.</lines>
+    </verse>
+  </lyrics>
+</song>

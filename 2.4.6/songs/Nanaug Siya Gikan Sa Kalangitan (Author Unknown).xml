@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Nanaug Siya Gikan Sa Kalangitan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Sa Iyang gugma ug kamatayon,<br/>May pagpasaylo sa akong sala;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Ug Siya nabanhaw  ngadto sa dayon,<br/>Unya may adlaw'ng mobalik Siya.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Nanaug S'ya gikan sa kalangitan,<br/>Sa kaluwasan nagtanyag Siya;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nagpakatawo S'ya dinhi ni'ning yuta,<br/>Aron maghimong Manluluwas ko.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>S'ya gidala sa bungtod sa Kalbaryo,<br/>Ila didto S'yang gilansang sa krus;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Gibiaybiay S'ya ug gisalikway,<br/>Gipas-an Niya ang akong sala.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>S'ya gilubong man didto sa tanaman,<br/>Ug sa lubnganan mipahulay S'ya;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Sa manulonda Siya gibantayan,<br/>Kay Manluluwas Siya sa tanan.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>May adlaw daw nga wala S'ya kapugngi,<br/>Sa kamatayon nga gibuntog N'ya;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Nabanhaw S'ya nga nagmadinaugon,<br/>Mikayab S'ya sa kahimayaan.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Pagapatunggon unya ang trumpeta,<br/>Sa adlaw man nga mobalik Siya;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Unya makitya S'yang mahimayaon,<br/>Si Jesu-Cristo, Manluluwas ko.</lines>
+    </verse>
+  </lyrics>
+</song>

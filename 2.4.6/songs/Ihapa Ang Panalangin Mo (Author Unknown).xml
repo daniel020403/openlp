@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Ihapa Ang Panalangin Mo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ihapa ang panalangin mo,<br/>Ug susiha ang nabuhat N'ya;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Sa tinagsa pag-isipon mo,<br/>Ang kahibulongang buhat ni Jesus.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Kong ginadag-um ang kinabuhi mo,<br/>Ug kadasig man daw nagakahanaw;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ipha sa tinagsang panalangin mo,<br/>Kay kahibulongang man ang Ginoo.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ang lulang gipas-an mo mabug-at  ba?<br/>Nagaantus ba ikaw sa kalisud?</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ipha sa tinagsang panalangin mo,<br/>Ug kining tanan mahanaw daw aso.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kong makita mong mga adunahan,<br/>Palandonga ang gisaad ni Jesus;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ipha sa tinagsang panalangin mo,<br/>Ang bahandi mo atua sa langit.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kong anaa ka sa kasakitan mo,<br/>Paghinumdumi lang ang Ginoong Dios;<br/>Ipha sa tinagsang  panalangin mo,<br/>Sa pagpanaw mo pagabuligan ka.</lines>
+    </verse>
+  </lyrics>
+</song>

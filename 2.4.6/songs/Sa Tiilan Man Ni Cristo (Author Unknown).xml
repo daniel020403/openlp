@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Sa Tiilan Man Ni Cristo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Sa tiilan man ni Cristo,<br/>Pulong N'ya mabati ko;<br/>Adlaw-adlaw nagahatag,<br/>Ug pahulay ning kalag.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sa may tiilan ni Cristo,<br/>Nahandum kong nangagi;<br/>Sa malulot N'ya nga gugma,<br/>Nadani Niya ako.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sa tiilan man ni Cristo,<br/>'Naang panalangin N'ya;<br/>Kagul-anan ko gitugyan,<br/>Ug pahulay ning kalag.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sa may tiilan ni Cristo,<br/>Nagabakho g'yud ako;<br/>Sa kanunay nangaliya,<br/>Sa langitnong grasya N'ya.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>O Jesus panalangini,<br/>King nagapahiubos;<br/>Ug sa gugma Mo tutoki,<br/>Kay nagkinahanglan ko.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Makita unta kanako,<br/>Ang pagkabalaan Mo;<br/>Makita unta si Cristo,<br/>Sa pagkinabuhi ko.</lines>
+    </verse>
+  </lyrics>
+</song>

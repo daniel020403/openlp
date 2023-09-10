@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Where is Jesus</title>
+    </titles>
+    <verseOrder>v1 c1 c1 c1 v2 c1 c1 c1 c1 c1 c1 c1 c1 c1 c1 v3 c1 c1 c1 c1 c1 c1 c1 c1 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>On a journey from Jerusalem,<br/>returning to their home</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Joseph traveled all day long</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>They must have walked for many miles before they realized,</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Jesus was not with them</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Mary sadly cried</lines>
+    </verse>
+    <verse name="c1a">
+      <lines/>
+    </verse>
+    <verse name="c1b">
+      <lines>Where is Jesus?</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Did we leave him far behind?</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Did we take for granted He was here</lines>
+    </verse>
+    <verse name="c1e">
+      <lines>Walking with us all the time?</lines>
+    </verse>
+    <verse name="c1f">
+      <lines>To find Him once again,</lines>
+    </verse>
+    <verse name="c1g">
+      <lines>We must return to the place where we left Him.</lines>
+    </verse>
+    <verse name="c1h">
+      <lines>Where is Jesus.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I prayed to God to lead my way,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>That His will for me be known</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>All  He asks is that I wait for Him still I stepped out on my own</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Without Him here to guide my steps,</lines>
+    </verse>
+    <verse name="v2e">
+      <lines>I failed Him many times.</lines>
+    </verse>
+    <verse name="v2f">
+      <lines>I only have my self to blame,</lines>
+    </verse>
+    <verse name="v2g">
+      <lines>I bowed my head and cried</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>You've made some bad decisions with a selfish thought in mind</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>You had the best intentions for the goals you set in life</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Your relationship with God's secure but the fellowship is gone.</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>You can choose to walk with Him again you don't have to walk alone.</lines>
+    </verse>
+  </lyrics>
+</song>

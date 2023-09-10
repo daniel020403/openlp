@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Dalia-a Ang Bulohaton</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Di ka maglangan-langan sa pag-alagad mo,<br/>Ang buhat nga langitnon sugdi na karon;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bisan sa kabuntagon ug sa kaudtohon,<br/>Dali-ang bulohaton samtang adlaw pa.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Di ka maglangan-langan sa pag-alagad mo,<br/>Isangyaw ang Balita sa Manluluwas;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Dili mo pag-usikan ang mga panahon,<br/>Dali-ang bulohaton samtang adlaw pa.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Di ka maglangan-langan sa pag-alagad mo,<br/>Di ka magamaluya buhat tapusa;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Bisan sa kahaponon, magapadayon ka,<br/>Hangtud pagbalik Niya magahago ka.</lines>
+    </verse>
+  </lyrics>
+</song>

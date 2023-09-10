@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Sa Layo Nga Dapit</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Sa layo nga dapit,<br/>Dad-on kong Balita;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Hangtud nga hingsayran,<br/>Ang kal'wasan sa Dios.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Molakaw gy'ud ako bisan sa halayo,<br/>Pagsugilon man sa Balita (Balita);</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>May linibo nga wa pa gy'ud makadungog,<br/>Kinahanglan suginlan sila (sila).</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Adtoon kong dapit nga gitudlo Niya,<br/>Bisan ug malisud man kini (kini);</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Bisa'g biay-biayon ko sa mga tawo,<br/>Ang Ginoo maoy sundon ko (sundon ko).</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Pagmata na karon isalikway'ng sala,<br/>Ug kahilayan biyaan mo (biyaan mo);</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Dili mo pag-usikang mga panahon,<br/>Pangitaon mo ang nawala (nawala).</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Duna pay nangawala nga wa kadungog,<br/>Sa Maayong Balita sa Dios (sa Dios);</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Gipadala ako sa pagtudlo nila,<br/>Ngadto sa Iya nga tiilan (tiilan).</lines>
+    </verse>
+  </lyrics>
+</song>

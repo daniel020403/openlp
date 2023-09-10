@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Unta Mahisama Ko Kanimo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Unta mahisama ko Kanimo,<br/>O Ginoo sa kaputli Mo;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Pun-a ug hupnga king kinabuhi,<br/>Hangtud makita ang dagway Mo.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Unta mahisama ko Kanimo<br/>Akong Manunubos nga Jesus;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ako kanunay nga ginaampo,<br/>Dinhi kanako makita ka.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Unta mahisama ko Kanimo,<br/>Mahigugmaon ug malumo;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Matinabangon sa naalut,<br/>Ug nagpangita sa nawala.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Unta mahisama ko Kanimo,<br/>May kalumo sa Espiritu;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Andam moantus sa kalisdanan,<br/>Sa tuyong maluwas ang uban.</lines>
+    </verse>
+  </lyrics>
+</song>

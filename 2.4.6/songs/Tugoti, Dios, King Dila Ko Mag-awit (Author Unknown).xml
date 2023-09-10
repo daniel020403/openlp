@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Tugoti, Dios, King Dila Ko Mag-awit</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tugoti, Dios king dila ko,<br/>Mag-awit kang Jesus;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sa dayon nga himaya N'ya,<br/>Sa Dios ug Hari ko.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ambongang Dios, Ginoo ko,<br/>Tabangan Mo Ako;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sa pagmantala sa tanan,<br/>Nga kadungganan Mo.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Gibuntog Niya ang gahum,<br/>Sa silot sa sala;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Naghinlo ang Iyang dugo,<br/>Sa kasal-anan ko.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>S'ya inyong pamation na,<br/>Sa dila pagdayga;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sud-ongon si Cristo Jesus,<br/>Ug magmalipayon. AMEN.</lines>
+    </verse>
+  </lyrics>
+</song>

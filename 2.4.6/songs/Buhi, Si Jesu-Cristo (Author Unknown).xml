@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:52">
+  <properties>
+    <titles>
+      <title>Buhi, Si Jesu-Cristo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Buhi!, Buhi!, Si Jesus-Cristo karon!<br/>Ginatultolan N'ya ako sa masigpit nga dalan;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Buhi! Buhi! Pagluwas kanako;<br/>Nasayud ko nga S'ya buhi.<br/>Sulod ning dughan ko.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang nabanhaw'ng Ginoo gialagaran ko,<br/>Masayud man ako nga S'ya buhi man gayud;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang Iyang maloloy-ong tawag nabati ko,<br/>Giubanan ako N'ya sa kanunay.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Iyang giamomahang mga binuhat N'ya,<br/>Siya nagapalig-on sa nagmaluyahon;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ako gidasig Niya sa pagpaabut ko,<br/>Ug ang pagbalik Niya haduol na.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>O mga Cristohanon awitan ta gayud,<br/>Ang mga Aleluya kang Jesus, Hari ta;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Siyang paglaum nato, katabang sa tanan,<br/>Way laing maluluy-on gawas Niya.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Send The Light</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Send the light,<br/>The blessed gospel light;<br/>Let it shine</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>From shore to shore<br/>Send the light,<br/>The blessed gospel light<br/>Let it shine forevermore!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>There's a call comes ringing o'er the restless wave,<br/>"Send the light! Send the light!"</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>There are souls to rescue, there are souls to save,<br/>"Send the light! Send the light!"</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We have heard the Macedonian call today,<br/>"Send the light! Send the light!"</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And a golden off'ring  at the cross we lay,<br/>"Send the light! Send the light!"</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Let us pray that grace may everywhere abound,<br/>"Send the light! Send the light!"</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>And a Christ-like spirit everywhere be found,<br/>"Send the light! Send the light!"</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Let us not grow weary in the work of love,<br/>"Send the light! Send the light!"</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Let us gather jewels for a crown above,<br/>"Send the light! Send the light!"</lines>
+    </verse>
+  </lyrics>
+</song>

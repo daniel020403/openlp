@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Pagkatahum Isaysay</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Pagkatahum isaysay!<br/>Maoy akong tinguha,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Pagsaysay sa balita,<br/>Sa gugma ni Jesus.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Pagkatahum isaysay sa gugma ni Jesus,<br/>Ug sa himaya Niya nga nagmasidlakon;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Pagkatahum isaysay, kay nasinati ko,<br/>Ang gugma N'ya ni Cristo nga gipangandoy ko.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Pagkatahum isaysay sa  gugma ni Jesus,<br/>Labi pa nga hinandum kay sa bahandi  man;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Pagkatahum isaysay, kay naluwas ako,<br/>Mao kining hinungdan nga ginasaysay ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Pagkatahum isaysay sa gugma ni Jesus,<br/>Kay ang moduol Niya kalipay maangkon;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Pagkatahum isaysay ang kaluwasan N'ya,<br/>Kay ang wala masayod angay'ng suginlan ko.</lines>
+    </verse>
+  </lyrics>
+</song>

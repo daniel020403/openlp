@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Yes, I know</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>And I know, yes, I know,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Jesus’ blood can make <br/>the vilest sinner clean.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Come, ye sinners, <br/>lost and hopeless,<br/>Jesus’ blood can make you free;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>For He saved the worst <br/>among you, <br/>When He saved a wretch like me.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>To the faint He giveth power, <br/>Thro’ the mountains makes a way</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Findeth water in the desert,<br/>Turns the night to golden day.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>In temptation He is near thee, <br/>Holds the powr’rs of hell at bay;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Guides you to the path of safety,<br/>Gives you grace for ev’ry day.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>He will keep thee while the ages<br/>Roll thro’ out eternity;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Tho’ earth hinders and hell rages,<br/>All must work for good to thee.</lines>
+    </verse>
+  </lyrics>
+</song>

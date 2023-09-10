@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:52">
+  <properties>
+    <titles>
+      <title>A Mighty Fortress Is Our God</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Hans Leo Hassler Martin Luther</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>A mighty fortress is our God,<br/>A bulwark never failing,<br/>A bulwark never failing,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bulwark never failing,<br/>A bulwark never failing,<br/>A bulwark never failing,<br/>A bulwark never failing.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Our helper He amid the,<br/>Flood our helper He,<br/>Our helper amid the flood,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Of mortal ills prevailing,<br/>Mid mortal ills prevailing,</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>For still our ancient foe,<br/>For still our ancient foe,<br/>Doth seek for us woe,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Doth seek for us woe,<br/>With craft and great might,<br/>With craft and great might,</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Armed with cruel hate,<br/>And armed with cruel hate,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>And armed with cruel hate,<br/>On earth is none His equal,<br/>On earth is none equal.</lines>
+    </verse>
+  </lyrics>
+</song>

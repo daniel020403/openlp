@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Si Jesus Moluwas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Nadungog kong Balita,<br/>Si Jesus moluwas!<br/>Imantala sa tanan,<br/>Si Jesus moluwas!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ngadto sa tanang dapit,<br/>Dad-on ta ang Balita,<br/>Sugo N'ya tumanon ta;<br/>Si Jesus moluwas.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Isugilong Balita,<br/>Si Jesus moluwas!<br/>Sa tanang nakasala,<br/>Si Jesus moluwas!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kayutaan, dagat man,<br/>Magaawit mong tanan,<br/>Ug magmalipayon ta;<br/>Si Jesus moluwas.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Nagpakamatay Siya,<br/>Si Jesus moluwas!<br/>Sa gihapon buhi S'ya,<br/>Si Jesus moluwas!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Sa diha'ng may kasubo,<br/>Magaawit man kita,<br/>Sa awit sa pagdaug;<br/>Si Jesus moluwas.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Managsinggit ang tanan,<br/>Si Jesus moluwas!<br/>Ngadto sa tanang dapit,<br/>Si Jesus moluwas!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sa tanan isangyaw ta<br/>Ang kal'wasan nga hingpit,<br/>Awit man sa pagdaug;<br/>Si Jesus moluwas.</lines>
+    </verse>
+  </lyrics>
+</song>

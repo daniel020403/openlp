@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>What Wondrous Love Is This</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>S. Mead William Walker</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>What wondrous love is this,<br/>O my soul, O my soul!<br/>What wondrous love is this, O my soul!<br/>What wondrous love is this</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>That caused the Lord of bliss<br/>To bear the dreadful curse<br/>For my soul, for my soul,<br/>To bear the dreadful curse for my soul!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>When I was sinking down,<br/>Sinking down, sinking down,<br/>When I was sinking down, sinking down;<br/>When I was sinking down</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Beneath God's righteous frown,<br/>Christ laid aside His crown<br/>For my soul, for my soul,<br/>Christ laid aside<br/>His crown for my soul!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>To God and to the Lamb,<br/>I will sing, I will sing,<br/>To God and to the Lamb, I will sing!<br/>To God and to the Lamb</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Who is the "Great I Am"<br/>While millions join the theme<br/>I will sing, I will sing,<br/>While millions join the theme<br/>I will sing!</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>And when from death I'm free,<br/>I'll sing on, I'll sing on,<br/>And when from death I'm free, I'll sing on!<br/>And when from death I'm free,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>I'll sing and joyful be<br/>And through eternity<br/>I'll sing on, I'll sing on<br/>And thro' eternity, I'll sing on!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Suga Sa Tanan Si Cristo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Dumuol na kamo sa Suga!<br/>Kanhi ako buta man gayud,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Makakita na man ko karon;<br/>Suga sa tanan si Cristo!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang kalibutan nangilub sa sala,<br/>Suga sa tanan si Cristo!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Himaya Niya daw masigang adlaw,<br/>Suga sa tanan si Cristo!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Walay kangitngitan kuyog kang Jesus,<br/>Suga sa tanan si Cristo!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Mahayag ang dalan kon sundon S'ya,<br/>Suga sa tanan si Cristo!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kamong nabutaan tungod sa sala,<br/>Suga sa tanan si Cristo!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Dan-agan ikaw kon toohan mo S'ya,<br/>Suga sa tanan si Cristo!</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ang adlaw sa langit di na mapuslan,<br/>Suga sa tanan si Cristo!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ang Cordero sa Dios mao ang suga,<br/>Suga sa tanan si Cristo!</lines>
+    </verse>
+  </lyrics>
+</song>

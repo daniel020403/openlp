@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Sa Grasya Giluwas Ako</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ug S'ya makit-an ko gayud,<br/>Ang dagway N'ya masud-ong ko;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Unya akong isugilon,<br/>Sa grasya giluwas ako.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>May adlaw ra nga moabut,<br/>Ang kinabuhi bawion;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Unyang langitnon  nga dapit.<br/>Mahimong puloy-anan ko.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Di mahibaw-ang panahon,<br/>Kanus-a ko'ng mopahulay;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Apan hingsayran ko gayud,<br/>Himaya N'ya puloy-an ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Matapus unyng panahon'<br/>'Ning kalibutan ta karon;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ug ang Ginoo moingon,<br/>"Pahulay sa himaya Ko."</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Karon ako maga-andam,<br/>Ug ang suga ko masiga;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Nga kon si Jesus moabot,<br/>Makauban ko Kaniya.</lines>
+    </verse>
+  </lyrics>
+</song>

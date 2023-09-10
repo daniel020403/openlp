@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:52">
+  <properties>
+    <titles>
+      <title>Come Unto Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Come unto Me; <br/>I will give you rest; <br/>Take My yoke upon you,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Hear Me and be blest;<br/>I am meek and lowly, <br/>Come and trust My might;<br/>Come, My yoke is easy, <br/>And My burden’s light.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Hear the blessed Savior <br/>calling the oppressed, <br/>"O ye heavy laden, <br/>come to Me and rest;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Come, no longer tarry, <br/>I your load will bear, <br/>Bring Me ev’ry burden, <br/>bring Me ev’ry care”.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Are you disappointed, <br/>wand’ring here and there,<br/>Dragging chains of doubt and loaded down with care?</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Do unholy feelings struggle <br/>in your breast?<br/>Bring your case to Jesus, <br/>He will give you rest.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Stumbling on the mountains <br/>dark with sin and shame, <br/>Stumbling tow’rd the pit  <br/>of hell’s consuming flame,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>By the pow’rs of sin deluded <br/>and oppressed,<br/>Hear the tender Shepherd <br/>“Come to Me and rest”.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Have you by temptation <br/>often conquered been,<br/>Has a sense of weakness <br/>brought distress within?</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Christ will sanctify you,<br/>if you’ll claim His best, <br/>In the Holy Spirit, <br/>He will give you rest.</lines>
+    </verse>
+  </lyrics>
+</song>

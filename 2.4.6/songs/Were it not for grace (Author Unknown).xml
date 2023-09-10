@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Were it not for grace</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c1 c1 c1 c3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Time measured out my days<br/>Life carried me along<br/>In my soul I yearned to follow God<br/>But knew I'd never be so strong</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I looked hard at his road<br/>To learn how heaven could be gained<br/>Just to end were I began<br/>Were human effort is not in vain</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Were it not for grace<br/>I can tell you where I'd be<br/>Wand'ring down some pointless road to nowhere<br/>With my salvation up to me</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I know how that would go<br/>The battles I would face<br/>Forever running but losing the race<br/>Were it not for grace</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>So here is all my praise<br/>Expressed with all my heart<br/>Offered to a friend who took my place<br/>And run the course<br/>I could not even start</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And when He saw in full<br/>Just how much His love would cost<br/>He still went the final mile<br/>Between me and heaven<br/>So I would not be lost</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Grace  grace God's grace<br/>Grace that will pardon and cleanse within<br/>Grace grace God's grace<br/>Grace that is greater than all my sins</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Forever running but losing the race<br/>Were it not for grace</lines>
+    </verse>
+  </lyrics>
+</song>

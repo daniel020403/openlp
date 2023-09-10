@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>O Dios Nga Among Amahan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O Dios nga among Amahan,<br/>Pasayloa kami;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Among kalag tul-iron Mo<br/>Sa pag-alagad nga putli<br/>Sa lunsay'ng pagmahal."</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sama niadtong mga tawo'ng,<br/>Mingsalig kang Jesus;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Mingsalig man usab kami,<br/>Karon motindog, mosunod,<br/>Sa Iyang pagtawag.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ihatag ang kalinaw Mo,<br/>Kasakit puypuya;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang kaguol ug kabug-at<br/>Ilisi sa kalinaw Mo,<br/>O Dios nga Amahan.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Mga tinguhang dautan,<br/>Wad-a gayud O Dios;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sumpoang tuyo sa unod<br/>Aron mabati ko karon,<br/>Ang Diosnong tingog Mo. AMEN</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:52">
+  <properties>
+    <titles>
+      <title>Akong Gihangyo, Ginoo Ko</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ako nga gipangandoy, Ginoo,<br/>Nga matultolan ko ang katawhan;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Akong suginlan sa pagpasaylo, <br/>Nga 'naa kang Cristo--Jesus.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Akong gihangyo o Ginoo ko,<br/>Maako ang gugma Mo;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sa pagpangita sa nawala,<br/>Pailhon sa gugma Mo.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines/>
+    </verse>
+    <verse name="v2b">
+      <lines>Bisan ang dalan ko malisud,<br/>Sundon ko gayud Ikaw;</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Sa matag adlaw nagsalig ko,<br/>Sa tam-is nga grasya Mo.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Akong gihangyo Ginoo ko,<br/>Nga unta sa gugma Mo;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>May kabalaka ko sa uban,<br/>Sa ilang mga kalag.</lines>
+    </verse>
+  </lyrics>
+</song>

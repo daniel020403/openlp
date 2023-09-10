@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>He's Everything To Me</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the stars His handiwork I see,<br/>On the wind He speaks with majesty,<br/>Though He ruleth over land and sea,<br/>What is that to me?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will celebrate Nativity,<br/>For it has a place in history,<br/>Sure, He came to set His people free,<br/>What is that to me?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Till by faith I met Him face to face,<br/>And I felt the wonder of His grace,<br/>Then I knew that He was more than just a <br/>God who didn't care,<br/>That lived a way out there and now He walks beside me day by day,<br/>Ever watching o'er me lest I stray,<br/>Helping me to find that narrow way,<br/>He's Everything to me.</lines>
+    </verse>
+  </lyrics>
+</song>

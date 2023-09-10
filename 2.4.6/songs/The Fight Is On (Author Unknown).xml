@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>The Fight Is On</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>The fight is on, O Christian soldier,<br/>And face to face in stern array,<br/>With armor gleaming, And colors streaming,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>The right and wrong engage today!<br/>The fight is on, but be not weary;<br/>Be strong and in His might hold fast;<br/>If God be for us, His banner o’er us,<br/>We’ll sing the victor’s song at last!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>The fight is on, <br/>the trumpet sound is ringing out,<br/>The cry “To arms!” <br/>is heard afar and near;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>The Lord of hosts is marching on to victory,<br/>The triumph of the Christ will soon appear.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>The fight is on, A rouse, <br/>ye soldiers brave and true!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Jehovah leads, and victory will assure;<br/>Go buckle on the armor God has given you,<br/>And in His strength unto the end endure.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>The Lord is leading on to certain victory;<br/>The bow of promise spans the eastern sky;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>His glorious name in every land shall honored be;<br/>The morn will break, the dawn of peace is nigh.</lines>
+    </verse>
+  </lyrics>
+</song>

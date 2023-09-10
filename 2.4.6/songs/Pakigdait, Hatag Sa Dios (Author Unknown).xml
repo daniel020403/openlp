@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Pakigdait, Hatag Sa Dios</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Pakigdait,<br/>Hatag sa gugma  sa Dios;(sa Dios)</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>O, Kahibulongang hatag,<br/>Kalinaw'ng hatag sa Dios.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Sa akong dughan moabot , (gayud,)<br/>Honi nga masadya gayud; (gayud;)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Awiton ko sa makadaghan,<br/>Kalinaw'ng hatag sa Dios.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sa pagkamatay ni Jesus, (Jesus,)<br/>Nabayran tanang utang ko; (nako;)</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ang patukoranan nga dayon,<br/>Maoy kalinaw sa Dios.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Sa pagdawat ko kang Jesus,(Jesus,)<br/>Naangkon sa akong kalag; (kalag;)</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang daghang mga panalangin,<br/>Kalinaw'ng hatag sa Dios.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Kang cristo pabilin ako, (ako,)<br/>Haduol sa Iyang luyo; (luyo;)</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Way laing maghari kanako,<br/>Kalinaw lang ni Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

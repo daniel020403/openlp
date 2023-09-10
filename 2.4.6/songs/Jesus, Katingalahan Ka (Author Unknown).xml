@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Jesus, Katingalahan Ka</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jesus katingalahan Ka,<br/>Bantugan sa tanan!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Katam-is Mo di malitok,<br/>Kalipay sa tanan.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sa dughan mosulod Ikaw,<br/>Kahayag modan-ag;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Unya ako magdilaab,<br/>Sa gugmang langitnon.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Jesus kahayag sa tanan,<br/>Ug kinabuhi Ka!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kalipay ug pangandoy man,<br/>Nga dili matupngan.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Dalaygon Ka sa kanunay,<br/>Ang putling gugma Ka!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sa among kinabuhi man,<br/>Makita unta Ka. AMEN.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:52">
+  <properties>
+    <titles>
+      <title>Akong Magbalantay</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Akong Magbalantay mao si Jesus,<br/>Wala nay makulang sa akong kalag;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ako gitultolan sa lunhaw'ng sibsiban,<br/>Sa linaw nga tubig paimnon ako,<br/>Sa paghisalaag, papaulion.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kon sa kawalogan maglakaw ako,<br/>Bisan pa sa landong sa lubnganan ko;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ako ubanan Mo, wala koy kalisang,<br/>Molig-on kanako ang Imong sungkod,<br/>Molipay kanako sa kaguol ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Itugot Ginoo nga sundon ako,<br/>Sa Imong kaluoy, ug sa kaayo;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Hangtud nga makita ang Imong himaya,<br/>Sa tapos ang panaw ning kawalogan,<br/>Sa gingharian Mo modangat ako.</lines>
+    </verse>
+  </lyrics>
+</song>

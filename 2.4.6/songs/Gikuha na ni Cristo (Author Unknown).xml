@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Gikuha na ni Cristo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Gikuha na ni Cristo ang bug-at kong lulan<br/>Tubag sa akong hangyo, pag-ampo Kaniya</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Kahadlok ko gikuha, ako gilig-on Nya<br/>Ako adunay awit kay gipasaylo na</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ako'ng makasasala miduol na sa Dios,<br/>Ug sa ngalan ni Cristo nangayo'g pasaylo;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Siya mipatalinghog sa akong pag-ampo,<br/>Kay gikuha na Nya ang bug-at kong lulan.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ang dalan ko usahay puno sa kalisod,<br/>Nag-antos sa kaluya sa bug-at kong dala;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ug sa akong pagsangpit, 'O, Dios dugay pa ba?'<br/>Gikuha dayon niya ang bug-at kong dala</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Diha ang gilibutan ako sa kaguo;,<br/>Nawad-an sa paglaum king kinabuhi ko;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Unya nabati nako ang tingog ni Jesus<br/>"ikaw akong gipili, malipayon ka"</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Tanan akong itugyan diha lang kang Jesus,<br/>Kay Sya man ang nasayod sa kaugmaon ko;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ug didto sa himaya isaysay pa kini,<br/>Nga ang sala ko gikuha ni Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

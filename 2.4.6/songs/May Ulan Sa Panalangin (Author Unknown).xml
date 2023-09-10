@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>May Ulan Sa Panalangin</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ang panalangin,<br/>Gikinahanglan namo;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Dinhi karon O Ginoo,<br/>Panalangini kami.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>May ulan sa panalangin,<br/>Saad kini sa gugma;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>May takna sa kadagaya,<br/>Gikan sa Manluluwas.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>May ulan sa panalangin,<br/>Nagbisbis sa katamnan;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ang bukid ug kapatagan,<br/>Iyang gipaulanan.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>May ulan sa panalangin,<br/>Ipadala na O Dios;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ihatag ang kadagaya,<br/>Tumana ang saad Mo.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>May ulan sa panalangin,<br/>Unta karon moabut;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sa Dios kami nagasugid,<br/>Ug kang Jesus nagtawag.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>May ulan sa panalangin,<br/>Kon may pagsalig kita;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>May takna sa kadagaya,<br/>Kon ang Dios pagsundon ta.</lines>
+    </verse>
+  </lyrics>
+</song>

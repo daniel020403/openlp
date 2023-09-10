@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Sultihan Mo Ako, O Dios</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Sultihan Mo ako, O Dios,<br/>Aron magsulti 'sab ako;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ingon nga nagpangita Ka,<br/>Mangita ko sa nawala.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Lig-onon Mo ako, O Dios,<br/>Aron makatabang ako;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Niadtong nmga nalunod,<br/>Sa  dagku nga mga balud.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Tudloan Mo ako, O Dios,<br/>Aron magtudlo 'sab ako;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ug mosantop ang pulong Mo,<br/>Sa mga tawo nga nagsubo.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Gamiton Mo ako, O Dios,<br/>Bisan asa dad-a ako;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Hangtud makita ko Ikaw,<br/>Angkonon ko'ng himaya Mo.</lines>
+    </verse>
+  </lyrics>
+</song>

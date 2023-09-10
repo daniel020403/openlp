@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Luwas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Luwas, luwas,<br/>Tungod sa dugo ni Jesus;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Luwas, luwas,<br/>Giangkon kong Iyang anak.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Nalipay ako kay luwas na,<br/>Luwas sa dugo ni Jesus;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tungod sa daku N'yang  kaluoy,<br/>Giangkon kong Iyang anak.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Daku man ang akong kalipay,<br/>Tungod kay luwas na ako;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ug ako gayud nga nasayran,<br/>Kanunay Siyang nag-uban.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kanunay akong namalandong,<br/>Sa ako nga Manluluwas;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Mag-awit ako sa kalipay,<br/>Tungod sa dakung gugma N'ya.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ug unya S'ya akong makita,<br/>Diha sa Iyang katahum;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Siya magabantay kanako,<br/>Ug S'ya pagaawitan ko.</lines>
+    </verse>
+  </lyrics>
+</song>

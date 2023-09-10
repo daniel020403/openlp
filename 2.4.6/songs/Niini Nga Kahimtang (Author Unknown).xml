@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Niini Nga Kahimtang</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Niini nga kahimtang ko,<br/>Wa may arang mamahimo;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Imong dugo giula man Jesus,<br/>Cordero Ka sa Dios.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Niini nga kahimtang ko,<br/>Sa kasamok gilibutan,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kanimo ko magadangop Jesus,<br/>Cordero Ka sa Dios.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kanimo lamang hipalgan ko,<br/>Ang mga kinahanglan ko;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Busa pagabuhaton ko Jesus,<br/>Cordero Ka sa Dios.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ang Imo nga dakung gugma;<br/>Sa kaulangan nagkuha ;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Imoha na ako karon,Jesus,<br/>Cordero Ka sa Dios.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Pagadawaton Mo ako,<br/>Saad kini sa pulong Mo;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Ug 'nia na ako karon, Jesus,<br/>Cordero Ka sa Dios.</lines>
+    </verse>
+  </lyrics>
+</song>

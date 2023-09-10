@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Si Jesus Ang Bahandi Ko</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Si Jesus ang bahandi ko,<br/>Kalipay ug tanan,<br/>Mapukan ko kon wa Siya,<br/>Kay ako S'yang kusog;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kon magmasulob-on ako,<br/>Kaniya modangop ako,<br/>Sa kasubo 'naa Siya;<br/>Abyan ko.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Si Jesus ang bahandi ko,<br/>Higala ko Siya,<br/>Ang mga panalangin N'ya,<br/>Gihatag kanako,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Gipadala N'ya ang ulan,<br/>Bisan man ang alanihon,<br/>Adlaw'g ulan, alanihon;<br/>Abyan ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Si Jesus ang bahandi ko,<br/>Ginoo ko Siya,<br/>S'ya nagmatinud-anon man,<br/>Di ko S'ya ilimod;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kaniya mosunod ako,<br/>Ug Iya kong pagbantayan,<br/>Adlaw'ng tanan sundon ko S'ya;<br/>Abyan ko.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>The Unveiled Christ</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>N.B. Herrell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>O, behold the Man of sorrows!<br/>O, behold Him in plain view!<br/>Lo! He is the mighty conqu'ror</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Since He rent the veil in two.<br/>Lo! He is the mighty conqu'ror<br/>Since He rent the veil in two.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Once our blessed Christ of beauty<br/>Was veiled off from human view;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>But thro' suff'ring, death, and sorrow<br/>He has rent the veil in two.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Yes, He is with God, the Father,<br/>Interceding there for you;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>For He is the mighty conqu'ror<br/>Since He rent the veil in two.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Holy angels bow before Him,<br/>Men of earth give praises due;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>For He is the well beloved,<br/>Since He rent the veil in two.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Thro'out time and endless ages,<br/>Heights and depths of love so true,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>He alone can be the giver,<br/>Since He rent the veil in two.</lines>
+    </verse>
+  </lyrics>
+</song>

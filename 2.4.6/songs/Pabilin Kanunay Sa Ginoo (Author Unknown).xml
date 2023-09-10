@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Pabilin Kanunay Sa Ginoo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Pabilin kanunay sa Ginoo,<br/>Pabilin kanunay sa pagtoo;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Dili ko N'ya talikdan kay nagsaad S'ya,<br/>Di ko N'ya talikdan ug biyaan.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>May kalinaw'ng hingpit nia ning dughan ko,<br/>Kalinaw nga di mawala;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bisan pa ug libutan ko sa pagsulay,<br/>Magpabilin ang kalinaw N'ya.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Daw nag-ambahan ang yuta sa pag-awit,<br/>Sa kalinaw'ng naangkon ko;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Iya nga gikuha ang tanang kasubo,<br/>Sa kalinaw gialid-an N'ya.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Lumalabay kining akong kinabuhi,<br/>Ning yuta nga gipuy-an ko;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ug sa adlaw unya nga mobalik Siya,<br/>Sa himaya ako dad-on N'ya.</lines>
+    </verse>
+  </lyrics>
+</song>

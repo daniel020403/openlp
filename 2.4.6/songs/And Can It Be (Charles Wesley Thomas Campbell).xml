@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:52">
+  <properties>
+    <titles>
+      <title>And Can It Be</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Charles Wesley Thomas Campbell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Amazing love! How can it be<br/>That Thou, my God, shouldst die for me?</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>And can it be that I should gain<br/>An interest in the Savior's blood?</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Died He for me, who caused His pain?<br/>For me, who Him to death pursued?</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>He left His Father's throne above,<br/>So free, so infinite His grace;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Emptied Himself of all but love,<br/>And bled for Adam's helpless race.</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>'Tis mercy all, immense and free!<br/>For, O my God it found out me!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>No condemnation now I dread;<br/>Jesus, and all in Him, is mine!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Alive in Him my living Head,<br/>And clothed in righteousness divine,</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Bold I approach the eternal throne,<br/>And claim the crown, through Christ my own.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>'Tis mystery all! The Immortal dies!<br/>Who can explore His strange design?</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>In vain the first born seraph tries<br/>To sound the depths of love divine!</lines>
+    </verse>
+    <verse name="v4c">
+      <lines>'Tis mercy all! Let earth adore,<br/>Let angel minds inquire no more.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Long my imprisoned Spirit lay<br/>Fast bound in sin and nature's night;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Thine eye diffused a quickening ray,<br/>I woke, the dungeon flamed with light;</lines>
+    </verse>
+    <verse name="v5c">
+      <lines>My chains fell off, my heart was free;<br/>I rose, went forth and followed Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

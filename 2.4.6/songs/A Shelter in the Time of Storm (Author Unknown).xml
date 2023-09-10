@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:52">
+  <properties>
+    <titles>
+      <title>A Shelter in the Time of Storm</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Oh, Jesus is a Rock in a weary land,<br/>A weary land, A weary land;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Oh, Jesus is a Rock in a weary land<br/>A shelter in the time of storm.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>The Lord’s our Rock, in Him we hide,<br/>A shelter in the time of storm;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Secure whatever ill betide, <br/>A shelter in the time of storm.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>A shade by day, defense by night,<br/>A shelter in the time of storm;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>No fears alarm, no foes affright, <br/>A shelter in the time of storm.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>The raging storms may round us beat,<br/>A shelter in the time of storm;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>We’ll never leave our safe retreat, <br/>A shelter in the time of storm.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>O Rock divine, O Refuge dear,<br/>A shelter in the time of storm;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Be Thou our helper ever near.<br/>A shelter in the time of storm;</lines>
+    </verse>
+  </lyrics>
+</song>

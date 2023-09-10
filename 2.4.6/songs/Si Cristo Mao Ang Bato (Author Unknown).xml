@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Si Cristo Mao Ang Bato</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Si Cristo mao ang Bato,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Malig-ong baruganan ko,<br/>Maunlod ko kon wa Siya.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang hingpit nga paglaum ko,<br/>Anaa lamang kang Jesus;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Akong lawasnon nga kusog,<br/>Di magpulos kon wa Siya.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Bisan kangitngit moabot,<br/>Sa grasya N'ya mosalig ko;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Bisan ang bagyo mohuros,<br/>Sinipit ko di matarug.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ang saad ug ang Pulong N'ya,<br/>Sa bagyo salipdanan ko;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ug kon maluya king kalag,<br/>Mosangpit ko Kaniya lang.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ug kon mobalik na Siya,<br/>Andam ako sa pag-uban;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Kay ang katarung ni Jesus,<br/>Ako karong nabatonan.</lines>
+    </verse>
+  </lyrics>
+</song>

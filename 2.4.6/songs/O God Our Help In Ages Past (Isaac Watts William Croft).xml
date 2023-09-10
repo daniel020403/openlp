@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>O God Our Help In Ages Past</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 v2 v3 v1 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Isaac Watts William Croft</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O God, our Help in ages past,<br/>Our Hope for years to come,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Our Shelter from the stormy blast,<br/>And our eternal Home!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Under the shadow of Thy throne<br/>Still may we dwell secure;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sufficient is Thine arm alone,<br/>And our defense is sure.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Before the hills in order stood,<br/>Or earth received her frame,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>From everlasting Thou art God,<br/>To endless years the same.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Be Thou my Guide while life shall last,<br/>And our eternal Home.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>A thousand ages in Thy sight,<br/>Are like and evening gone;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Short as the watch that ends the night,<br/>Before the rising sun.</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>Time like an ever rolling stream,<br/>Bears all its sons away;</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>They fly, forgotten, as a dream<br/>Die at the op'ning day.</lines>
+    </verse>
+  </lyrics>
+</song>

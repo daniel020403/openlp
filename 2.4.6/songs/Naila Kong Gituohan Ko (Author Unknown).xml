@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+  <properties>
+    <titles>
+      <title>Naila Kong Gituohan Ko</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Naila kong gituohan ko,<br/>Ako nasayod nga S'ya gamhanan;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Magbantay Siya kanako,<br/>Hangtud nga mobalik S'ya.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Wala ako masayod sa hingpit,<br/>Ngano nga gilukat ako;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ni Jesus sa daku nga gugma N'ya,<br/>Nga dautan man unta ko.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Wala ako masayod sa hingpit,<br/>Sa buhat sa Espiritu;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Nga nagabadlong sa sala sa tawo,<br/>Ug kang Jesus nagpaila.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Wala ako masayod sa hingpit,<br/>Unsa ang kaugmaon ko;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kon mga adlaw gidag-uman ba,<br/>Kon masanag bang dalan ko.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Wala ako masayod sa hingpit,<br/>Kanus-a ang pagbalik N'ya,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sa kahitas-an kon sa yuta man,<br/>Magkasugatay ba kami.</lines>
+    </verse>
+  </lyrics>
+</song>

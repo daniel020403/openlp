@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>O For A Thousand Tongues To Sing</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Carl G. Glaser Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O for a thousand tongues to sing<br/>My great Redeemer's praise,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>The glories of my God and King,<br/>The triumphs of His grace!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>My gracious Master and my God,<br/>Assist me to proclaim,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>To spread through all the earth abroad,<br/>The honors of Thy name.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Jesus! The name that charms our fears,<br/>That bids our sorrows cease;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>'Tis music in the sinner's ears;<br/>'Tis life, and health, and peace.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>He breaks the power of canceled sin;<br/>He sets the prisoner free.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>His blood can make the foulest clean;<br/>His blood availed for me.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Hear Him, ye deaf, His praise, ye dumb,<br/>Your loosened tongues employ.</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Ye blind, behold your Savior come,<br/>And leap ye lame for joy.</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>Glory to God and praise and love<br/>Be ever, ever giv'n</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>By saints below and saints above<br/>The church in earth and heav'n.</lines>
+    </verse>
+  </lyrics>
+</song>

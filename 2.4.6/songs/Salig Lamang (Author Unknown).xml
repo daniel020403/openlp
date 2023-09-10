@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+  <properties>
+    <titles>
+      <title>Salig Lamang</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Salig lamang, Salig lamang,<br/>Salig kang Jesus;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Moluwas Siya kanimo,<br/>Moluwas karon.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Duol ka nga gibug-atan,<br/>Tungod man sa sala;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hatagan ka sa pahulay,<br/>Salig sa Pulong N'ya.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Si Jesus nagaula na,<br/>Sa mahal N'yang dugo;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kaniya duol na karon,<br/>Ug mahinloan ka.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Si Cristo lang maoy dalan,<br/>Ngadto sa himaya;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Saligi na Siya karon,<br/>Ug mabulahan ka.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Kinabuhi N'ya gitugyan,<br/>S'ya nagpakamatay;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Tanang mitoo hatagan,<br/>Kinabuhing dayon.</lines>
+    </verse>
+  </lyrics>
+</song>
