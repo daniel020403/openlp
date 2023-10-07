@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>t</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v17 v18 v5 v6 v7 v8 v9 v10 v11 v12 v19 v20 v21 v22 v23 v24 v25 v5 v6 v7 v8 v9 v10 v26 v12 v26 v12</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You Were There<br/>I<br/> looked around one day as my life fell apart</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Would anyone help me to find my way?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I knew I needed you, Lord, to heal my wounded heart</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I needed you while others turned away!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You were there when I was weary</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You were there when I was strong</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You were there when I had burdens</lines>
+    </verse>
+    <verse name="v8">
+      <lines>That last the whole night long,</lines>
+    </verse>
+    <verse name="v9">
+      <lines>You were there in the midnight</lines>
+    </verse>
+    <verse name="v10">
+      <lines>To show me that you cared.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Everytime I’d thought I’d fall,</lines>
+    </verse>
+    <verse name="v12">
+      <lines>You were there!</lines>
+    </verse>
+    <verse name="v13">
+      <lines>At times I was so low</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Not wanting to go on</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Not knowing that Your presence was so near.</lines>
+    </verse>
+    <verse name="v16">
+      <lines>But then I’d feel Your touch</lines>
+    </verse>
+    <verse name="v17">
+      <lines>And hear You gentle voice</lines>
+    </verse>
+    <verse name="v18">
+      <lines>Whisp’ring there’s no need for you to fear.</lines>
+    </verse>
+    <verse name="v19">
+      <lines>You were there when I lost,</lines>
+    </verse>
+    <verse name="v20">
+      <lines>Loved ones dear to me</lines>
+    </verse>
+    <verse name="v21">
+      <lines>And You helped me to survive</lines>
+    </verse>
+    <verse name="v22">
+      <lines>Upon life’s raging sea.</lines>
+    </verse>
+    <verse name="v23">
+      <lines>Lord, I need You for my trials</lines>
+    </verse>
+    <verse name="v24">
+      <lines>I cannot face alone</lines>
+    </verse>
+    <verse name="v25">
+      <lines>I still need You when I take my journey home</lines>
+    </verse>
+    <verse name="v26">
+      <lines>Every time I’d thought I’d fall,</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Sa Iya Nga Bandila</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Magpadayon kita!<br/>Kang Cristo 'na ang pagdaug;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Magahago ta, mag-awit,<br/>Sa Iya nga bandila.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Alang sa kasundalohan ni Jesus,<br/>May bandilang gihatag;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ipakayab ta sa itaas kini,<br/>Samtang magaawit ta.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Bisan daghan ang mga kaaway ta,<br/>Bandila ipataas;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ug kitang sundalo Niya ni Jesus,<br/>Sa kaisog moasdang.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ato nga adtoon ang mga dapit,<br/>Ug saysayan ta sila;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Isugilon ang grasyang makaluwas,<br/>Samtang nagaawhag S'ya.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Mga adlaw nagakahaduol na,<br/>Nga mobalik si Jesus;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ug laglagon Niya ang kaaway ta,<br/>Magahari na siya.</lines>
+    </verse>
+  </lyrics>
+</song>

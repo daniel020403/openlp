@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Ihatag Mo Sa Ginoo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ihatag mo sa Ginoo ang linghod mo nga kusog,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Isul-ob ang kaluwasan, labani ang matuod.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ihatag mo sa Ginoo ang linghod mo nga kusog,<br/>Ang madasigong kalag mo ilaban sa matuod;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Si Cristo maoy sulondon, nagmaisugon Siya;<br/>Imo Siyang alagaron, labing mahal ihatag.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ihatag mo sa Ginoo ang imong unang dapit,<br/>Wa nay laing ikabalos sa gugmang nagatubos;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Hatag ug ikaw hatagan, Dios naghatag sa Anak,<br/>Ibalos ang pag-alagad, labing mahal ihatag.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ihatag mo sa Ginoo ang imo g'yud nga tanan,<br/>Ang kasing-kasing nga putli ang tumbas sa gugma N'ya,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Gihatag ang gugma Niya kanimo sa paglukat,<br/>Himaya Iyang gib'yaan aron lang maluwas ka.</lines>
+    </verse>
+  </lyrics>
+</song>

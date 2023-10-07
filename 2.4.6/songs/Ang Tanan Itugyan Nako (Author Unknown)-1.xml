@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Ang Tanan Itugyan Nako</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ginatugyan ko,<br/>Ako nga tanan;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Ang tanan, O Manluluwas<br/>Ginatugyan ko.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang tanan itugyan nako,<br/>Kang Jesus ihatag ko;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Higugmaon ug saligan,<br/>Adlaw-adlaw sudon ko.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ang tanan itugyan nako,<br/>Sa tiilan ni Jesus;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kahilayan gitalikdan,<br/>Ug Siya pagsundon ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ang tanan itugyan nako,<br/>O Jesus, Imoha ko;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Sa Espiritu mandoan,<br/>Ang tanan nga lakang ko.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ang tanan itugyan nako,<br/>O ania na ako;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Pun-on Mo ako sa gugma,<br/>Ug sa panalangin Mo</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Pag-Awiton Kong Kalag</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Pag-awiton kong kaagi <br/>Ni Jesus nga nagtubos;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Duyog sa tanang balaan,<br/>Didto sa himaya Niya.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Pagaawiton kong kaagi,<br/>Ni Jesus nga nagtubos;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Gitalikdan N'yang himaya,<br/>Sa hinungdan man sa krus.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kanhi ko nahisalaag,<br/>Ug hingkit-an ni Jesus;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Gigakosug gipabalik,<br/>Sa matul-id dalan N'ya.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ang kangitngit moabut man,<br/>Masabog ang kaguol;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Dili g'yud ako mhadlok,<br/>Kay anaa si Jesus.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Nagabantay S'ya kanako,<br/>Paglabang ko sa sulog;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ug unya ako mosugat,<br/> Sa tanan nga minahal.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Old-Time Power</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Spirit, now melt and move<br/>All of our heart with love,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Breath on us from above <br/>With old-time pow’r</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>We are gathered for Thy blessing, <br/>We will wait upon our God:<br/>We will trust in Him who loved us,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And who bought us <br/>with His blood.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We will glory in Thy power,<br/>We will sing of wondrous grace;<br/>In our midst,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>as Thou hast promised,<br/>Come, O come, <br/>and take Thy place.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Bring us low in prayer before Thee, <br/>And with faith our souls inspire,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Till we claim, by faith, <br/>the promise <br/>Of the Holy Ghost and fire.</lines>
+    </verse>
+  </lyrics>
+</song>

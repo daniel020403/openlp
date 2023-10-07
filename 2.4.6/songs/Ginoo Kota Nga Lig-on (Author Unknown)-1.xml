@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Ginoo Kota Nga Lig-on</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ginoo Kota nga lig-on,<br/>Ang salipdanan ta Siya;<br/>Sa Kaguol, sa kasakit,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Iya kita pagtabangan.<br/>Kay ang kaaway ta,<br/>Nangita'g paagi nga mapukan kita,<br/>Maligutgoton S'ya,<br/>Sa yuta way makasama.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kon ang kusog ta saligan,<br/>Ang panlimbasug kawang lang;<br/>Gawas kon S'ya dapigan ta,<br/>Kita mapildi man gayud.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kinsa kini kaha?<br/>Si Jesu-Cristo S'ya,<br/>Gamhanan sa tanan,<br/>Ug dili mabalhin, Sa gubat modaug Siya.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kong daghang mga panulay,<br/>Dili magahadlok ta;<br/>Kita mangisug kay ang Dios,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Nagsaad nga S'ya modaug.<br/>Ang yawa nagdumot, Di magkahadlok ta;<br/>Ug pagasuklan s'ya,<br/>Sigurong mapukan, Kon Pulong sa Dios saligan.</lines>
+    </verse>
+  </lyrics>
+</song>

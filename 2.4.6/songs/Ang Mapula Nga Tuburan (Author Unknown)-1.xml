@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Ang Mapula Nga Tuburan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ang mapula nga tuburan,<br/>Nakita kong makahinlo;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Misalig ko, daygon ang Dios,<br/>Ug nahinloan man ako.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang mapula nga tuburan,<br/>Nga akong nakita;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sa samdong kilid ni Jesus,<br/>Gamhanang moluwas.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Dugo N'ya ang nakita ko,<br/>Kanako nagluwas;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ang modangop mahinloan,<br/>Niining tuburan.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>May hayag ang pagpanaw ko,<br/>Ning yutang madulom;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang Hari ko nga sa Jesus,<br/>Ania ning dughan.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Katingalahang grasya N'ya,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Nagluwas kanako;<br/>Si Cristo lang nailhan ko,<br/>Nga gilansang sa krus.</lines>
+    </verse>
+  </lyrics>
+</song>

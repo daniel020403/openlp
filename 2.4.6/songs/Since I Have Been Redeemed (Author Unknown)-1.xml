@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>Since I Have Been Redeemed</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Since I have been redeemed, <br/>Since I have been redeemed,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I will glory in His name; <br/>Since I have been redeemed,<br/>I will glory in my Saviour’s name.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I have a song I love to sing, <br/>Since I have been redeemed,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Of my Redeemer, Saviour, King, <br/>Since I have been redeemed.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I have a Christ that satisfies,<br/>Since I have been redeemed.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>To do His will my highest prize,<br/>Since I have been redeemed.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I have a witness bright <br/>  and clear,<br/>Since I have been redeemed.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Dispelling every doubt <br/>  and fear,<br/>Since I have been redeemed.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>I have a home prepared <br/>  for me,<br/>Since I have been redeemed.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Where I shall dwell eternally,<br/>Since I have been redeemed.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>O Dios, Ang Magtatabang Ka</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O Dios, ang magtatabang Ka,<br/>Gihapon ug karon;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sa bagyo ang dalangpan Ka,<br/>Ug dayong pahulay.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sa landong man sa trono Mo,<br/>Salipdan Mo kami;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ang Imong lig-on nga gahum,<br/>Kanamo nagsagop.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Sa walay kabungturan pa,<br/>Ug kayutaan man;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kanhi Ikaw, Diosnang daan,<br/>Way pagkabalhin Ka.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ang panahon daw sa sapa,<br/>Nagaanud sa tawo;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Daw damgo mangahanaw lang,<br/>Sa kabuntagon man.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>O Dios, ang magtatabang Ka,<br/>Paglaum sa tanan;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Sa dayong puloy-anan Mo,<br/>Mandoi na kami. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>You can pray</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>You say, "I'm not able, that I'm too young or I'm too old."</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>That, "I can't sing or teach and no title do I hold"</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Lord, what can I do? <br/>for I want to do my part</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>and I want to help the hurting with all of my heart.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines/>
+    </verse>
+    <verse name="c1b">
+      <lines>Until there's healing all around, that's something I can do.</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>I can pray,</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>In my secret place,</lines>
+    </verse>
+    <verse name="c1e">
+      <lines>Calling on God's name,</lines>
+    </verse>
+    <verse name="c1f">
+      <lines>That's something I can do,</lines>
+    </verse>
+    <verse name="c1g">
+      <lines>I can pray</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>You'd say. "My family has no interest,"</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>"My child has gone so far,</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Though I try my best to reach them,</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Their hearts just seem so hard."</lines>
+    </verse>
+    <verse name="v2e">
+      <lines>"Lord, what can I do, to help bring them back to You?"</lines>
+    </verse>
+    <verse name="v2f">
+      <lines>"My family's lost and dying and my words don't get through."</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>And you can pray until the walls come down</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Until there's healing all around, that's something You can do.</lines>
+    </verse>
+    <verse name="c2c">
+      <lines>You can pray,</lines>
+    </verse>
+    <verse name="c2d">
+      <lines>In your secret place,</lines>
+    </verse>
+    <verse name="c2e">
+      <lines>That's something you can do.</lines>
+    </verse>
+    <verse name="c2f">
+      <lines>You can pray,<br/>Yes,</lines>
+    </verse>
+    <verse name="c2g">
+      <lines>We all can pray!</lines>
+    </verse>
+  </lyrics>
+</song>

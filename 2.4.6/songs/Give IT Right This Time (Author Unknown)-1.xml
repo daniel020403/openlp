@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Give IT Right This Time</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v3 v4 v5 v3 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give all your best<br/>God is expecting<br/>Don't waste your chance to be blessed by Him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Today is our chance<br/>There's no repeating<br/>We can't recapture the wasted years</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So give it right this time<br/>Honor God through our offering<br/>Don't make Him sad this time<br/>It's our loss not His</lines>
+    </verse>
+    <verse name="v4">
+      <lines>His Words are true<br/>Believe them in faith<br/>Blessings He promises<br/>To them who obey</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He's given His all<br/>What then have we given<br/>It's not  time to waiver<br/>No time to delay</lines>
+    </verse>
+    <verse name="v6">
+      <lines>So give it right this time<br/>Honor God through our offering<br/>Don't make Him sad this time<br/>It's our loss not His<br/>So give it right this time,<br/>this time.</lines>
+    </verse>
+  </lyrics>
+</song>

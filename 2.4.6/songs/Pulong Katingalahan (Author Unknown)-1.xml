@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Pulong Katingalahan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Pagkatahum! Pulong sa Dios!<br/>Pulong sa Kinabuhi;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Pagkatahum! Pulong sa Dios!<br/>Pulong sa Kinabuhi.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang pag-awit sublion ta,<br/>Pulong katingalahan;<br/>Palandungon ang katahum,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Pulong sa kinabuhi.<br/>Matahum man nga Pulong,<br/>Sa pagtoo nagtudlo,</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Si Jesus nagahatag na,<br/>Pulong katingalahan;<br/>Pamation S'yang nagtawag,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Pulong sa kinabuhi.<br/>Ang tanan gina-awhag,<br/>Alang sa kaluwasan.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ang Balita isangyaw na,<br/>Pulong katingalahan;<br/>Pasayloong nakasala,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Pulong sa kinabuhi.<br/>Bugtong nga Manluluwas,<br/>Sagupa sa gihapon.</lines>
+    </verse>
+  </lyrics>
+</song>

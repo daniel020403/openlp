@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>We'll understand it better1</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>By and by when the morning comes, <br/>When the saints of God <br/>are gathered home,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>We’ll tell the story <br/>how we've overcome;<br/>For we'll understand it better <br/>by and by.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>We are often tossed and driv’n <br/>on the restless sea of time, <br/>Sombre skies and howling tempests oft succeed a bright sunshine,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>In that land of perfect day, <br/>when the mists have rolled away,<br/>We will understand it better <br/>by and by.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We are often destitute <br/>of the things that life demands,<br/>Want of food and want of shelter <br/>thirsty hills and barren lands,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>We are trusting in the Lord, and according to His word,<br/>We will understand it better <br/>by and by.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Trials dark on ev’ry hand, <br/>and we cannot understand,<br/>All the ways that God would lead us to that blessed Promised Land;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>But He guides us with His eye <br/>and we’ll follow till we die,<br/>For we’ll understand it better <br/>by and by.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Temptations, hidden snares often take us unaware, <br/>And our hearts are made to bleed for many a thoughtless <br/>word or deed,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>And we wonder why the test when we try to do our best,  <br/>But we’ll understand it better <br/>by and by.</lines>
+    </verse>
+  </lyrics>
+</song>

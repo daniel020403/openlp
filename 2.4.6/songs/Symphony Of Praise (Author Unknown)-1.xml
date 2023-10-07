@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>Symphony Of Praise</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>The composer and conductor of the universe,\<br/>steps before the orchestra of God</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Creation lifts their finely crafted instruments<br/>as all in heaven wildly applaud</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>The season well rehearsed begin with His down beat<br/>and on His cue the sun trumpets the dawn</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>The whirling winds swell in a mighty crescendo<br/>with each commanding sweep of His batton</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>The oceans pound the shore in march to His cadence<br/>the galaxies all revolve in cosmic rhyme</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>The fall of raindrops all in wild syncopation<br/>as lightning strikes and thunder claps in time</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>The symphony of praise conducted by the ancient of days<br/>May each creation great or small lift their <br/>voices one and all in the symphony of praise</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Heaven waits in hushed anticipation<br/>the great I AM then turns to mortal men<br/>A massive chorus robed in spotless garments</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>offers up their song of praise to Him<br/>The glories of God explode in full orchestration<br/>as all creation joins the thundrous refrain</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Worthy, Worthy, Worthy is the Lamb that was slain</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>The symphony of praise glory to the Ancient of Days<br/>May each creation great or small lift their voices one and all<br/>in the symphony of praise</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Worthy, Worthy, Worthy is the Lamb that was slain<br/>Worthy, Worthy, Worthy is the Lamb</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>May each creation great or small lift their voices one and all<br/>in the symphony of praise<br/>OF PRAISE!</lines>
+    </verse>
+  </lyrics>
+</song>

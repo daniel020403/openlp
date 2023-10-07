@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>O Gugmang Nagpugong Kanako</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O gugmang nagpugong kanako,<br/>Nagasalig ako Kanimo;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang kinabuhi ko itugyan,<br/>Ug sa Imo nga pagkupot<br/>Kanunay'ng motubo.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>O lamdag sa tanan nga dalan,<br/>Kining sulo nako dawata;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Silaw'ng hinulaman iuli,<br/>Kahayag Mong nagbanaag,<br/>Kanako nagdan-ag.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kalipay bisan sa kasakit,<br/>Kanunay nako nga nangita;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang bangaw sa ulan malantaw,<br/>Matuod man ang saad Mo,<br/>Wa na unyay luha.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Jesus Imo akong gilipay,<br/>Ug dili ko Ikaw talikdan;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Kong unya ila kong tabunan;<br/>Sa yuta g'yud mobuklad man<br/>Ang pagkabanhaw ko. AMEN.</lines>
+    </verse>
+  </lyrics>
+</song>

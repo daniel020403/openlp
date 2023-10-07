@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>No Not One</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Jesus knows all about <br/>our struggles, <br/>He will guide till the day is done;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>There’s not a friend <br/>like the  lowly Jesus,<br/>No not one! No, not one!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>There’s not a friend <br/>like the lowly Jesus,<br/>No, not one! No, not one!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>None else could heal <br/>all our soul’s diseases,<br/>No, not one! No, not one!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>No friend like Him <br/>is so high and holy,<br/>No, not one! No, not one!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And yet no friend <br/>is so meek and lowly,<br/>No, not one! No, not one!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>There’s not an hour <br/>that He is not near us,<br/>No, not one! No, not one!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>No night so dark but <br/>His love can cheer us,<br/>No, not one! No, not one!</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Did ever saint find <br/>this Friend forsake him?<br/>No, not one! No, not one!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Or sinner find that <br/>He would not take him?<br/>No, not one! No, not one!</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Was e’er a gift like <br/>the Savior given?<br/>No, not one! No, not one!</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Will He refuse us <br/>a home in heaven?<br/>No, not one! No, not one!</lines>
+    </verse>
+  </lyrics>
+</song>

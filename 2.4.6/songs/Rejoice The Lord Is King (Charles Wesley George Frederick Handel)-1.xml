@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Rejoice The Lord Is King</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Charles Wesley George Frederick Handel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Lift up your heart, lift up your voice;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Rejoice; again I say, rejoice.</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>We soon shall hear the archangel's voice;</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>The trump of God shall sound, rejoice!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Rejoice, the Lord is King!<br/>Your Lord and King adore;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mortals, give thanks and sing,<br/>And triumph evermore.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Jesus the Savior reigns,<br/>The God of truth and love;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>When He had purged our stains,<br/>He took His seat above.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>His kingdom cannot fail;<br/>He rules o'er earth and heaven;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>The keys of earth and hell<br/>Are to our Jesus given.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Rejoice in glorious hope!<br/>Jesus the Judge shall come</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>And take His servants up<br/>To their eternal home.</lines>
+    </verse>
+  </lyrics>
+</song>

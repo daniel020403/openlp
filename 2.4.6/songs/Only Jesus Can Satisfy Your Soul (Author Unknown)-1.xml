@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Only Jesus Can Satisfy Your Soul</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>The world will try to satisfy that longing in your soul.<br/>You may search the wide world o'er but you'll be just as before</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>You'll  never find true satisfaction until you've found the Lord<br/>For only Jesus can satisfy your soul.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Only Jesus can satisfy your soul<br/>And only He can change your heart<br/>and make you whole</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>He'll give you peace you never knew<br/>sweet love and joy and heaven too;<br/>For only Jesus can satisfy your soul</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>If you could have the fame and fortune <br/>All the wealth you could obtain <br/>Yet you have not Christ within, your livng here would be in vain</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>There'll come a time when death shall call you;<br/>Riches cannot help you then<br/>So come to Jesus for only He can satisfy</lines>
+    </verse>
+  </lyrics>
+</song>

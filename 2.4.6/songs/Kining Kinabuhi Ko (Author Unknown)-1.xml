@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Kining Kinabuhi Ko</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kining kinabuhi ko,<br/>O Jesus, ihalad ko;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang kamot ko palihoka,<br/>Inagak sa gugma Mo,<br/>Inagak sa gugma Mo,</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ang tiil ko Imo man,<br/>Pagtuman sa sugo Mo;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ug ang tingog ko mag-awit,<br/>Alang ra sa Hari ko.<br/>Alang ra sa Hari ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Unta nga ang pulong ko,<br/>Sa Balita maglitok;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang sapi nako dawata,<br/>Way diyot hawiran ko,<br/>Way diyot hawiran ko.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Gugma ko dawaton Mo,<br/>Ang tanan gihalad ko;<br/>Kasingkasing ko himoa,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Harianong trono Mo,<br/>Harianong trono Mo.</lines>
+    </verse>
+  </lyrics>
+</song>

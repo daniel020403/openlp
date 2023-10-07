@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Dili Bulawan  Ni Salapi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Di' salapi bisan bulawan,Nga kanako nagluwas;<br/>Akong sala gikuha Niya,<br/>Ni Jesus Didto sa krus.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Di' bulawan ni salapi makaluwas,<br/>Sa ako nga nahinukman nga kalag;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dugo lang ni Cristo Maoy kasaligan<br/>Tungod kay naghinlo sa akong sala.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Di' bulawan ni salapi makaluwas,<br/>Sa makasasala nako nga kalag;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Dugo lang ni Cristo maoy kasaligan,<br/>Kay S'ya lang ang bayad sa akong sala.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Di' bulawan ni salapi makaluwas,<br/>Di makapasaylo ang Kasugoan;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Dugo lang Ni Cristo maoy kasaligan,<br/>Kahadlok gikuha sa Ginoo ko.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Di bulawan ni salapi makaluwas,<br/>Ang dalan sa langit dili mapalit;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Dugo lang ni Cristo maoy kasaligan,<br/>Ako gilukat sa Manunubos ko.</lines>
+    </verse>
+  </lyrics>
+</song>

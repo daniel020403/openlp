@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Honey In The Rock</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Oh, there’s Honey in the Rock, <br/>my brother,…. <br/>There’s Honey in the Rock <br/>for you;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Leave your sins for the blood <br/>to cover, <br/>There’s Honey in the Rock for you.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>O my brother, <br/>do you know the Savior,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Who is wondrous kind and true?<br/>He’s the “Rock of your salvation!”<br/>There’s Honey in the Rock for you.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Have you “tasted <br/>that the Lord is gracious?”<br/>Do you walk in the way <br/>that’s new?</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Have you drunk <br/>from the living fountain?<br/>There’s Honey in the Rock for you.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Do you pray unto God the Father,<br/>“What wilt Thou have me to do?”</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Never fear, He will surely answer,<br/>There’s Honey in the Rock for you.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Then go out thro’ <br/>the streets and by ways,<br/>Preach the word <br/>to the many or few;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Say to every fallen brother ,<br/>There’s Honey in the Rock for you.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Daygon Ta Ang Manluluwas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Day'gon ta ang Manluluwas,<br/>Sa gibuhat N'ya kanato;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang tanan ihalad Niya,<br/>Sa kalipay man.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ang kalipay ta si Jesus,<br/>Kay nagsangkap S'ya kanato;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Wa kanatoy makapukan,<br/>Kon saligan Siya.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>S'ya saligan ta sa dayon,<br/>Di gayud S'ya mabalhin;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Way makabulag kanato,<br/>Sa Iyang gugma.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Bantayi kami GInoo,<br/>Among pagtoo lig-ona;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Hangtud nga kami modangat,<br/>Sa himaya Mo.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Ug makita unya nato,<br/>Ang langitnong gipangandoy;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Ang timawa ta'ng kahimtang,<br/>Himayaon N'ya. AMEN.</lines>
+    </verse>
+  </lyrics>
+</song>

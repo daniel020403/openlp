@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Ang Atong Dios Makagagahum</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ang atong Dios makagagahum,<br/>Nagbuhat sa makita ta!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang mga dios-dios sa katawhan,<br/>Sa Iyang tingog mapukan.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Gilugtas N'yang mga gapus,<br/>Ang nangawala giluwas.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ang kuta sa pagduhaduha,<br/>Buntogon man sa Pulong N'ya;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Mga maisog nga kaaway,<br/>Kaniya magtugyan sila.</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Ang makahinlo nga dugo,<br/>Anaa lamang kang Jesus.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Iyang katawhan nagpadulong,<br/>Sa ganghaan nga langitnon;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Uban ang singgit, panag-awit,<br/>Ang Hari gibayaw nila.</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Ug makaangkon pang uban,<br/>Sa gugma'g kadaugan N'ya.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Pagdaygon Ka, akong Ginoo,<br/>Kong madunggan ang tingog Mo;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>"Tan-awa! Anaang Ginoo,"<br/>"Magkuha sa pinili N'ya."</lines>
+    </verse>
+    <verse name="v4c">
+      <lines>O adlaw man sa pagmaya,<br/>Kay gipaabot ko Ikaw.</lines>
+    </verse>
+  </lyrics>
+</song>

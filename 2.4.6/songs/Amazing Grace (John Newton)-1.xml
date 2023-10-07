@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Amazing Grace</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>John Newton</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Amazing grace how sweet the sound,<br/>That saved a wretch like me;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I once was lost, but now am found<br/>Was blind, but now I see.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>T'was grace that taught my heart to fear,<br/>And grace my fears relieved;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>How precious did that grace appear<br/>The hour I first believed.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Through many dangers, toil and snares,<br/>I have already come;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>'Tis grace has brought me safe thus far,<br/>And grace will lead me home.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>When we've been there ten thousand years<br/>Bright shining as the sun,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>We've no less days to sing God's praise<br/>Than when we've first begun.</lines>
+    </verse>
+  </lyrics>
+</song>

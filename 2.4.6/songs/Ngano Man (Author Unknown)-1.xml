@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Ngano Man</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ngano man, ngano man<br/>Nga dili ka moduol?</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Ngano man, ngano man,<br/>Nga dili ka moduol?</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang Ginoo nagpaabut,<br/>Nga ikaw mahibalik</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kinahanglan nga ikaw,<br/>Magaduol kang Jesus.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ayaw na paglangan-langan,<br/>Sa pagduol kang Jesus;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ug dawata'ng grasya Niya,<br/>Samtang gikatanyag pa.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Dinhi dili mo hipalgan,<br/>Ang kalinaw sa kalag;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kang Jesus sumalig lamang,<br/>Imo ang kalinaw N'ya.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Duol n kang Jesu-Cristo,<br/>Ang sala isugid mo;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Adlaw-adlaw S'ya saligi,<br/>Ug ikaw bantayan N'ya.</lines>
+    </verse>
+  </lyrics>
+</song>

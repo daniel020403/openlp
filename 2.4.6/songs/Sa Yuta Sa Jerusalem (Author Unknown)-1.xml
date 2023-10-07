@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>Sa Yuta Sa Jerusalem</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Pagkamahigugmaon N'ya,<br/>Higugmaon ta S'ya;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Saligan ang Iyang dugo,<br/>Ug pagasundon S'ya.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Sa yuta sa Jerusalem<br/>May bukid sa gawas;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Diin gilansang si Jesus,<br/>Pagluwas sa tanan.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Dili matugkad ang tanan,<br/>Nga kasakitan N'ya;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Tungod sa kasal-anan ta,<br/>Nag-antus S'ya sa krus.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ang kapasayloan ta,<br/>Anaa lang Niya;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Giula Niya ang dugo,<br/>Aron maluwas ta.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Way lain nga makalukat,<br/>Kanato sa sala;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sa langit S'ya nagabukas,<br/>Aron pasudlon ta.</lines>
+    </verse>
+  </lyrics>
+</song>

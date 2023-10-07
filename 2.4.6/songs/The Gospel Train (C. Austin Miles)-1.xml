@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>The Gospel Train</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>C. Austin Miles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Oh I'm trav'ling on the hallelujah line,<br/>On the good old gospel train.<br/>I am on the right track,<br/>And never will go back</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>To the station of sin again.<br/>I am trav'ling on the hallelujah line,<br/>On the good old gospel train.<br/>I need no fare, I'm riding on a pass,<br/>'Tis the blood for sinners slain.</lines>
+    </verse>
+  </lyrics>
+</song>

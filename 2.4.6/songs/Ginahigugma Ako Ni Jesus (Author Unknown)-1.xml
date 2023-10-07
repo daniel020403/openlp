@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Ginahigugma Ako Ni Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ginahigugma ako ni Jesus,<br/>Ginahigugma ako sa Ginoo.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Si Jesus nasayran ko,<br/>Nahigugma kanako;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang mga kabataan,<br/>Iya nga gibantayan.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Namatay S'ya si Jesus,<br/>Pagbukas man sa langit;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kasalanan kong tanan,<br/>Iya nga gibantayan.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Gihigugma ko Niya,<br/>Bisan kon maluya ko;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang langitnong grasya N'ya,<br/>Giandam sa kanunay.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Gihigugma ko Niya,<br/>Ni Jesus sa  kanunay,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ug sa kamatayon ko,<br/>Dad-on ko N'ya sa langit.</lines>
+    </verse>
+  </lyrics>
+</song>

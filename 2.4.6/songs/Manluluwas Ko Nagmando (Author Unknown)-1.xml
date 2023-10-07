@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Manluluwas Ko Nagmando</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Manluluwas ko nagmando,<br/>Unsa pay hangyoon ko?<br/>Ako bang duha-duhaan,<br/>Ang pagtultol nga dayon?<br/>Ang langitnong pakigdait,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ginahuptan ko karon;<br/>Kay hingsayran ko sa hingpit,<br/>Nga matarung si Jesus.<br/>Kay hingsayran ko sa hingpit,<br/>Nga matarung si Jesus.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Manluluwas ko nagmando,<br/>Malipayong dalan ko;<br/>Grasya man gihatag Niya,<br/>Ug kalan-on sa kalag.<br/>Bisan lawas ko maluya,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ug uhawon king kalag;<br/>May Bato ko nga nakita,<br/>Sa kalipay nagtubod.<br/>May Bato ko nga nakita,<br/>Sa kalipay nagtubod.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Manluluwas ko nagmando,<br/>Iyang grasya hingpit man;<br/>Iyang gisaad kanako,<br/>Puloy-anang matahum.<br/>Kong mopanaw ko sa langit,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ngadto sa himaya N'ya;<br/>Ug kanunay kong awiton,<br/>Ang pagmando ni Jesus.<br/>Ug kanunay kong awiton,<br/>Ang pagmando ni Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Santo! Santo! Santo!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Santo! Santo! Santo!<br/>Dios nga gamhanan!<br/>Maga-wit ang tanan sa kabuntagon pa,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Santo! Santo! Santo!<br/>Dios nga maluloy-on,<br/>Gamhanang Dios, Balaang Trinidad.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Santo! Santo! Santo!<br/>Dios silimbahon!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sa mga balaan ginasimba man Ikaw.<br/>Mga manulonda nagyukbo Kanimo,<br/>Dios way sinugdan ug utlanan man.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Santo! Santo! Santo!<br/>Sa himaya Nimo,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang makasasala dili man makakita.<br/>Way laing balaan nga ingon Kanimo,<br/>Hingpit, maputli, ug may gugma Ka.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Santo! Santo! Santo!<br/>Dios nga gamhanan!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Nagadayeg ang tanang mga binuhat Mo.<br/>Santo! Santo! Santo!<br/>Dios nga maluloy-on,<br/>Gamhanang Dios, Balaang Trinidad</lines>
+    </verse>
+  </lyrics>
+</song>

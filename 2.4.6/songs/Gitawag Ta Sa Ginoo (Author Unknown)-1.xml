@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Gitawag Ta Sa Ginoo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Gitawag kita sa Ginoo,<br/>Sa kasamok, kalisud;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Malumo ang Iyang Pulong,<br/>"Cristohanon kuyog ka."</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Gitawag ta sa Ginoo,<br/>Kahilayan talikdan;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Iyang tingog pamation,<br/>"Higugmaon mo Ako."</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Sa kalipay, sa kasakit,<br/>Sa kahago'g kasayon;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Nagtawag siya kanato,<br/>"Sundon mo Ako karon."</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Gitawag ta sa Ginoo,<br/>Pamation man Siya;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Kasingkasing ta ihatag,<br/>Higugmaon ta Siya.</lines>
+    </verse>
+  </lyrics>
+</song>

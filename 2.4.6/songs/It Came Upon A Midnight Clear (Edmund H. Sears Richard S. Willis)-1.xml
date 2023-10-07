@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>It Came Upon A Midnight Clear</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Edmund H. Sears Richard S. Willis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>It came upon the midnight clear,<br/>That glorious song of old;<br/>From angels bending near the earth</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>To touch their harps of gold.<br/>"Peace on the earth good will to men,<br/>From heaven's all gracious King!"<br/>The world in solemn stillness lay<br/>To hear the angels sing.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Still thro' the cloven skies they come,<br/>With peaceful wings unfurled;<br/>And still their heavenly music floats,<br/>O'er all the weary world.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Above its sad and lowly plains,<br/>They bend on hovering wing;<br/>And ever o'er its Babel sounds<br/>The blessed angels sing.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>And ye, beneath life's crushing load,<br/>Whose forms are bending low;<br/>Who toil along the climbing way<br/>With painful steps and slow.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Look now! for glad and golden hours,<br/>Come swiftly on the wing;<br/>O rest beside the weary road,<br/>And hear the angels sing.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>For lo, the days are hastening on,<br/>By prophet bards foretold;<br/>When with the ever circling years,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Comes round the age of gold.<br/>When peace shall over all the earth,<br/>Its ancient splendors fling;<br/>And the whole world give back the song<br/>Which now the angels sing.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Yet with the woes of sin and strife<br/>The world has suffered long;<br/>Beneath the angel strain have rolled,<br/>Two thousand years of wrong.</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>And man, at war with man, hears not,<br/>The love song which they bring;<br/>O hush the noise, ye men of strife,<br/>And hear the angels sing.</lines>
+    </verse>
+  </lyrics>
+</song>

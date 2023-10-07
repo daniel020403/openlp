@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Hangtud Ang Tanan Masaksihan Na</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Hangtud ang tanan,<br/>Masaksihan na</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Magasinggit, magaawit ko,<br/>Bahin kang Cristo.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Isangyaw ko ang Dios gugma,<br/>Ngadto sa tanang dapit;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Adunay kahangawa S'ya,<br/>Sa mga nakasala.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Isaysay kong kalulot N'ya,<br/>Nga walay makasukod;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Nagpala sa mga sala,<br/>Kaluwasan sa tanan.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Isaysay ko ang grasya N'ya,<br/>Nga nag-amping sa kalag;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang pagtoong di matarug,<br/>Sa kanunay modaug.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ang himayaon nga dapit,<br/>Sa matarung andam na;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Pag-antus ug ang kapait,<br/>Alang sa nangawala.</lines>
+    </verse>
+  </lyrics>
+</song>

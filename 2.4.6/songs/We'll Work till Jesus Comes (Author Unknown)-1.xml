@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>We'll Work till Jesus Comes</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>We’ll work till Jesus comes, <br/>We’ll work</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Till Jesus comes, <br/>We'll work till Jesus come <br/>And we’ll be gathered home.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>O land of rest, for thee I sigh!<br/>When will the moment come</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>When I shall lay my armor by, <br/>And dwell in peace at home?</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>To Jesus Christ I fled for rest; <br/>He bade me cease to roam,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And lean for succor <br/>on His breast <br/>Till He conduct me home.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I sought at once <br/>my Saviour’s side,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>No more my steps shall roam; <br/>With Him I’ll brave death’s <br/>chilling tide, <br/>And reach my heavenly home.</lines>
+    </verse>
+  </lyrics>
+</song>

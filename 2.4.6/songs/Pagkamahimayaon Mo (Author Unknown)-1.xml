@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Pagkamahimayaon Mo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Pagkamahiyaon mo,<br/>O dayong siyudad sa Dios;<br/>S'yang maglungtad sa kanunay,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nagpuyo kanimo man.<br/>Ang patukoranan nimo,<br/>Maoy lig-on nga Bato;<br/>Gisalipdan ka kanunay,<br/>Magamadaugon ka.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ang tubod sa buhing tubig,<br/>Nag-agas sa way hunong;<br/>Ang mga kaanakan mo,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Dili pag-uhawon man.<br/>Wa gayuy usa'ng mapakyas,<br/>Nga anaa kang Jesus;<br/>Ang magapadayong grasya, <br/>Ginahatag man sa Dios.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Haduol ang Dios kanunay,<br/>Sa tanan nga Iya man;<br/>Ingon man sa kaniadto,<br/> Mahimayaon Siya;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Pagkamahimayaon mo,<br/>O dayong syudad sa Dios;<br/>S'yang maglungtad sa kanunay,<br/>Nagpuyo man kanimo.</lines>
+    </verse>
+  </lyrics>
+</song>

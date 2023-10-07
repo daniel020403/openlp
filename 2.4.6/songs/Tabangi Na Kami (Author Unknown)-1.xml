@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>Tabangi Na Kami</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O Dios nga may gahum,<br/>Tabangi na kami sa pagdayeg;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mahimayaon Ka,<br/>Ug silimbahon man;<br/>Harian Mo Kami, O Amahan.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>O Cristo, Pulong sa Dios,<br/>Sa Imong gahum, tagda kami;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Panalangini na,<br/>Ang gingharian Mo;<br/>Kumunsad ka karon sa lungsod Mo.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>O Maglilipay ka,<br/>Putling Espiritu gamhi kami;<br/>pun-a sa gugma Mo,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Harii, mandoi;<br/>Kuyogan Mo kami adlaw'ng tanan.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>O Dois nga Amahan, <br/>Anak, Espiritu, dayegon Ka;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Pagkahalangdon Mo!<br/>Mahimayaon pa! <br/>Sa kahangturan man halaran Ka.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Moadto Ako Sa Tanang Dapit</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Moadto ako sa tanang dapit,<br/>Sa pagmando Mo mosunod;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Andam ko sa pagsangyaw sa Pulong Mo,<br/>Buot Nimo tumanon ko.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Bisan asang kabukiran man<br/>Kon sa halayong baybay,<br/>Bisan sa dapit nga malisud,<br/>Gamiton ako sa Dios.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Unya kon ang tingog ni Jesus,<br/>Kanako man magtawag,<br/>Ang Iyang sugo tumanon ko,<br/>Bisan asa man nga dapit.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Tingali may pulong sa gugma,<br/>Nga ikasugilon ko;<br/>May nasalaag nga mga tawo<br/>Nga unta saksihan ko.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Mandoi ako Manluluwas,<br/>Sa mangitngit kong dalan;<br/>King dila ko pagamiton Mo,<br/>Sa pagsangyaw sa Pulong Mo.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ako nasayud nga may dapit<br/>Niini nga yuta ta,<br/>Diin man maka-alagad ko<br/>Kang Cristo nga nagtubos.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Busa igatugyan kong tanan.<br/>Kanimo Ginoo ko;<br/>Ug samtang may kinabuhi ko,<br/>Sa bug-os pagasundon Ka.</lines>
+    </verse>
+  </lyrics>
+</song>

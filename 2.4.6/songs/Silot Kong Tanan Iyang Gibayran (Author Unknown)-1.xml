@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>Silot Kong Tanan Iyang Gibayran</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Silot kong tanan,<br/>Iyang gibayran,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Kasing-kasing ko karon,<br/>Iyang gihinloan.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Si Jesus nag-ingon,<br/>"Maluyahon ikaw;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Magabantay'g mag-ampo,<br/>Ug lig-onon ko ikaw."</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Nakita kong gahum,<br/>Kanimo, O Jesus;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>May mga nakasala,<br/>Nga Imong gihinloan.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ang kaluwasan ko,<br/>'Naa sa grasya Mo;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ug ako nahinloan,<br/>Sa dugo sa Cordero.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Sa akong pagbarug,<br/>Sa atubangan Mo;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ang pagdayeg ko kini,<br/>"Imong gitubos ako!"</lines>
+    </verse>
+  </lyrics>
+</song>
