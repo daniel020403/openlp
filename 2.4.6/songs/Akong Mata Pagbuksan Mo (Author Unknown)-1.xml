@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Akong Mata Pagbuksan Mo</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Akong mata pagbuksan Mo,<br/>Sa matuod patan-awa;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kini nga salabutan ko,<br/>Pagahayagan Mo karon.<br/>Nagahulat ako, O Dios,</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Sa kabubut-on Mo karon;<br/>Akong mata pagbuksan Mo,<br/>Ginoo ko.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Dalunggan ko ablihan Mo,<br/>Sa matuod ko padungga;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Mawagtang dayon ang dautan,<br/>Kong madunggan ang tingog Mo.</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Nagahulat ako, O Dios,<br/>Sa kabubut-on Mo karon;</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Dalunggan ko ablihan Mo,<br/>Ginoo ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Baba ko pasultihon Mo,<br/>Sa pulong Mo nga matam-is;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang kasingkasing ko andam na,<br/>Pasudla na ang gugma Mo.</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Ang kasingkasing ablihi,<br/>Ginoo ko.</lines>
+    </verse>
+  </lyrics>
+</song>

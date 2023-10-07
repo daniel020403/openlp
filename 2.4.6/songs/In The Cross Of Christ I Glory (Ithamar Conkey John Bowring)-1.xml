@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>In The Cross Of Christ I Glory</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Ithamar Conkey John Bowring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>In the cross of Christ I glory,<br/>Tow'ring o'er the wrecks of time;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>All the light of sacred story<br/>Gathers round its head sublime.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>When the woes of life o'ertake me,<br/>Hopes deceive and fears annoy;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Never shall the cross forsake me,<br/>Lo! it glows with peace and joy.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>When the sun of bliss is beaming<br/>Light and love upon my way;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>From the cross the radiance streaming<br/>Adds more luster to the day.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Bane and blessing, pain and pleasure,<br/>By the cross are sanctified;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Peace is there that knows no measure,<br/>Joys that thro' all time abide.</lines>
+    </verse>
+  </lyrics>
+</song>

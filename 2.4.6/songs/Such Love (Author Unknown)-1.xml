@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>Such Love</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Such love, such wondrous love, <br/>Such love, such wondrous love,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>That God should love a sinner such as I,<br/>How wonderful is love like this!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>That God should love <br/>a sinner such as I, <br/>Should yearn to change <br/>my sorrow into bliss,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nor rest till He had planned <br/>to bring me nigh,<br/>How wonderful is love like this!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That Christ should join <br/>so freely in the scheme,<br/>Although it meant <br/>His death on Calvary,<br/>Did ever human tongue <br/>find nobler theme <br/>Than love divine <br/>that ransomed me?</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>That for a wilful outcast  <br/>such as I, <br/>The Father planned, <br/>the Savior bled and died;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Redemption for a worthless <br/>slave to buy,<br/>Who long had law <br/>and grace defied.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>And now He takes me <br/>to His heart - a son,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>He asks me not to <br/>fill a servant’s place;<br/>The “Far-off country”  <br/>wand’rings all are done, <br/>Wide open are His arms of grace.</lines>
+    </verse>
+  </lyrics>
+</song>

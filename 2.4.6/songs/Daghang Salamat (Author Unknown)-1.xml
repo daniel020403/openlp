@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Daghang Salamat</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Daghang salamat! Daghang salamat!<br/>Dios nga langitnon, salamat!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Makapasalamat ba ang mga kabataan,<br/>Sa langitnong Amahan nga nagbuhat sa tanan?</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Higugmaon ta ang Dios,<br/>Ug S'ya pagdaygon ta.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>May bungang kakahoyan, may honing kalanggaman<br/>Ug ang ginikanan ko naghigugma kanako;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Gibantayan Mo ako,<br/>Dinhi ug sa kanunay.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Salamat, O Ginoo, sa adlaw ug gabii,<br/>Bisan sa pagmando Mo ug sa puloy-anan ko;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Sa kalipay ug gugma,<br/>Gipasalamatan Ka.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ginoo, salamat g'yud sa mga higala ko,<br/>Bisan man sa pagdula, sa adlaw sa pagmaya;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ug labaw man sa tanan,<br/>Alang sa Manluluwas.</lines>
+    </verse>
+  </lyrics>
+</song>

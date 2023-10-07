@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-17T01:12:45">
+  <properties>
+    <titles>
+      <title>Glory To His Name</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>H.B. Simpson J.H. Burke</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Glory to His name, <br/>Glory to His name;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines break="optional">There to my heart was the blood applied;<br/></lines>
+      <lines>Glory to His name.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Down at the cross where my Savior died,<br/>Down where for cleansing from sin I cried,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">There to my heart was the blood applied;<br/></lines>
+      <lines>Glory to His name.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I am so wondrously saved from sin,<br/>Jesus so sweetly abides within,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines break="optional">There at the cross where He took me in;<br/></lines>
+      <lines>Glory to His name.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Oh, precious fountain that saves from sin,<br/>I am so glad I have entered in;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines break="optional">There Jesus saves me and keeps me clean;<br/></lines>
+      <lines>Glory to His name.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Come to this fountain so rich and sweet;<br/>Cast thy poor soul at the Savior’s feet;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines break="optional">Plunge in today, and be made complete;<br/></lines>
+      <lines>Glory to His name.</lines>
+    </verse>
+  </lyrics>
+</song>

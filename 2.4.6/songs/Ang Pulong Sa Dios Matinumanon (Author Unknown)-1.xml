@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Ang Pulong Sa Dios Matinumanon</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ang Pulong sa Dios, ang Iyang saad,<br/>May katumanan kining tanan;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Bisan mahulog kabituonan,<br/>Ang Pulong sa Dios saligan.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang Pulong sa Dios matinumanon,<br/>Nagapadayon, way katapusan;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bisan magun-ob ang kalibutan,<br/>Matuman ang saad N'ya.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sa takna nga pagasulayan ta,<br/>Ug ang paglaum daw nagkahanaw;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ug kaugmaon gikahadlokan,<br/>Sa Dios lig-onon kita.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Nagapabilin ang saad sa Dios,<br/>Bisan sa takna sa kalisdanan;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Bisan sa takna sa kamatayon,<br/>Sa Dios lipayon kita.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ang saad sa Dios may katumanan,<br/>Nagapabilin man sa gihapon;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ang purong-purong unya maangkon,<br/>Kay Iya ning gisaad.</lines>
+    </verse>
+  </lyrics>
+</song>

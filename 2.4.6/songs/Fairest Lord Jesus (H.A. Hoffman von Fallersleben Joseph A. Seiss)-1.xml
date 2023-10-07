@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Fairest Lord Jesus</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>H.A. Hoffman von Fallersleben Joseph A. Seiss</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Fairest Lord Jesus!<br/>Ruler of all nature!<br/>O Thou of God and man the Son!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Thee will I cherish,<br/>Thee will I honor,<br/>Thou, my soul's glory,<br/>Joy, and crown.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Fair are the meadows;<br/>Fairer still the woodlands,<br/>Robed in the blooming<br/>Garb of spring.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Jesus is fairer,<br/>Jesus is purer,<br/>Who makes the woeful heart to sing.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Fair is the sunshine,<br/>Fairer still the moonlight,<br/>And all the twinkling, starry host.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Jesus shines brighter,<br/>Jesus shines purer,<br/>Than all the angels<br/>Heav'n can boast.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Beautiful Savior!<br/>Lord of the nations!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Son of God and Son of man!<br/>Glory and honor, praise adoration,<br/>Now and forevermore be Thine!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>My Redeemer</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Sing, oh, sing... <br/>of my Redeemer,<br/>With His blood…</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>He purchased me,…<br/>On the cross… <br/>He sealed my pardon,<br/>Paid the debt… <br/>and made me free…</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I will sing of my Redeemer<br/>And His wondrous love to me;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>On the cruel cross He suffered,<br/>From the curse to set me free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will tell the wondrous story,<br/>How my lost estate to save,<br/>In His boundless love and mercy,<br/>He the ransom freely gave.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I will praise my dear Redeemer,<br/>His triumphant power I’ll tell,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>How the victory He giveth <br/>Over sin, and death, and hell.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>I will sing of my Redeemer,<br/>And His heavenly love to me;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>He from death to life hath brought me,<br/>Son of God, with Him to be.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>O Ginoo, Tudloi Ako</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Kanimo magpabilin ako,<br/>Dinhi kanako pabilin Ka;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Hatagi ko sa Imong gahum,<br/>Kanang gahum nga di masukod.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>O Ginoo, tudloi ako,<br/>Sa ako nga pag-ampo karon;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mailhan untang pagbuot Mo,<br/>O Ginoo, tudloi ako.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Gamhi ako Ginoong Jesus,<br/>Sa mga pag-ampo ko karon;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kay may katawhan nga nawala,<br/>Ug himalatyon ang paglaum.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Bag-oha O Ginoo ako,<br/>King kinabuhi kong may sala;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Pun-a ako sa Imong gahum,<br/>Samtang nga naga-ampo ako.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>O Ginoo, tudloi ako, <br/>Sa mga pag-ampo ko karon;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Kay akong baruganan Ikaw,<br/>O Ginoo tudloi ako.</lines>
+    </verse>
+  </lyrics>
+</song>

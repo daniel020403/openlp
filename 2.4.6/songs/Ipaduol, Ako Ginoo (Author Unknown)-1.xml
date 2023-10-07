@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Ipaduol, Ako Ginoo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ipaduol ako, Ginoo ko,<br/>Bisan mag-antus pa, moduol ako.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang awit ko kini, ipaduol ako,<br/>Ipaduol ako, O Ginoo ko.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kon mangitngitan ko, masalaag,<br/>Ug ang akong kalag walay pahulay;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Maoy pangandoy ko, ipaduol ako,<br/>Ipaduol ako O Ginoo ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Sa pagpalandong ko sa Ginoo,<br/>Bisan sa kasubo daygon ko Siya;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Sa matag panahon, Ipaduol ako,<br/>Ipaduol ako O Ginoo ko.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Sa dalan Mo Jesus, tultoli ko,<br/>Hangtud dangaton ko ang himaya Mo;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ang awit ko kini, ipaduol ako,<br/>Ipaduol ako O Ginoo ko. AMEN.</lines>
+    </verse>
+  </lyrics>
+</song>

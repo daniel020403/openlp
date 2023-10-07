@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Jesus, Ako Nagsaad</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jesus ako nagsaad Kanimo pagsunod,<br/>Paduol Ka kanako, higala kong mahal;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Wala akoy kalisang kon kuptan Mo ako,<br/>Dili mahisalaag kon magamando Ka.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kanako ipabati nga haduol Ikaw,<br/>Maanyag,kalingawan molit-ag kanako,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Nagalibot kanunay mga kaaway ko,<br/>Jesus duol kanako, salipding kalag ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Nagsaad Ka kanilang mga pinili Mo, <br/>Nga didto sa himaya kauban Mo sila;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Jesus, ako nagsaad nga alagaron Ka,<br/>Hatagi ko sa grasya Kanimo pagsunod. AMEN.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>Throne of God</title>
+    </titles>
+    <verseOrder>v1 v2 v2 v3 v4 v4 v5 v6 v6 v2 v2 v7 v6 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Before the throne of God above</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I have a strong and perfect plea</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>A great High Priest whose name is love</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Whoever lives and pleads for me</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>My  name is graven on His hands</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>My name is written on His heart</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>I know that while in heaven He stands</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>No tongue can bid me thence depart</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>When Satan tempts me to despair</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>And tells me of the guilt within</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Upward I look and see Him there</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>Who made an end to all my sin</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Because a sinless Savior died</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>My sinful soul is counted free</lines>
+    </verse>
+    <verse name="v4c">
+      <lines>For God the Just is satisfied</lines>
+    </verse>
+    <verse name="v4d">
+      <lines>To look on Him and pardon me</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Behold, Him there the risen lamb</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>My perfect, spotless righteousness</lines>
+    </verse>
+    <verse name="v5c">
+      <lines>The great unchangeable I am</lines>
+    </verse>
+    <verse name="v5d">
+      <lines>The King of glory and of grace</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>One with Himself I cannot die</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>My life is purchased by HIs blood</lines>
+    </verse>
+    <verse name="v6c">
+      <lines>My life is hid with Christ on High</lines>
+    </verse>
+    <verse name="v6d">
+      <lines>With Christ my Savior and my God</lines>
+    </verse>
+    <verse name="v7">
+      <lines>My life  is hid with Christ on High</lines>
+    </verse>
+  </lyrics>
+</song>

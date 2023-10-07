@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Ngalan Ni Jesus Dawata</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ngalan Mo , O Jesus,<br/>Ang matam-is sa tanan;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Yuta ug kalangitan,<br/>May kalipay paglaum.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ngalan ni Jesus dawata,<br/>O anak sa kaguol;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sa kalipay ka hatagan,<br/>Dad-a sa tanang dapit.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ngalan ni Jesus Dawata,<br/>Ang taming, kalasag mo;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kon may panulay'ng moasdang,<br/>Kang Jesus ka magtawag.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ngalan ni Jesus bililhon,<br/>Makalipay sa kalag;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Iyang bukton ang kusog mo,<br/>Ngalan Niya daygon ta.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ngalan ni Jesus tahuron,<br/>Sa tiilan N'ya hapa;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Hari S'ya sa mga hari,<br/>Himayaon ta Siya.</lines>
+    </verse>
+  </lyrics>
+</song>

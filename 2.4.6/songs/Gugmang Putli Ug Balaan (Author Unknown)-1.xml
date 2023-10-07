@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Gugmang Putli Ug Balaan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>S'ya magpasulod kanako,<br/>Sa langitnong ganghaan;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Kay ako giluwas Niya,<br/>Sa sala gipasaylo.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Gugmang putli ug balaan,<br/>Hingpit dili masukod;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nagagikan sa Ginoo,<br/>Nga walay pagka-usab.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Daw langgam ko nga nalisang,<br/>Naglupad nga way tumong;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kakuyaw gikuha Niya,<br/>Gipuliha'g kalinaw.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Gugmang putli ug balaan,<br/>Gihnloan N'ya ako;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Daygon ko Siya sa kanunay,<br/>Sa dugong giula N'ya.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Tapus ning pagpanaw nako,<br/>May pagsalig king kalag;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Kay sa gugma sa Ginoo,<br/>Langit ang dangaton ko.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Reach the World</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v17 v18 v19 v20 v21 v14 v15 v16 v17 v22 v17</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>It all starts with just one voice</lines>
+    </verse>
+    <verse name="v2">
+      <lines>That takes a stand that makes a choice</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To live for God and not hesitate</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To tell the world about amazing grace</lines>
+    </verse>
+    <verse name="v5">
+      <lines>One day that seed somehow breaks through</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Where there was one there now stand two</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And soon another take his hand</lines>
+    </verse>
+    <verse name="v8">
+      <lines>A ray of hope that spreads across the land</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Across the mountains</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Across the sea</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Soon others join in harmony</lines>
+    </verse>
+    <verse name="v12">
+      <lines>They found the cross still standing strong</lines>
+    </verse>
+    <verse name="v13">
+      <lines>And soon a mighty chorus sings along</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Go reach the world<br/>touch one more soul</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Bring one more lamb into the fold</lines>
+    </verse>
+    <verse name="v16">
+      <lines>Each soul another flag unfurled</lines>
+    </verse>
+    <verse name="v17">
+      <lines>Each voice another chance to reach the world</lines>
+    </verse>
+    <verse name="v18">
+      <lines>Don't let me pray Lord<br/>For wealth or fame</lines>
+    </verse>
+    <verse name="v19">
+      <lines>A sparks that sets the world a flame</lines>
+    </verse>
+    <verse name="v20">
+      <lines>Help me to reach the lost and alone</lines>
+    </verse>
+    <verse name="v21">
+      <lines>To tell of joy and hope where hope is gone</lines>
+    </verse>
+    <verse name="v22">
+      <lines>Each voice another<br/>Each voice another<br/>Each voice another</lines>
+    </verse>
+  </lyrics>
+</song>

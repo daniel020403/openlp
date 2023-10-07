@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Dili Mo Ako Pasagdan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Manluluwas, pamatii na,<br/>Sa uban nagatawag Ka;<br/>Tawgon Mo ako.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Dili Mo ako pasagdan,<br/>Pamatii ko;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sa uban nagatawag ka,<br/>Tawgon Mo ako,</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sa dakung kaluoy Nimo,<br/>May pahulay ko;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Nagluhod sa paghinulsol,<br/>Pasayloon Mo.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Moatubang nga pagsalig,<br/>Sa katarung Mo;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Bul'nga ang kalag kong samdan,<br/>Luwasa ako.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Tuburan Ka sa kalipay,<br/>Kinabuhi ko;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Kinsa bay kadangpan nako?<br/>O Ikaw ra g'yud!</lines>
+    </verse>
+  </lyrics>
+</song>

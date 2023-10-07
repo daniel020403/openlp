@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Ang Panahon Sa Pag-ampo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ang panahon sa pag-ampo,<br/>Nagatawag, nagatawag;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Duolon ko ang Amahan,<br/>Suginlan sa kinahanglan.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Siya ang Magtatabang ko,<br/>Sa pagsulay ug kaguol;</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Ang pagtintal walay gahum,<br/>Sa panahon sa pag-ampo.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ning takna sa pangaliya,<br/>Ang pangamuyo may pako;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kanimo ko nagahulat,<br/>Panalangini man ako.</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Sa dagway Mo motutok ko,<br/>Mosalig ko sa grasya Mo;</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Itugyan nako ang tanan,<br/>Sa panahon sa pag-ampo.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ning takna sa pag-ampo ko,<br/>Mabati kong pagdasig Mo;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang langitnon man nga dapit,<br/>Mao man ang gilantaw ko.</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Tan-awon ko ang dagway Mo,<br/>Sa pulong Mo mosalig man;</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>Sa takna man nga matam-is,<br/>Magahulat gayud ako.</lines>
+    </verse>
+  </lyrics>
+</song>

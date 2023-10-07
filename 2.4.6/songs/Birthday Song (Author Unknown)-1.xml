@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Birthday Song</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Happy Birthday to you<br/>Happy Birthday to you</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Happy Birthday, Happy Birthday<br/>Happy Birthday to you</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sweeter as the years go by<br/>Sweeter as the years go by</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Richer, fuller, deeper<br/>Jesus loves me sweeter<br/>Sweeter as the years go by</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Happy Birthday to you<br/>One birth will not do</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Born again means salvation<br/>And to heaven we'll go</lines>
+    </verse>
+  </lyrics>
+</song>

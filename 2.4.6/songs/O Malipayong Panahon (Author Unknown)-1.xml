@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>O Malipayong Panahon</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O malipayong panahon,<br/>Pagpili ko sa akong Dios!<br/>Akong suginlan ang uban,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sa pagmayang hilabihan.<br/>Malipayon ako,<br/>Kay gipasaylo ni Jesus.<br/>Gitudloan ako Niya nga mag-ampo ug maghulat.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Malig-ong paghiusa ko,<br/>Sa gugma ni Cristo Jesus;<br/>Pun-on ang Iyang simbahan,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sa alawitong langitnon.<br/>Malipayon ako,<br/>Kay gipasaylo ni Jesus,</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ang dakung buhat ni Jesus,<br/>Natapus na didto sa krus;<br/>Iyang pagmando sundon ko,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kay S'ya kanako nagtawag.<br/>Malipayon ako,<br/>Kay gipasaylo ni Jesus,<br/>Gitudloan ako Niya nga mag-ampo ug maghulat.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Pahulay na akong kalag,<br/>Niining kabulahanan;<br/>Ug sa Ginoong si Jesus,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Dili gayud ko mobulag.<br/>Malipayon ako,<br/>Kay gipasaylo ni Jesus,<br/>Gitudloan ako Niya nga mag-ampo ug maghulat.</lines>
+    </verse>
+  </lyrics>
+</song>

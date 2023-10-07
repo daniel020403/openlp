@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>Timoni Ako, Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Timoni ako Jesus,<br/>Sa unos nga makusog,<br/>Sa mga dagkong balud,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sa bato palikaya;<br/>Sa pagpanaw'ng malisud,<br/>Timoni ako Jesus.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Maingon sa inahan,<br/>Nagpahilum sa anak,<br/>Mao ang pagbadlong Mo,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sa mga dakung balud;<br/>Hari sa mga unos,<br/>timoni ako, Jesus.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kon ang piliw duol na,<br/>Sa masabang lapyahan,<br/>Ang kakulba ko Jesus,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Paghanawon Mo karon;<br/>Pulong Mo ipadungog,<br/>"Nia Ko! Sumalig ka!"</lines>
+    </verse>
+  </lyrics>
+</song>

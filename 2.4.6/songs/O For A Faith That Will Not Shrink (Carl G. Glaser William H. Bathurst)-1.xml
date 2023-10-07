@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>O For A Faith That Will Not Shrink</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Carl G. Glaser William H. Bathurst</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O for a faith that will not shrink,<br/>Tho' pressed by ev'ry foe,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>That will not tremble on the brink<br/>Of any earthly woe!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>That will not murmur nor complain,<br/>Beneath the chastening rod</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>But in the hour of grief or pain,<br/>Will lean upon its God.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>A faith that shines more bright and clear<br/>When tempests rage without;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>That when in danger knows no fear,<br/>In darkness feels no doubt.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>That bears, unmoved, the world's dread frown,<br/>Nor heeds its scornful smile;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>That seas of trouble cannot drown,<br/>Nor Satan's arts beguile.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Lord give us such a faith as this;<br/>And then whate'er may come,</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>We'll taste e'en here the hollowed bliss,<br/>Of an eternal home.</lines>
+    </verse>
+  </lyrics>
+</song>

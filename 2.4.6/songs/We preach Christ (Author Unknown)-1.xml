@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>We preach Christ</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v13 v14 v6 v17 v14 v18</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We are the Church<br/>the chosen bride of Christ</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We have the imprint of His cross up on our lives<br/>The highest price was paid</lines>
+    </verse>
+    <verse name="v3">
+      <lines>when the Lamb of God was made<br/>The perfect and most holy sacrifice</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We have one purpose (one mission)<br/>one reason to remain</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To raise the cross of Jesus<br/>And magnify His name</lines>
+    </verse>
+    <verse name="v6">
+      <lines>We preach Christ <br/>Who was crucified and risen from the grave</lines>
+    </verse>
+    <verse name="v7">
+      <lines>We preach Christ<br/>The only One who has the strength to save</lines>
+    </verse>
+    <verse name="v8">
+      <lines>The message we proclaim is the power of His name<br/>We preach Christ</lines>
+    </verse>
+    <verse name="v9">
+      <lines>We are the voice that cries the truth today<br/>And of this truth we will never be ashamed</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Tho'many doubters rise and reject the claims of Christ<br/>God's unchanging Word will still remain</lines>
+    </verse>
+    <verse name="v11">
+      <lines>We have this moment (this hour)<br/>To seek and save the lost</lines>
+    </verse>
+    <verse name="v12">
+      <lines>To speak the name of Jesus and point them to the cross<br/>We preach Christ</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Who was crucified and risen from the grave<br/>We preach Christ</lines>
+    </verse>
+    <verse name="v14">
+      <lines>The only One who has the strength to save<br/>The message we proclaim is the power of His name</lines>
+    </verse>
+    <verse name="v15">
+      <lines>We preach Christ<br/>So we lift the name of Jesus for all the world to see</lines>
+    </verse>
+    <verse name="v16">
+      <lines>The message of salvation to all who will believe<br/>We preach Christ</lines>
+    </verse>
+    <verse name="v17">
+      <lines>We preach Christ</lines>
+    </verse>
+    <verse name="v18">
+      <lines>We preach Christ <br/>We preach Christ<br/>We preach Christ!</lines>
+    </verse>
+  </lyrics>
+</song>

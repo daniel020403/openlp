@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Mosunod Ako Kaniya</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Mosunod ako Kaniya,<br/>Bisan asa pagadad-a,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Mosunod sa Iyang mando,<br/>Bisan asa mosunod ako.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang tawag nabati nako,<br/>Ni Jesus nga Manluluwas;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Iyang tanyag pamatii,<br/>"Krus mo dad-a, sundon mo Ako."</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Mokuyog ako Kaniya,<br/>Kalisdanan, kasub-anan;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Mosunod sa walay langan,<br/>Ug sa dalan Niya magsunod.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Modangop ako Kaniya,<br/>Sa hukom sa katapusan;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kay S'ya akong Manunubos,<br/>Busa wa akoy kahadlokan.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Magahatag S'ya kanako,<br/>Grasya Niya ug himaya;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Mouban Siya kanako.<br/>Bisan asa sa pagpanaw ko.</lines>
+    </verse>
+  </lyrics>
+</song>

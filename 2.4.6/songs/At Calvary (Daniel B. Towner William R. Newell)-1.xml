@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>At Calvary</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Daniel B. Towner William R. Newell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Mercy there was great and grace was free;<br/>Pardon there was multiplied to me;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>There my burdened soul found liberty,<br/>At Calvary.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Years I spent in vanity and pride,<br/>Caring not my Lord was crucified,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Knowing not it was for me He died<br/>On Calvary.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>By God's Word at last my sin I learned;<br/>Then I trembled at the law I'd spurned,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Till my guilty soul imploring turned<br/>To Calvary.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Now I've giv'n to Jesus ev'rything;<br/>Now I gladly own Him as my King;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Now my raptured soul can only sing<br/>Of Calvary.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>O the love that drew salvation's plan!<br/>O the grace that brought it down to man!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>O the mighty gulf that God did span<br/>At Calvary!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Gabiing Balaan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Gabiing balaan, Mahilum ang tanan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sa natawo ang Ginoo, Gibantayan sa inahan N'ya;<br/>Sa langitnong kalinaw, 'Niang Mesias karon.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Gabiing balaan, Makita'ng himaya;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ang panon nga langitnon, Nagaawit "Aleluya!"<br/>'Nia na'ng Manluluwas, 'Nia ang Cristo karon.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Gabiing balaan, Ang Diosnong kahayag</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Midan-ag sa yuta man, Aron maluwas ang tanan;<br/>'Nia na ang Ginoo, 'Nia si  Jesus karon.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Gabiing balaan, Madulom ang tanan,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Gawas lang sa pasungan, Ang kahayag sa kalibutan;<br/>Dalayegon ang Dios, 'Niang Mesias karon.</lines>
+    </verse>
+  </lyrics>
+</song>

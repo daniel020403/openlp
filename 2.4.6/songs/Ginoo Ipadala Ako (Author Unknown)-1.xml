@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Ginoo Ipadala Ako</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ginoo, ipadala ako,<br/>Sa nagakinahanglan Kanimo;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Ania na andam ako,<br/>Sa pagtuman sa pagbuot Mo.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Gamita, O Ginoo ako,<br/>Ang kinabuhi ko;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Alang sa katuyoan Mo,<br/>Ug kabubut-on Mo.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ang kalibutan nagtawag,<br/>"Pabilin ka dinhi."</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>"Lakaw," nagsangpit si Jesus,<br/>"Ako kauban mo."</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kalipay ko di masukod,<br/>Kay gitawag ako;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Sa pagsaysay sa gugma,<br/>N'ya nga makatubos mo.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>Sundon Ko Si Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Pag-awiton ko karon,<br/>Ang Ginoo sundon ko;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Adlaw-adlaw nga tanan,<br/>Sundon ko si Jesus. AMEN.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang tanan nga kahilayan,<br/>Nagtawag kanako,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Wa ako mabihag nila;<br/>Sundon ko si Jesus.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ang tanan kong talikala,<br/>Ni Jesus gibugto;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>S'ya lang akong alagaron,<br/>Sa tanan nga gutlo.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Dinhi ug sa kalangitan,<br/>Daygon ko si Jesus;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Sa gugma Niya maghisgut,<br/>Sundon ko si Jesus.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Sa dakung kahimmuot N'ya,<br/>Iya kong sugaton;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ug sa mga pagdayeg,<br/>Iya kong padunggon.</lines>
+    </verse>
+  </lyrics>
+</song>

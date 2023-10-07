@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Come Thou Almighty King</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Charles Wesley Felice De Giardini</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Come, Thou Almighty King.<br/>Help us Thy name to sing.<br/>Help us to praise.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Father, all glorious,<br/>O'er all victorious.<br/>Come and reign over us,<br/>Ancient of Days.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Come, Thou Incarnate Word,<br/>Gird on Thy mighty sword,<br/>Our prayer attend.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Come, and Thy people bless,<br/>And give Thy Word success.<br/>Spirit of holiness,<br/>On us descend.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Come, Holy Comforter,<br/>Thy sacred witness bear<br/>In this glad hour.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Thou who almighty art,<br/>Now rule in every heart;<br/>And ne'er from us depart,<br/>Spirit of power.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>To the great One in Three<br/>Eternal praises be<br/>Hence evermore.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>His sovereign majesty<br/>May we in glory see,<br/>And to eternity<br/>Love and adore.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>O Lord, our God, to Thee<br/>The highest praises be,<br/>Hence, evermore;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Thy sov'reign majesty<br/>May we in glory see,<br/>And to eternity<br/>Love and adore.</lines>
+    </verse>
+  </lyrics>
+</song>

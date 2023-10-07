@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>O Malig-on Nga Bato</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O malig-on nga Bato,<br/>Magpasalipod ako;<br/>Kadtong tubig ug dugo,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nag-agay sa kilid Mo;<br/>Makapala sa sala,<br/>Ug nahiloan ako.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Wa gayud akoy dala,<br/>Krus Mo lang sandigan ko;<br/>Way mahimo ug hubo,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Mohangad sa grasya Mo,<br/>Sa tubod hugasi ko,<br/>Aron dili mamatay.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kong ako moadto na,<br/>Sa langitnon nga dapit;<br/>Ug makita ko ikaw,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Dinha sa hukmanan Mo;<br/>O malig-on nga Bato<br/>Magpasalipod ako.</lines>
+    </verse>
+  </lyrics>
+</song>

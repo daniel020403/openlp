@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Bring Back The Glory</title>
+    </titles>
+    <verseOrder>v1 c1 c1 c1 v2 c1 c2 c1 c1 c1 c1 c1 c2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>All the laughter is gone</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And  sound of the song</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>That we sang slowly faded away</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Simple joys that we knew when we walked close to You</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Hand in hand in the cool of the day</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Are just memories or</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Are they dreams?</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>Yet we hold to the hope that the music will come back again</lines>
+    </verse>
+    <verse name="c1a">
+      <lines/>
+    </verse>
+    <verse name="c1b">
+      <lines>Bring back the glory</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Won't you show us what life is for</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Make us open once more</lines>
+    </verse>
+    <verse name="c1e">
+      <lines>Bring back the music the trust</lines>
+    </verse>
+    <verse name="c1f">
+      <lines>The wonder that's just like a child</lines>
+    </verse>
+    <verse name="c1g">
+      <lines>who has never known pain</lines>
+    </verse>
+    <verse name="c1h">
+      <lines>Bring back the glory, the glory again</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Give me a cause that is grand <br/>and a vision to stand</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>That calls for the best I can be</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Something worthy to live for</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>A reason to give</lines>
+    </verse>
+    <verse name="v2e">
+      <lines>Everything that I ever could be</lines>
+    </verse>
+    <verse name="v2f">
+      <lines>O there must be more</lines>
+    </verse>
+    <verse name="v2g">
+      <lines>Take me Lord</lines>
+    </verse>
+    <verse name="v2h">
+      <lines>How I need you to give me a glimpse of eternity</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>You are the glory</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>You have shown us what life is for</lines>
+    </verse>
+    <verse name="c2c">
+      <lines>Bring back the glory,</lines>
+    </verse>
+    <verse name="c2d">
+      <lines>Again,</lines>
+    </verse>
+    <verse name="c2e">
+      <lines>Again!</lines>
+    </verse>
+  </lyrics>
+</song>

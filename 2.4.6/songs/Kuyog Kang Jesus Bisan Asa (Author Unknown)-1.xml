@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Kuyog Kang Jesus Bisan Asa</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Sumunod, sumunod,<br/>Way kahadlok ko;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Kay may kaluwasan,<br/>Kuyog kang Cristo.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Di ako mahadlok kuyog kang Jesus,<br/>Bisan asa Iya kong pagmandoan;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ug way pakigdait kong wala Siya,<br/>May kasegurohan kuyog kang Jesus.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Bisan asa ko Niya pagadad-a,<br/>Isugilon ko ang kaluwasan N'ya;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Bisan asa nga dapit moadto ko,<br/>Mosugot ako kay kuyog si Jesus.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Sa tanang dapit makapahulay ko,<br/>Bisan landong ug kangitngit moabot;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ug makita nako ang himaya Niya,<br/>Kay aduna akoy langitnon nga dapit.</lines>
+    </verse>
+  </lyrics>
+</song>

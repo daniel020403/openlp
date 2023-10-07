@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>Yeild Not to Temptation</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ask the Savior to help you, <br/>Comfort, strengthen, <br/>and keep you;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>He is willing to aid you, <br/>He will carry you through.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Yield not to temptation, <br/>For yielding is sin; <br/>Each victory will help you <br/>Some other to win;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Fight manfully onward, <br/>Dark passions subdue; <br/>Look ever to Jesus,  <br/>He’ll carry you through.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Shun evil companions,  <br/>Bad language disdain; <br/>God’s name hold in reverence, Nor take it in vain;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Be thoughtful and earnest, Kindhearted and true; <br/>Look ever to Jesus, <br/>He’ll carry you through.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>To him that o’er cometh, <br/>God giveth a crown; <br/>Thro’ faith we will conquer,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Though often cast down; <br/>He who is our Savoir, <br/>Our strength will renew; <br/>Look ever to Jesus, <br/>He’ll carry you through.</lines>
+    </verse>
+  </lyrics>
+</song>

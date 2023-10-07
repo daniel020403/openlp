@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>We've a story to tell</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>For the darkness <br/>shall turn to dawning,<br/>And the dawning <br/>to noonday bright,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And Christ’s great kingdom  <br/>shall come on earth,<br/>The kingdom of love and light.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>We’ve a story to tell <br/>to the nations,<br/>That shall turn their hearts <br/>to the right;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>A story of truth and sweetness,<br/>A story of peace and light,<br/>A story of peace and light.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We’ve a song to be sung <br/>to the nations,<br/>That shall lift their hearts <br/>to the Lord;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>A song that shall conquer evil <br/>And shatter the spear and sword,<br/>And shatter the spear and sword.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>We’ve a message to give <br/>to the nations,<br/>That the Lord who reigneth above,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Hath sent us His Son to save us,<br/>And show us that God is love,<br/>And show us that God is love.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>We’ve a Saviour to show <br/>to the nations,<br/>Who the path of sorrow has trod,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>That all of the world’s great people <br/>Might come to the truth of God,<br/>Might come to the truth of God!</lines>
+    </verse>
+  </lyrics>
+</song>

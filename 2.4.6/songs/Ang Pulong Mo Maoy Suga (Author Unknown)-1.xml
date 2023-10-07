@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Ang Pulong Mo Maoy Suga</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Gitipigan ko ang Pulong Mo,<br/>Dinhi sa kasingkasing ko;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Aron dili ako magpakasala,<br/>Batok Kanimo Ginoo.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang Pulong Mo maoy suga,<br/>Sa alagianan ko;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nga nagatultol kanako,<br/>Sa dalan nga langitnon.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ang Pulong Mo nagalungtad,<br/>Hangtud sa kahangturan;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Nagmatinumanon Ikaw,<br/>Ngadto sa tanan nga tawo.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Sa buntag, udto, gabii,<br/>Ikaw ako sa dayon;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ikaw maoy bahandi ko,<br/>Hangtud sa kahangturan.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ang Pulong Mo nagasaysay,<br/>Nga moanhi si Jesus;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Gihatag Mo'ng kaluwasan,<br/>Sa mga nangawala.</lines>
+    </verse>
+  </lyrics>
+</song>

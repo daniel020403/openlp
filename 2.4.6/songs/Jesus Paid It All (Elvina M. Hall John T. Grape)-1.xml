@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Jesus Paid It All</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Elvina M. Hall John T. Grape</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Jesus paid it all, all to Him I owe;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Sin had left a crimson stain,<br/>He washed it white as snow.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I hear the Savior say,<br/>"Thy strength indeed is small;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Child of weakness watch and pray,<br/>Find in Me thine all in all."</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Lord, now indeed I find,<br/>Thy power and Thine alone;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Can change the leper's spots<br/>And melt the heart of stone.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>For nothing good have I,<br/>Whereby Thy grace to claim;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>I'll wash my garments white,<br/>In the blood of Calvary's Lamb.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>And when before the throne,<br/>I stand in Him complete;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>"Jesus died my soul to save,"<br/>My lips shall still repeat.</lines>
+    </verse>
+  </lyrics>
+</song>

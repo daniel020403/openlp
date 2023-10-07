@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Ang Dios Amahan Nagkugos</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ang Dios Amahan nagkugos,<br/>Sa Iyang mga pinangga;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Wa nay lain pang kadangpan,<br/>Ikahatag sa katawhan.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sa Dios ta giamomahan,<br/>Ug sa dalan gitultolan;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sa tanan nga kadautan,<br/>Dili ta Niya itugyan.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Bisan pa ang kamatayon,<br/>Di makabulag kanato;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Iyang grasya gipakita,<br/>Bisan pa sa kaguol ta.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Daygon ta sa mga awit,<br/>S'ya nga atong salipdanan;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Pagbuot N'ya mamatuman,<br/>Ang kaaway mangapukan.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Bisan sa atong kawad-on,<br/>Di g'yud ta Niya talikdan;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Ang langitnon N'yang tinguha,<br/>Nga mahimo tang balaan.</lines>
+    </verse>
+  </lyrics>
+</song>

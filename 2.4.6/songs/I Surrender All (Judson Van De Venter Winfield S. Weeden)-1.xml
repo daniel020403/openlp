@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>I Surrender All</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Judson Van De Venter Winfield S. Weeden</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>I surrender all,<br/>I surrender all.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>All to Thee my blessed Savior,<br/>I surrender all.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>All to Jesus I surrender,<br/>All to Him I freely give;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I will ever love and trust Him,<br/>In His presence daily live.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>All to Jesus I surrender,<br/>Humbly at His feet I bow,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Worldly pleasures all forsaken,<br/>Take me Jesus take me now.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>All to Jesus I surrender,<br/>Make me Savior wholly Thine;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Let me feel the Holy Spirit,<br/>Truly know that Thou art mine.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>All to Jesus I surrender,<br/>Lord I give myself to Thee.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Fill me with Thy love and power;<br/>Let Thy blessings fall on me.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>All to Jesus I surrender,<br/>Now I feel the sacred flame.</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Oh the joy of full salvation!<br/>Glory, glory to His name!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Ang Dios Pasalamatan Ko</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ang Dios pasalamatan ko,<br/>Tungod sa Manunubos;<br/>Ug sa Iyang panalangin,<br/>Nagapasalamat ko.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Salamat alang sa ulan,<br/>Ug sa pag-init usab;<br/>Salamat sa kagul-anan,<br/>Nga kalinaw na karon.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Salamat sa pagtubag Mo,<br/>Sa mga pag-ampo ko;<br/>Salamat sa Imong hatag,<br/>Ug sa Imong gikuha.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Salamat sa kasakitan,<br/>Ug sa mga kalipay;<br/>Salamat sa Imong grasya,<br/>Ug sa gugmang way sukod.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Salamat sa kabulakan,<br/>Bisan tunokong uban;<br/>Salamat sa pinuyanan,<br/>Nga kanako gihatag.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Salamat kang Jesus Cristo,<br/>Nga maoy paglaum ko;<br/>Salamat sa Imong gugma,<br/>Hangtud sa kahangturan.</lines>
+    </verse>
+  </lyrics>
+</song>

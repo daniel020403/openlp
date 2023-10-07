@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>You may have the joy bell</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Joy bells ringing in your heart, <br/>Joy bells ringing in your heart;<br/>Take the Savior here below</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>With you ev’ry where you go;<br/>He will keep the joy-bells <br/>ringing in your heart.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>You may have joy-bells <br/>ringing in your heart,<br/>And a peace that from <br/>you never will depart;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Walk the straight and narrow way,<br/>Live for Jesus ev’ry day,<br/>He will keep the joy-bells <br/>ringing in your heart.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Love of Jesus in its fullness <br/>you may know;<br/>And this love to those around <br/>you sweetly show;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Words of kindness always say,<br/>Deeds of mercy do each day, <br/>Then He’ll keep the joy-bells ringing in your heart.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>You will meet with trials as you journey home; Grace sufficient He will give to overcome;<br/>Tho’ unseen by mortal eye,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>He is with you ever nigh,<br/>And He’ll keep the joy-bells <br/>ringing in your heart.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Let your life speak well <br/>of Jesus ev’ry day;<br/>Own His right to ev’ry <br/>service you can pay;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sinners you can help to win<br/>If you're life is pure and clean, <br/>And you will keep the joy-bells ringing in your heart.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>Standing On the Promises</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Standing, Standing, <br/>Standing on the promises of God my Saviour;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Standing, Standing,<br/>I’m standing on the promises of God.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Standing on the promises of Christ my King,<br/>Thro’ eternal ages let His praises ring;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Glory in the highest, <br/>I will shout and sing, <br/>Standing on the promises of God.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Standing on the promises that cannot fail,<br/>When the howling storms of doubt and fear assail,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>By the living word of God I shall prevail, <br/>Standing on the promises of God.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Standing on the promises of Christ the Lord,<br/>Bound to Him eternally by love’s strong cord,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Overcoming daily with the Spirit’s sword,<br/>Standing on the promises of God.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Standing of the promises I cannot fall, <br/>Listening every moment to the Spirit’s call,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Resting in my Saviour, <br/>as my all in all,<br/>Standing on the promises of God.</lines>
+    </verse>
+  </lyrics>
+</song>

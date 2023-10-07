@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>He Keeps Me Singing</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Luther B. Bridgers</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Jesus, Jesus, Jesus,<br/>Sweetest name I know,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Fills my ev'ry longing,<br/>Keeps me singing as I go.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>There's within my heart a melody.<br/>Jesus whispers sweet and low:</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>"Fear not, I am with thee; peace, be still,"<br/>In all of life's ebb and flow.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>All my life was wrecked by sin and strife;<br/>Discord filled my life with pain.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Jesus swept across the broken strings,<br/>Stirred the slumb'ring chords again.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Feasting on the riches of His grace,<br/>Resting 'neath His shelt'ring wing,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Always looking on His smiling face,<br/>That is why I shout and sing.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Tho' sometimes He leads thro' waters deep,<br/>Trials fall across my way,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Tho' sometimes the path seems rough and steep,<br/>See His footprints all the way.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Soon He's coming back to welcome me<br/>Far beyond the starry sky.</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>I shall wing my flight to worlds unknown;<br/>I shall reign with Him on high.</lines>
+    </verse>
+  </lyrics>
+</song>

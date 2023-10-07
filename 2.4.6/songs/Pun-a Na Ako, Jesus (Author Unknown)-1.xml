@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Pun-a Na Ako, Jesus</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Pun-a na, pun-a na,<br/>Pun-a na ako Jesus;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Hupnga sa pagka-balaan,<br/>Duol na ug pun-on Mo.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>O Espiritung Balaan,<br/>Humdang kasing-kasing ko;</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Imo man akong mahupngan,<br/>Bisan di hingsayran ko;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>O Ikaw gikinahanglan,<br/>Duol na ug pun-on Mo.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Natugob ko sa kaluya,<br/>Ug Kanimo magtawag;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>O Espiritu nga dayon,<br/>Sa gahum pun-a ako.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Hinloi'g panalangini,<br/>Ug dasigon Mo ako;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Nagalipay, nagluwas Ka<br/>Pun-a na ako karon.</lines>
+    </verse>
+  </lyrics>
+</song>

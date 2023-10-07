@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>Silong Sa Iyang Pako</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Silong sa Iya nga pako,<br/>Kinsay modagit kanako,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Akong kalag gitago man<br/>Gitago Niya sa dayon.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Silong sa Iyang pako tagoanan,<br/>Bisan pa'g may bagyo nga mohuros;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>S'ya sa gihapon ang akong saligan,<br/>Kay ako Iya man nga giluwas.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Silong sa Iyang pako nga gamhanan,<br/>Ang dughan komakapahulay na;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sa panahon nga may gikalisangan,<br/>Diha Kaniya may kalinaw ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Silong sa Iyang pako may kalipay,<br/>Kay moagi lamang ang pagsulay;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Way dautan kanako nga mobuntog,<br/>Kay si Jesus nako manalipod.</lines>
+    </verse>
+  </lyrics>
+</song>

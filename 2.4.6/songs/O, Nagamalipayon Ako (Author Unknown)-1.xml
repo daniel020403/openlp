@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>O, Nagamalipayon Ako</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>O, nagamalipayon ako,<br/>Gugma Siya nga si Jesus;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>O, nagamalipayon  ako,<br/>Gihigugma ko Niya.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Nalipay ko nga ang Dios nagtug-an,<br/>Sa gugma N'ya nga katingalahan;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sa Kasulatan man nakita ko,<br/>Nga gihigugma ako ni Jesus.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Bisan kon mahisalaag ako,<br/>Nagapabilin ang Iyang gugma;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Dili mobiya ako kang Jesus,<br/>Kong mahinumdom ko sa gugma N'ya.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kon ang dakong Hari makita ko,<br/>Sa alawiton halaran ko S'ya;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang dayong awit ko mao kini,<br/>"Katingalahan ang gugma sa Dios."</lines>
+    </verse>
+  </lyrics>
+</song>

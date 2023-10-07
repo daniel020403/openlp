@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>Go Tell It On The Mountain</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>c1 v1 v2 v3 v4 v5 v6 v7 v2</verseOrder>
+    <authors>
+      <author>John W. Jr. Work</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Go tell it on the mountain,<br/>Over the hills and everywhere;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Go tell it on the mountain,<br/>That Jesus Christ is born.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Down in a lowly manger,<br/>The humble Christ was born;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And brought us God's salvation,<br/>That blessed Christmas morn.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>When I was a seeker,<br/>I sought both night and day;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I asked the Lord to help me,<br/>And He showed me the way.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>He made me a watchman,<br/>Upon the city wall;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>And if I am a Christian,<br/>I am the least of all.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>While shepherds kept their watching,<br/>O'er silent flocks by night;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Behold throughout the heavens,<br/>There shone a holy light.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>And lo, when they had seen it,<br/>They all bowed down and prayed;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>They traveled on together<br/>To where the Babe was laid.</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>The shepherds feared and trembled,<br/>When lo above the earth;</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>Rang out the angel chorus,<br/>That hailed our Savior's birth.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>When I was a sinner,<br/>I prayed both night and day;</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:07">
+  <properties>
+    <titles>
+      <title>Sing A New Song</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v13 v14 v15</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sing a new song, a song of praise to God above<br/>Sing a new song because of His amazing love</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise Him with song O make joyful sound<br/>Sing to the Lord! And let your praise abound!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Come, let us sing a song praise<br/>Sing a new song a song of worship to the Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sing a new song for He is honored and adored<br/>Worship the Lord Who is the Righteous King!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Worthy is He! Lift up your voice and sing!<br/>Come, let us sing</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Come, let us sing a song of praise<br/>God of grace and glory of majesty and power</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Rock of all the ages, a strong and mighty tower<br/>We will praise His faithfulness</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Worship Him in holiness<br/>Come let us sing, Come let us sing a song of praise, of praise</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Girls: Sing a new song a song of everlasting joy<br/>Boys: Sing a new song, a song of everlasting joy</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Girls: Sing a new song, a song that time cannot destroy<br/>Boys: Sing a new song, a song that time cannot destroy</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Glory to God! Praise Him with harp and string<br/>Mountains rejoice and all the valleys ring!</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Come let us sing, Come, let us sing a song of praise</lines>
+    </verse>
+    <verse name="v13">
+      <lines>Come, let us sing, Come, let us sing</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Come, let us sing, Come, let us sing a song of praise</lines>
+    </verse>
+    <verse name="v15">
+      <lines>Sing a new song!</lines>
+    </verse>
+  </lyrics>
+</song>

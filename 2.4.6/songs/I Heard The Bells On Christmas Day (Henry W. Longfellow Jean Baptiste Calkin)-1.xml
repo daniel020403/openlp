@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:06">
+  <properties>
+    <titles>
+      <title>I Heard The Bells On Christmas Day</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Henry W. Longfellow Jean Baptiste Calkin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I heard the bells on Christmas day,<br/>Their old familiar carols play;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And wild and sweet the words repeat,<br/>Of peace on earth, good will to men.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I thought how as the day had come,<br/>The belfries of all Christendom;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Had rolled along the unbroken song,<br/>Of peace on earth, good will to men.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>And in despair I bowed my head,<br/>"There is no peace on earth," I said;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>"For hate is strong and mocks the song,<br/>Of peace on earth, good will to men."</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Then pealed the bells more loud and deep,<br/>"God is not dead, nor doth He sleep;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>The wrong shall fail, the right prevail,<br/>With peace on earth, good will to men."</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Till ringing, singing on its way,<br/>The world revolved from night to day;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>A voice, a chime, a chant sublime<br/>Of peace on earth, good will to men.</lines>
+    </verse>
+  </lyrics>
+</song>

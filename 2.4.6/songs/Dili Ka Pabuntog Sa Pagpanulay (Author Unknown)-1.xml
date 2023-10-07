@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-09-10T03:56:05">
+  <properties>
+    <titles>
+      <title>Dili Ka Pabuntog Sa Pagpanulay</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Kang Jesus ka mosalig,<br/>Ang kalag mo itugyan;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Andam S'ya sa kanunay,<br/>Sa pagtabang nimo.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Dili ka pabuntog sa pagpanulay,<br/>Ang pagpadaug mo sa kasal-anan man;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Suklan mo sa kanunay ang kaaway mo,<br/>Kang Jesus mosalig, tabangan ka N'ya.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sulting dautan imong pagbiyaan,<br/>Dautang higala, biyai sila;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ang gugma'g kaluoy ipakita mo,<br/>Kang Jesus mosalig, tabangan ka N'ya.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ang nagmadaugon hatagan sa Dios,<br/>Mga purong-purong nga way paglubad;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Bisan ug tinamay, biniay-biay,<br/>Kang Jesus mosalig, tabangan ka N'ya.</lines>
+    </verse>
+  </lyrics>
+</song>
