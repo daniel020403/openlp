@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:28">
+  <properties>
+    <titles>
+      <title>Di Ba Kaha Karon?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Aleluya! Magmalipayon ko;<br/>Aleluya! S'yang koronahan ta;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Aleluya! Andam na man ako;<br/>Aleluya! Umari ka Jesus</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Si Jesus moanhi pag-usab,<br/>Di ba kaha karon?<br/>Moanhi man nga gamhanan S'ya,<br/>Di ba kaha karon?</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Angkonon Niya ang pinili,<br/>Tanang tinubos ug balaan;<br/>Sa tibuok nga kalibutan,<br/>Di ba kaha karon?</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Mapukan unya si Satanas,<br/>Niadtong adlawa;<br/>Wa nay panghayhay kon kasubo,<br/>Pagbalik ni Jesus;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Mabanhaw g'yud ang pinili N'ya,<br/>Aron sa pagsugat Kaniya;<br/>Kanus-a ba nga S'ya mobalik,<br/>Di ba kaha karon?</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Makita ba ang matarung ka,<br/>Kon 'nia na Siya?<br/>Dili maglangan ang Ginoo,<br/>Mobalik g'yud Siya,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang mga  tagna natuman na,<br/>Tumanon Niya ang saad N'ya,<br/>Pagbantay kay Siya mobalik,<br/>Di ba kaha karon?</lines>
+    </verse>
+  </lyrics>
+</song>

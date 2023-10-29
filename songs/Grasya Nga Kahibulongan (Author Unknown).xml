@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:28">
+  <properties>
+    <titles>
+      <title>Grasya Nga Kahibulongan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Grasya nga kahibulongan,<br/>Katam-is Mo gayud!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Buta man ko ug hinukman,<br/>Nakit-an, naluwas.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Nagtudlo man ang grasya Mo,<br/>Kanako pagtahud;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Bililhon man king grasya Mo;<br/>Nga akon nadawat.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Sa daghan nga kalisdanan,<br/>Nga giagian ko,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Giagak ko sa grasya Mo,<br/>Ug gitultolan pa.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Sa langit may puloy-an ta,<br/>Magdan-ag ta didto;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Walay hunong, magpadayon, <br/>Ang atong pagdayeg.</lines>
+    </verse>
+  </lyrics>
+</song>

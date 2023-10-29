@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:30">
+  <properties>
+    <titles>
+      <title>Kabigon Kong Mga Kalag</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Kabigon kong mga kalag,<br/>Pag-ampo ko kini;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Sa adlaw-adlaw nga tanan,<br/>Tabangan Mo ako.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>O Dios, hatagan Mo ako,<br/>Ug gugma sa kalag;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Buhaton kong mahimo ko,<br/>Pagkabig ug kalag.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Tugti, O Ginoo ko,<br/>Maako'ng gugma Mo;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ug sa gahum Mo pun-a, ko,<br/>Pagkabig sa kalag.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kabigon kong nangawala,<br/>Maoy pag-ampo ko;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ug unya sa himaya, Mo,<br/>Makita ko sila</lines>
+    </verse>
+  </lyrics>
+</song>

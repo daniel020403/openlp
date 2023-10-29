@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:28">
+  <properties>
+    <titles>
+      <title>Ginahigugma Ko Ang Iglesia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ginahigugma ko,<br/>Iglesia Mo, O Dios,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nga gilukat sa Ginoo,<br/>Sa giulang dugo.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sa gugma kong bug-os<br/>Sa luha man usab,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Halaran Ka sa gihapon,<br/>Sa kinabuhi ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Gihandum ko gayud,<br/>Ang mga buhat N'ya,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang mga buhat N'ya,<br/>Ang pakig-ambit, pagdait,<br/>Ug mga saad N'ya.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Iglesia Mo, O Dios,<br/>Hatagan g'yud siya,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sa yutan-on ug langitnong,<br/>Himaya nga dayon. AMEN.</lines>
+    </verse>
+  </lyrics>
+</song>

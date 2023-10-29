@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:29">
+  <properties>
+    <titles>
+      <title>He Took My Sins Away</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Margaret Jenkins Harris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>He took my sins away,<br/>He took my sins away,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And keeps me singing every day!<br/>I'm so glad He took my sins away.<br/>He took my sins away.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I came to Jesus, weary, worn and sad.<br/>He took my sins away;<br/>He took my sins away.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And now His love has made<br/>My heart so glad.<br/>He took my sins away.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>The load of sin was more<br/>Than I could bear.<br/>He took them all away;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>He took them all away.<br/>And now on Him I roll<br/>My every care.<br/>He took my sins away.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>No condemnation have I in my heart.<br/>He took my sins away;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>He took my sins away.<br/>His perfect peace He did to me impart.<br/>He took my sins away.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>If You will come to Jesus Christ today,<br/>He'll take Your sins away,<br/>He'll take Your sins away,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>And keep You happy in His love each day.<br/>He'll take Your sins away.</lines>
+    </verse>
+  </lyrics>
+</song>

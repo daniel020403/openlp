@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:34">
+  <properties>
+    <titles>
+      <title>Springs of Living Water</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Drinking at the springs <br/>of living water,<br/>Happy now am I,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>My soul they satisfy;<br/>Drinking at the springs<br/>of living water,<br/>O wonderful<br/>and bountiful supply.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I thirsted in the barren <br/>land of sin and shame,<br/>And nothing satisfying<br/>there I found;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>But to the blessed cross of <br/>Christ one day I came,<br/>Where springs of living water<br/>did abound.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>How sweet  the living water <br/>from the hills of God<br/>It makes me glad<br/>and happy all the way;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Now glory, grace and <br/>blessing mark the path I’ve trod,<br/>I’m shouting “Hallelujah”<br/>ev’ry day.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>O sinner, won’t you come <br/>today to Calvary,<br/>A fountain there is flowing<br/>deep and wide;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>The Saviour now invites you <br/>too the water free,<br/>Where thirsting spirits<br/>can be satisfied.</lines>
+    </verse>
+  </lyrics>
+</song>

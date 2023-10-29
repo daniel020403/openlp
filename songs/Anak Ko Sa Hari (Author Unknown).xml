@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:26">
+  <properties>
+    <titles>
+      <title>Anak Ko Sa Hari</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Anak ko sa Hari,<br/>Haring langitnon;<br/>tungod lang kang Jesus,<br/>Anak  ko sa Hari.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang Amahan ko bahandianon,<br/>Siya ang tag-iya ning kalibutan;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang mga rubi ug mga bulawan,<br/>Bisan salapi, Iya kining tanan.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Si Cristo Jesus ang Manunubos,<br/>Nanaug dinhi sa tumang kakabus;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Apan karon 'tua Siya sa langit,<br/>Mobalik Siya, ang dakung Hari ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Nahilayo ko, nahisalaag,<br/>Nahimulag sa Dios tungod sa sala;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Karon naluwas na, sinagop pa,<br/>Ug manununod sa himaya Niya.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Bisan payag lang ang puloy-an ko,<br/>Ako giandaman sa Dios ug dapit;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Bisan sinalikway, ako mag-awit,<br/>"Dalaygon ang Dios, anak ko sa Hari!"</lines>
+    </verse>
+  </lyrics>
+</song>

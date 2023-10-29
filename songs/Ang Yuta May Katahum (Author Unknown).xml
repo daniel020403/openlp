@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:26">
+  <properties>
+    <titles>
+      <title>Ang Yuta May Katahum</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ang yuta may katahum,<br/>Bisan ang kalangitan;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ug ang paghigugma Mo,<br/>Nagalibot kanamo.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Among pagadaygon Ka,<br/>O, Ginoo sa tanan.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>O, pagkatingalahan,<br/>Sa gabii ug adlaw;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sa bituon ug bulan,<br/>Sa bulak, kakahoyan!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ang Iglesia Mong mahal,<br/>Ginatuboy Mo gayud;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ug ang Imo nga gugma,<br/>Gipakita sa tanan,</lines>
+    </verse>
+  </lyrics>
+</song>

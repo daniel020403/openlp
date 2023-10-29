@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:27">
+  <properties>
+    <titles>
+      <title>Blessed Be The Name</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Ralph E. Hudson William H. Clark</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Blessed be the name,<br/>Blessed be the name,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Blessed be the name of the Lord;<br/>Blessed be the name,<br/>Blessed be the name,<br/>Blessed be the name of the Lord.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>All praise to Him who reigns above,<br/>In majesty supreme</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Who gave His Son for man to die,<br/>That He might man redeem!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>His name above all names shall stand,<br/>Exalted more and more,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>At God the Father's own right hand,<br/>Where angel hosts adore.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Redeemer, Savior, Friend of man,<br/>Once ruined by the fall,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Thou hast devised salvation's plan,<br/>For Thou hast died for all.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>His name shall be the Counselor,<br/>The mighty Prince of Peace,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Of all earth's kingdoms Conqueror,<br/>Whose reign shall never cease.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:32">
+  <properties>
+    <titles>
+      <title>O Christmas Tree</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v2a">
+      <lines>O Christmas tree O Christmas tree,<br/>You stand in verdant beauty.<br/>O Christmas tree O Christmas tree,<br/>You stand in verdant beauty.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Your boughs are green in summer's glow,<br/>And do not fade in winter's snow.<br/>O Christmas tree O Christmas tree,<br/>You stand in verdant beauty.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>O Christmas tree, O Christmas tree,<br/>Thy leaves are so unchanging,<br/>O Christmas tree, O Christmas tree,<br/>Thy leaves are so unchanging;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Not only green when summer's here,<br/>But also when 'tis cold and drear.<br/>O Christmas tree, O Christmas tree,<br/>Thy leaves are so unchanging!</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>O Christmas tree, O Christmas tree,<br/>Thy candles shine so brightly,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>O Christmas tree, O Christmas tree,<br/>Thy candles shine so brightly!</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>O Christmas Tree, O Christmas Tree,<br/>You bear a wondrous message!<br/>O Christmas Tree, O Christmas Tree,<br/>You bear a wondrous message!</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>You do proclaim the Savior's birth,<br/>Good will to men and peace on earth.<br/>O Christmas Tree, O Christmas Tree,<br/>You bear a wondrous message!</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>O Christmas Tree, O Christmas tree,<br/>Of all the trees most lovely;<br/>O Christmas tree, O Christmas tree,<br/>Of all the trees most lovely;</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>Each year you bring to me delight<br/>Gleaming in the Christmas night.<br/>O christmas tree, O Christmas tree,<br/>Of all the trees most lovely.</lines>
+    </verse>
+    <verse name="v7a">
+      <lines>O Christmas tree, O Christmas tree,<br/>Your leaves will teach me also,<br/>O Christmas tree, O Christmas tree,<br/>Your leaves will teach me also</lines>
+    </verse>
+    <verse name="v7b">
+      <lines>That hope and love and faithfulness<br/>Are precious things I can possess.<br/>O Christmas tree, O Christmas tree,<br/>Your leaves will teach me also.</lines>
+    </verse>
+  </lyrics>
+</song>

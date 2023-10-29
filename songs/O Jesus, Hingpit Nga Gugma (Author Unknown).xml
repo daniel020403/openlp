@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:32">
+  <properties>
+    <titles>
+      <title>O Jesus, Hingpit Nga Gugma</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O Jesus hingpit nga gugma<br/>Ug kalipay sa tanan,<br/>Kasingkasing namo pun-a<br/>Ug panalangini na.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Maluloy-on Ka, O Cristo<br/>Gugmang putli man Ikaw;<br/>Gihatag Mong kaluwasan<br/>Sa tanan nga katawhan.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>O Espiritu sa gugma,<br/>Ang nasamok lipaya;<br/>Ang tanan nagmasulob-on<br/>Papahulayon Mo man.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ang kaibug nga yutan-on<br/>O Jesus, papason Mo;<br/>Ug sa dayong kagawasan<br/>Among gilauman Ka.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Imong saad mamatuman<br/>Nga kami hinloan Mo;<br/>Ang daku Mong kaluwasan<br/>Amo man nga makit-an.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Himoa kami Ginoo,<br/>Sama sa himaya Mo;<br/>Hangtud nga didto sa langit<br/>Among pagadaygon Ka.</lines>
+    </verse>
+  </lyrics>
+</song>

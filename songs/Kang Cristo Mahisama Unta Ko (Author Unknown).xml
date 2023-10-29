@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:30">
+  <properties>
+    <titles>
+      <title>Kang Cristo Mahisama Unta Ko</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Cristo Jesus, Imoha na ako,<br/>King kinabuhi ko pagmandoi;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Cristo Jesus, ako hinloan Mo,<br/>Ug pasayloa ang kasalanan ko.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Kang Cristo mahisama unta ko,<br/>Sa pagkamapainubsanon N'ya;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mabinuhaton, tugob sa kalumo,<br/>Matinumanon sa kabubut-on N'ya.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kang Cristo mahisama unta ko,<br/>Maoy pag-ampo ug pangandoy ko;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sa kalisdanan ko magaantus lang,<br/>Nagapangabig sa mga nawala.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kang Cristo mahisama unta ko,<br/>Mahigugmaon ngadto sa uban;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Sama kang Cristo unta magpa-ubos,<br/>Nagapangandoy'ng masama kang Jesus.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ang Dios nga balaan palandungon mo,<br/>May dayong kalinaw sa Imong kalag;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sa Iyang pagmando,tultolan ikaw,<br/>Ngadto sa himaya sa Diosnong balay.</lines>
+    </verse>
+  </lyrics>
+</song>

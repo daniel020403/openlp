@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:33">
+  <properties>
+    <titles>
+      <title>Sa Krus Mo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Nianang krus, nianang krus,<br/>"Naa ang himaya;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Hangtud nga dangaton ko,<br/>Dayon nga pahulay.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ipaduol ko Jesus,<br/>Sa krus Mo'ng namatyan;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Makaalim nga tubod,<br/>GIkan sa Kalbaryo.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sa krus miduol ako,<br/>Kay walay mahimo;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Gidan-agan Mo ako,<br/>Sa gugma'g kaluoy.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Pahinumdumi ako,<br/>Sa krus Mo'ng namatyan;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Sa pagpanaw mandoi,<br/>Landongi kanunay.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>GInoo ania ko,<br/>Naglaum, nagsalig;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Hangtud moabot ako,<br/>Sa langitnong dapit.</lines>
+    </verse>
+  </lyrics>
+</song>

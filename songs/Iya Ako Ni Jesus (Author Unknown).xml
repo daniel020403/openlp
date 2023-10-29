@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:30">
+  <properties>
+    <titles>
+      <title>Iya Ako Ni Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Iya ako ni Jesus,<br/>Ug ako si Jesus;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Di kay sa katuigan lang,<br/>Sa kahangturan man.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Si Jesus nahigugma kanako,<br/>Gikan Kaniya way makaagaw;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang kinabuhi gihatag N'ya,<br/>Iya na ko karon.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ako naglunang sa kasalanan,<br/>Si Jesus nagdala'g kaluwasan;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sa kaulawan gibangon ko,<br/>Iya na ko karon.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kalipay mibaha sa kalag ko,<br/>Giluwas ko N'ya sa kaulipnan;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Iyang dugo maoy nagtubos,<br/>Iya na ko karon.</lines>
+    </verse>
+  </lyrics>
+</song>

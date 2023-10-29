@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:32">
+  <properties>
+    <titles>
+      <title>O Mao Ning Himaya Ko</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Mao ning himaya ko,<br/>Himaya ko, himaya ko,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Kong magatutok ako kang Jesus,<br/>Maoy kalipay kong dayon kini.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Kong mahuman nang mga buhat ko,<br/>Ug maabot ko na ang himaya;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang pakig-uban ko sa Ginoo,<br/>Maoy himaya kong dili tupngan.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kong pinaagi sa grasya Niya,<br/>Maangkon ko ang langitnong dapit;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ang Iyang dagway tutokan nako,<br/>Maoy himaya kong dili tupngan.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Unya sa langit akong makit-an,<br/>Mga katawhan nga gilukat Niya;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang Iya nga pahiyom kanako,<br/>Maoy himaya kong dili tupngan.</lines>
+    </verse>
+  </lyrics>
+</song>

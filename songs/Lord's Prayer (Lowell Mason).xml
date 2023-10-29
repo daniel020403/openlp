@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:30">
+  <properties>
+    <titles>
+      <title>Lord's Prayer</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Lowell Mason</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Our Father who art in Heaven,<br/>Hallowed by Thy name.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Thy kingdom come, Thy will be done,<br/>On earth as it is in heaven.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Give us this day our daily bread;<br/>And forgive us our trespasses</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>As we forgive those<br/>Who trespass against us.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>And lead us not into temptation,<br/>But deliver from evil,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>For thine is the kingdom,<br/>And the power and the glory forever.<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

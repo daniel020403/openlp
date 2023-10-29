@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:26">
+  <properties>
+    <titles>
+      <title>Ang May  Gahum Nga Si Jesus</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ang may gahum nga si Jesus,<br/>Simbahon sa tanan;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Purong-purongan man Siya,<br/>Ginoo sa tanan;</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Purong-purongan man Siya, Ginoo.<br/>Ginoo sa tanan.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kabitoonan nga tanan,<br/>Tahuron ninyo s'ya;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ug himayaon ta Siya, <br/>Ginoo sa tanan;</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Purong-purongan man Siya,<br/>Ginoo sa tanan.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Makasasalang gilukat,<br/>Sa Iya nga dugo;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Siya ang atong yukboan,<br/>Ginoo sa tanan;</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ang kaliwatan nga tanan,<br/>Ning kalibutan ta;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Siya halaran sa dungog,<br/>Ginoo sa tanan;</lines>
+    </verse>
+  </lyrics>
+</song>

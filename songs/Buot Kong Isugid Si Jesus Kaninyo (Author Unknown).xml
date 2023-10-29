@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:27">
+  <properties>
+    <titles>
+      <title>Buot Kong Isugid Si Jesus Kaninyo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Wa nay laing nabalaka kanako,<br/>Way laing maluloy-ong abyan;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Kasalanan ko gayud Iyang gikuha,<br/>Kadaku sa gugma N'ya!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Bout kong isugid si Jesus kaninyo,<br/>S'yang labing matuod nga higala ko;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Giusab Niya ang akong kinabuhi,<br/>Buhat nga dili mahimo sa uban.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Nagalunang man ako sa kasalanan,<br/>Sa hingkaplagan ako sa Ginoo;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Iya nga gisapnay ko sa Iyang bukton,<br/>Ug sa dalan N'ya gitultolan ako.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Adlaw-adlaw nagpasalig S'ya kanako,<br/>Nga sa gugma N'ya ako magatubo;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Di matugkad nganong giluwas ko Niya,<br/>Hangtud nga ang nawong N'ya makita ko.</lines>
+    </verse>
+  </lyrics>
+</song>

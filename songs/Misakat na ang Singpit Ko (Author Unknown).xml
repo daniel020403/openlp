@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:31">
+  <properties>
+    <titles>
+      <title>Misakat na ang Singpit Ko</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ang sinipit misakat,<br/>Ning mahuyang kong kalag;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Kon ang hangin mohuros<br/>Grasya Nya salipdan ko,<br/>Misakat na ang sinipit ko.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Daw mapintas nga balud,<br/>Ang pagsakit ning kalag;<br/>May kalinaw'ng hingpit ko,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Diha kang Cristo.<br/>Sya sinipit kong lig-on,<br/>Ug walay pagkatarug.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Dagku ang mga balud,<br/>Nga kanako naglibot;<br/>Ug ang langit mangitngit,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Naghulagway'g kasakit.<br/>Ang tanan akong dag-on,<br/>Kay sinipit ko lig-on</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ang sinipit misakat,<br/>Ni'ning kinabuhi ko;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Wa akoy kahadlokan,<br/>Bisan ug may bagyo man Magpadayon ko'g lawig,<br/>Hangtud nga modunggo na</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Hapit na'ng malupig ko,<br/>Sa tanan nga kasubo;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Daw dili maantus<br/>Ug patintal naglikos,<br/>Apan kang Jesu-Cristo,<br/>Naa ang pagsalig ko.</lines>
+    </verse>
+  </lyrics>
+</song>

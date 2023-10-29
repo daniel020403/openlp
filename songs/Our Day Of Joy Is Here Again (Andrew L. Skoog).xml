@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:32">
+  <properties>
+    <titles>
+      <title>Our Day Of Joy Is Here Again</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Andrew L. Skoog</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Glory to our God, we sing,<br/>Glory to our Lord and King;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Peace, goodwill with all abide,<br/>This holy Christmas tide.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Our day of joy is here again,<br/>With love and peace and song;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Come, let us join the angelic strain<br/>With voices clear and strong.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>When darkness lay upon the earth,<br/>A glorious light did shine;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>God sent a Gift of priceless worth<br/>And showed His love divine.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Now to the manger let us go<br/>To worship and adore;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>The tender Babe upon the straw,<br/>Our Savior evermore.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>How wonderful that God's own Son<br/>Should so Himself abase!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>He thrust the mighty from their throne,<br/>And gave the lowly grace.</lines>
+    </verse>
+  </lyrics>
+</song>

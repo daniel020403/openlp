@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:29">
+  <properties>
+    <titles>
+      <title>I Love To Walk With Jesus</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Charles F. Weigle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>I will follow where He leadeth;<br/>I will pasture where He feedeth.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I will follow all the way, Lord.<br/>I will follow Jesus ev'ry day.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Oh, I love to walk with Jesus,<br/>Like the publicans of old.<br/>When He gathered them about Him<br/>And the blessed tidings told:</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>How He came to bring deliv'rance<br/>To the captives in distress.<br/>Take away our ev'ry burden,<br/>Giving perfect peace and rest.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>O I love to walk with Jesus<br/>Like the man of long ago<br/>Who had tarried by the wayside<br/>Near the gates of Jericho.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Jesus heard his cry for mercy,<br/>Gave him back his sight that day,<br/>And immediately he followed Jesus<br/>All along the way.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>O I love to walk with Jesus<br/>All the way to Calv'ry's brow,<br/>Gaze upon that scene of suff'ring<br/>While my tears of sorrow flow.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>There He tells me how He loves me,<br/>Takes my ev'ry sin away;<br/>So I follow Him so gladly,<br/>Lead me anywhere He may.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>O sometime I'll walk with Jesus<br/>In the land of endless day,<br/>When our journey here is over<br/>And we've reached our home to stay.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Then I'll walk with Him forever,<br/>Sing His praises o'er and o'er,<br/>And with all the saints in glory<br/>Love and worship and adore.</lines>
+    </verse>
+  </lyrics>
+</song>

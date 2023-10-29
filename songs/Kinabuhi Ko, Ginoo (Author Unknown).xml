@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:30">
+  <properties>
+    <titles>
+      <title>Kinabuhi Ko, Ginoo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Kinabuhi ko Ginoo,<br/>Sa gahum Mo pun-a na;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Ug gamita matag adlaw,<br/>Matag takna man usab.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Daygon ko ang Manluluwas,<br/>Kay Iya kong gilukat;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Gihinloan, gibalaan,<br/>Aron nga magamit N'ya.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Way sulod king kinabuhi,<br/>Naghulat nga pun-on Mo;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sa gahum man nga langitnon,<br/>Ug tumanong gusto Mo.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Nasinati kong gahum Mo,<br/>Nga kanako nagluwas;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Imo na ako Ginoo,<br/>Hupnga ug gamhi ako.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Kasingkasing ko Ginoo,<br/>Pun-a sa Espiritu;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Mobaha unta kanako,<br/>Ang buhi nga tubig Mo,</lines>
+    </verse>
+  </lyrics>
+</song>

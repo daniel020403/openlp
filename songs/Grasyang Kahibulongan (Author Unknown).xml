@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:28">
+  <properties>
+    <titles>
+      <title>Grasyang Kahibulongan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Kahibulongang grasya ni Jesus,<br/>Lalum pa kay sa kadagatan;<br/>Katingalahan ang grasya N'ya alang sa tanan,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Labaw pa sa akong kalapasan,<br/>Bisan pa sa kasal-anan ko;<br/>Dayga ang bililhong ngalan ni Jesus,<br/>Dayga S'ya!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Grasyang kahibulongan sa akong Ginoo,<br/>Mas labaw pang gamhanan sa kasal-anan ko;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang silot ko gikuha, may kagawasan na,<br/>Kay nadawat ko na ang grasya ni Jesus!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Grasyang kahibulongan sa akong Ginoo<br/>Ang nagbugto kanako sa talikala ko;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Walay pagkaulipon kay luwas na ako,<br/>Kay nadawat ko na ang grasya ni Jesus!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Grasyang kahibulongan sa akong Ginoo,<br/>Naghatag ug kalinaw nga dili mahanaw;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang kinabuhing dayon ako nga naangkon,<br/>Kay nadawat ko na ang grasya ni Jesus!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:30">
+  <properties>
+    <titles>
+      <title>Katam-is Ngalan Ni Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Jesus, ngalan nga mahal,<br/>Adlaw-adlaw nga tanan;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Isangyaw ko si Jesus,<br/>Daygon ko S'ya kanunay.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Katam-is ngalan ni Jesus,<br/>Sa awit balik-balikon;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Naghingpit sa kalipay ko,<br/>Mahal nga ngalang, Jesus.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Mahal gayud ang ngalan N'ya,<br/>Mibati sa kasakit ko;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Nagkuha  sa kahadlok ko,<br/>Daygon ko S'ya kanunay.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Hinidlaw ko ang ngalan N'ya,<br/>Naglig-on sa akong kalag;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang luha ko pahiran N'ya,<br/>Daygon ko S'ya kanunay.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Katam-is ngalan ni Jesus,<br/>Sa hingpit di jud malitok;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>O daygon ko ang ngalan N'ya,<br/>Daygon ko S'ya kanunay.</lines>
+    </verse>
+  </lyrics>
+</song>

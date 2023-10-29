@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:26">
+  <properties>
+    <titles>
+      <title>Ang Alanihon</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ang alanihon, ang alanihon,<br/>Sa dakong kalipay dad-on na karon;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Ang alanihon, ang alanihon,<br/>Sa dakong kalipay dad-on na karon.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Magpugas sa buntag ug sa kahapunon,<br/>Buhat sa kaluoy, magpugas kita;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>maghulat sa ani sa dakung kalipay,<br/>Dili na madugay magaani ta.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Magpugas sa hayag, magpugas sa landong,<br/>Ug walay kahadlok sa dangatan ta;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Dili na madugay moabut kanato, <br/>Ang dakong kalipay sa alanihon.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Bisan pa may luha, bisan may kasakit,<br/>Alang sa Ginoo magpugas kita;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Tapus sa kabudlay Iya tang pagtawgon,<br/>Dili na madugay magaani ta.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:35">
+  <properties>
+    <titles>
+      <title>Tipkang Tinapay Sa Kinabuhi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tipkang tinapay sa kinabuhi,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Alang kanako, O Ginoo ko;<br/>Sa kasulatan gipangita ko.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Panalangini na ang Pulong Mo,<br/>Sama didto sa  Galilea man;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Unya tanang gapus malugtas na,<br/>Ug ang kalinaw Mo madawat ko.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Buhing tinapay Ka, O Ginoo,<br/>Ang pulong mo ang kaluwasan ko;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang gitinguha ko gihatag Mo,<br/>Sa paghigugma tudloi ako.</lines>
+    </verse>
+  </lyrics>
+</song>

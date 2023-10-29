@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:30">
+  <properties>
+    <titles>
+      <title>Jesus, Moduol Ako</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Gikan sa ako nga kaulipnan,<br/>Sa kagul-anan, sa kangitngitan,<br/>Nganha sa Imo nga kagawasan,<br/>Jesus moduol ko;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Gikan sa ako nga balatian,<br/>Ug sa tumang kahangulan nako,<br/>Gikan sa ako nga kasal-anan,<br/>Modangop ko Nimo.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Gikan sa akong pagkahisalaag,<br/>Ania na ako Jesu-Cristo,<br/>Nganha sa Imong krus nga bililhon,<br/>Jesus moduol ko;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Gikan pa sa mga kalisdanan,<br/>Nganha sa hingpit Mo nga  kalinaw,<br/>Gikan sa mga kapaitan ,<br/>Modangop ko Nimo.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Gikan man sa pagkamasupilon,<br/>Ania na ako Jesu-Cristo;<br/>Nganha sa Imo nga kabalaan,<br/>Jesus moduol ko;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Gikan pa sa mga katalagman,<br/>Sa gahum Mo ako mopasilong,<br/>Imo nga dagway akong sud-ongon,<br/>Modangop ko Nimo.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Gikan man sa mga kadautan,<br/>Ug sa kahadlok man sa lubnganan,<br/>Ngadto sa puloy-anang langitnon,<br/>Jesus moduol ko.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Gikan sa ako nga kalapasan,<br/>Ug sa tanan ko nga kapakyasan,<br/>Nganha sa Imong putli nga gugma,<br/>Modangop ko Nimo.</lines>
+    </verse>
+  </lyrics>
+</song>

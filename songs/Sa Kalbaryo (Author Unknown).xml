@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:33">
+  <properties>
+    <titles>
+      <title>Sa Kalbaryo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Sa Kalbaryo ako Iyang gilamdagan man,<br/>Ug ang kinabuhi ko gibag-o,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Didto gikuha N'ya ang akong lulan,<br/>Ug nagmalipayon ko karon.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang Manluluwas kong Jesus,<br/>Sa krus nag-antus S'ya;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ug S'ya ang nagpakamatay,<br/>Kanako pagluwas.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ang kasal-anan kong tanan,<br/>Giantus N'ya sa krus;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kaluoy N'ya walay sukod,<br/>Ug gugmang di tupngan.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Dili kabayrang gugma Mo,<br/>Sa kasub-anan ko;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Jesus ihatag ko karon,<br/>Ang ako nga tanan.</lines>
+    </verse>
+  </lyrics>
+</song>

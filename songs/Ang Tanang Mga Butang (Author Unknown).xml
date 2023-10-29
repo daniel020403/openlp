@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:26">
+  <properties>
+    <titles>
+      <title>Ang Tanang Mga Butang</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ang tanang mga butang,<br/>Dagku ug gagmay man;</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sa atong Ginoong Dios,<br/>Gibuhat ang tanan. AMEN.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang mga kabulakan,<br/>Ug ang kalanggaman;</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Silang tanan gihimo,<br/>Sa Dios nga gamhanan.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Iya nga kabukiran,<br/>Ug ang mga suba;</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Ang adlaw ug gabii,<br/>Gibuhat N'yang tanan.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ang hangin nga matugnaw,<br/>Ug kabalilihan;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Mga bunga sa kahoy,<br/>Tanan gibuhat N'ya.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ang lawas tang mabaskug,<br/>Gihatag N'ya sa Dios;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ingon man ang baybayon,<br/>Pulos maayo man.</lines>
+    </verse>
+  </lyrics>
+</song>

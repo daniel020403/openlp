@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:27">
+  <properties>
+    <titles>
+      <title>Dalayegon Si Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Day'gon si Jesus,<br/>Day'gon si Jesus,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Tungod sa dugo N'yang giula,<br/>Day'gon si Jesus.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Sa krus nga namatyan ni Jesus,<br/>Diin ang dugo N'ya giula,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Akong nadawat ang pasaylo,<br/>Day'gon ngalan N'ya.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Nabatonan kong kaluwasan,<br/>Didto sa krus kini natuman;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Karon S'ya ania ning dughan,<br/>Day'gon ngalan N'ya.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Dugo ni Jesus ang naghinlo,<br/>Kinabuhi ko may kalipay;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Binantayan ako ni Jesus,<br/>Day'gon ngalan N'ya.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Dangop sa tubod nga si Jesus,<br/>Kaniya itugyan ang tanan;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Salig karon ug mahinlo ka,<br/>Day'gon ngalan N'ya.</lines>
+    </verse>
+  </lyrics>
+</song>

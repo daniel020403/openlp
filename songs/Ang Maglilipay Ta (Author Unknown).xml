@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:26">
+  <properties>
+    <titles>
+      <title>Ang Maglilipay Ta</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Ania na Siya,<br/>Ang Maglilipay ta,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Nga gisaad sa Amahan nga langitnon;<br/>Isangyaw sa tanan nga 'nia na karon,<br/>Ang Maglilipay ta.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>May imantala ta alang sa katawhan,<br/>Kansang kinabuhi puno sa kalisod;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tanan nga Cristohanon magsangyaw karon,<br/>Sa Maglilipay ta.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Tapus nang gabii, may kabuntagon na,<br/>Nga mopahunong sa madagmalong unos;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Nagbanag-banag na ang bag-o nga adlaw,<br/>Sa maglilipay ta.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Karon ania nang dakung Mananambal,<br/>Sa tanang balitaan naga-ayo S'ya;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang kaluwasang hingpit ginahatag N'ya,<br/>Sa Maglilipay ta.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>O Gugmang langitnon, unsaon paglitok,<br/>Ning dila ko sa grasya Mong dili tupngan?</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Makasasala ta nga gipasaylo na,<br/>Kay Maglilipay Ka.</lines>
+    </verse>
+  </lyrics>
+</song>

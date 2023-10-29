@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:31">
+  <properties>
+    <titles>
+      <title>Mabalaka Ba Si Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Oo may kabalaka S'ya,<br/>Ug maluloy-on usab;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Sa kakapoy nako ug kagul-anan,<br/>May kabalaka Siya.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Kon kasingkasing ko mabug-at,<br/>Ug matingban sa kaguol;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kon ang panaw ko daw malaay man,<br/>Mabalaka ba si Jesus</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kon mangingit ang agian ko,<br/>Bisan sa mga kakuyaw;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kon maginusara na lang ako,<br/>Mabalaka ba si Jesus?</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>May kabalaka ba si Jesus,<br/>Sa mga kapakyasan ko?</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kon ako way laing kapaingnan,<br/>Mabalaka ba si Jesus?</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Kon kamatayon modangat na,<br/>Sa mga pinalangga ko;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ug mabug-at ang kasingkasing ko,<br/>Mabalaka ba si Jesus?</lines>
+    </verse>
+  </lyrics>
+</song>

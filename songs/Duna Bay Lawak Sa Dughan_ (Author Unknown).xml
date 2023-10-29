@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:28">
+  <properties>
+    <titles>
+      <title>Duna Bay Lawak Sa Dughan?</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Duna bay lawak sa dughan,<br/>Alang Niya kang Jesus?</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Imo ba Siyang pasudlon?<br/>Buksi na ang dughan mo.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Dunay bay lawak sa dughan,<br/>Alang  Niya kang Jesus;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nagpanuktok S'ya naghangyo,<br/>Imo bang pasudlon S'ya?</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>May lawak sa kalingawan,<br/>Ug sa yutan-ong butang;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kang Jesus nga Manluluwas,<br/>Duna ba Siya'y dapit?</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Samtang S'ya nagsangpit nimo,<br/>Pasudlon mo ba Sya?</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Si Jesus karon dawata,<br/>Ulahi na ang ugma.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Si Jesus karon hatagi,<br/>Ug luna sa dughan mo;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Moabot unya ang takda,<br/>Nga tak-upang grasya N'ya.</lines>
+    </verse>
+  </lyrics>
+</song>

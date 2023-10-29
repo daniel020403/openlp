@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:33">
+  <properties>
+    <titles>
+      <title>Pagtugyang Hingpit</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Pagtugyang hingpit, O Ginoo,<br/>Maoy pangandoy nako karon;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sa atubangan Mo ihalad kong tanan,<br/>Ako giluwas Mo; Imo ako.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Ang kinabuhi itugyan ko,<br/>Ang mga gutlo ug ang tanan;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sultihi, Ginoo kay sundon ko ikaw,<br/>Sa kahangturan man,tumanon Ka.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Mga bahandi itugyan ko,<br/>Kanimong naghatag sa tanan;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang ako nga tanan, Imoha Ginoo,<br/>Kay gilukat ako Nimo, Jesus.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Pagtugyang hingpit, O Ginoo,<br/>King kinabuhi dawaton Mo;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ang kahupnganan Mo maangkon ko unta<br/>Puy-i ako, Jesus; itugyan ko.</lines>
+    </verse>
+  </lyrics>
+</song>

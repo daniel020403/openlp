@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:28">
+  <properties>
+    <titles>
+      <title>Gabii Sa Getsemane</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Gabii sa Getsemane,<br/>Mangiob kabitoonan;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Didto ang Manluluwas ta,<br/>Nag-inusara, nag-ampo.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>S'ya gitalikdan sa tanan,<br/>Sa kaguol nakigdumog;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Bisang tinun-an N'yang mahal,<br/>Mibiya Kaniya usab.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Tungod sa katapusan ta,<br/>Siya naghilak sa dugo;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Apan sa Iyang pag-antus,<br/>Wala pasagdi S'ya sa Dios.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Gikan sa kahitas-an man,<br/>Dihay langitnon nga awit;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Honing wa mabati sa tawo,<br/>Nga nagalipay kang Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

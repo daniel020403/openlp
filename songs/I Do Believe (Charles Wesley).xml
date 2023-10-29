@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:29">
+  <properties>
+    <titles>
+      <title>I Do Believe</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I do believe, I now believe<br/>That Jesus died for me;</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Father, I stretch my hands to Thee;<br/>No other help I know.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>If Thou withdraw thyself from me,<br/>Ah, whither shall I go?</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>What did Thine only Son endure<br/>Before I drew my breath!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>What pain, what labor,<br/>To secure my soul from endless death!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Author of faith, to Thee I lift<br/>My weary, longing eyes.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Oh, let me now receive that gift;<br/>My soul, without it, dies.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Surely Thou canst not let me die;<br/>Oh, speak, and I shall live.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>And here I will unwearied lie<br/>Till Thou Thy Spirit give.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>How would my fainting soul rejoice<br/>Could I but see Thy face!</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>now let me hear Thy quick'ning voice,<br/>And taste Thy pard'ning grace.</lines>
+    </verse>
+  </lyrics>
+</song>

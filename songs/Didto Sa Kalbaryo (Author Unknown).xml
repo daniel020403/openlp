@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:28">
+  <properties>
+    <titles>
+      <title>Didto Sa Kalbaryo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Akong hinumduman gayud,<br/>Mga pag-antus Mong tanan;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Kay gihigugma Mo ako,<br/>Bisan sa Kalbaryo.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Hari sa kinabuhi ko,<br/>Mahimayaon Ka;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tultulan Mo ako karon,<br/>Balik sa Kalbaryo.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sa Imo man nga lubnganan,<br/>Pakit-on Mo ako;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ila nga ginabantayan,<br/>Sa manulonda Mo.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>S'ya si Maria man usab,<br/>Gipakitaan Mo;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Sa way sulod nga lubnganan,<br/>Jesus pakit-a ko.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ako tabangi pagpas-an,<br/>Sa akong krus, Jesus;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Kay nakaantus na Ikaw,<br/>Didto sa kalbaryo.</lines>
+    </verse>
+  </lyrics>
+</song>

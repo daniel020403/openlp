@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:32">
+  <properties>
+    <titles>
+      <title>Orphans of God</title>
+    </titles>
+    <verseOrder>v1 c1 c1 c1 e1 e1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Who here among us<br/>has not been broken<br/>Who are among us<br/>is without guilt or pain<br/>so oft' abandoned by our transgression</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>If such a thing as grace exists<br/>then grace was made for lives like this</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>There are no strangers, There are no outcasts<br/>There are no orphans of God<br/>so many fallen, but Hallelujah<br/>There are no orphans of God</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Come ye unwanted and find affection<br/>Come ye all weary, Come and lay down your head<br/>Come ye unworthy, you are my brother<br/>If such a thing as grace exists<br/>then grace was made for lives like this</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>O blessed Father look down upon us<br/>We are your children We need your love<br/>We bow before, your throne of mercy<br/>and seek your face to rise above</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>So many fallen but Hallelujah</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>There are no orphans of God</lines>
+    </verse>
+  </lyrics>
+</song>

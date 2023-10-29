@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:35">
+  <properties>
+    <titles>
+      <title>Till The Whole World Know</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Till the whole world knows, <br/>Till the whole world knows,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I will shout and sing <br/>of Christ my King,<br/>Till the whole world knows.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I’ll  tell to all that God is love;<br/>For the world has never known</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>The great compassion <br/>of His heart<br/>For the wayward and the lone</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I’ll tell of mercy’s boundless tide,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Like the waters of the sea,<br/>That covers ev’ry sin of man;<br/>‘Tis salvation full and free.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I’ll tell of grace <br/>that keeps the soul,<br/>Of abiding peace within,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Of faith that overcomes <br/>the world,<br/>With its tumult and its din.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Eternal glory is the goal <br/>That awaits the sons of light;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Eternal darkness, black as death, <br/>For the children of the night</lines>
+    </verse>
+  </lyrics>
+</song>

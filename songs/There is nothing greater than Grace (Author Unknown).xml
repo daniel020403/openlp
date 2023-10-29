@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:35">
+  <properties>
+    <titles>
+      <title>There is nothing greater than Grace</title>
+    </titles>
+    <verseOrder>v1 v1 c1 v1 v2 c1 c1 c1 c1 c1 c1 v3 c1 c1 c1 c1 c1 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>There is Nothing Greater than Grace</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>What do you say to someone</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Who feels like they've lost it all</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Over the hedge, with no one there to break their fall</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Who feels so unloved</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Giving themselve away</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>A little bit everday, just to be good enough</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>And what do you say to a hopeless soul</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>Who can't remember their way home</lines>
+    </verse>
+    <verse name="v1j">
+      <lines>And everything is out of their control</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>There is no valley, there is no darkness,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>There is no sorrow greater than the grace of Jesus</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>There is no moment, there is no distance,</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>There is no heartbreak He can't take it through</lines>
+    </verse>
+    <verse name="c1e">
+      <lines>So before you think that you're too lost to save</lines>
+    </verse>
+    <verse name="c1f">
+      <lines>Remember there is nothing greater than grace</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Whose life is on the line</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And they're unsure what happens after their last breath in time</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>What do you say to someone who's</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Built a wall who can't break through</lines>
+    </verse>
+    <verse name="v2e">
+      <lines>And it's so hard for them to hear the truth</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Don't loose hope</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Don't let go</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Don't give up</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>You are not alone,</lines>
+    </verse>
+    <verse name="v3e">
+      <lines>YOU are not alone,</lines>
+    </verse>
+    <verse name="v3f">
+      <lines>YOU are not alone</lines>
+    </verse>
+  </lyrics>
+</song>

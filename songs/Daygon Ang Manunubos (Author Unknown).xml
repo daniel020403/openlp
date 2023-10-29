@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:27">
+  <properties>
+    <titles>
+      <title>Daygon Ang Manunubos</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Daygon ko ang Manunubos,<br/>Kay giluwas N'ya ako;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Iya ko nga gipasaylo,<br/>Silot ko gibayran N'ya</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang gugma sa Manunubos,<br/>Katingalahan gayud;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sa Kalbaryo S'ya ang nag-antus,<br/>Aron maluwas ako.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Isugilon kong Balita,<br/>Kong giunsa ni Jesus;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ang paghatag  sa kaluwasan,<br/>Nga kanako naglukat.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Daygon ko ang Manunubos,<br/>Ug isangyaw man Siya;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kong giunsa pagdaug Niya,<br/>Kamatayon ug sala.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Magaawit ko Kaniya,<br/>Sa daku nga gugma N'ya;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Kinabuhi ug kagawasan,<br/>Gihatagan N'ya ako.</lines>
+    </verse>
+  </lyrics>
+</song>

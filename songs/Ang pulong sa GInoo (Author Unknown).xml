@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:26">
+  <properties>
+    <titles>
+      <title>Ang pulong sa GInoo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ang Pulong sa Ginoo, Ipaturok sa Dughan mo</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Unsa ba ang imong gitinguha?</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Unsa ba ang imong gihunahuna?</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Butang ba nga dili makita?</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>O butang nga makita?</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Matag pamilya nagahandum</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Kinabuhing matahum</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Ang amahan naningkamot sa pagpangitag kwarta</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Aron mapanindot ang kahimtang sa pamilya</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Apan unsa may kapuslanan niining tanan</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kung layo sa Ginoo ug sa iyang gingharian</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Panginahangaln sa kinabuhi walay kakuhaan</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>Kay ang kabubut-on sa Ginoo iyang gibiyaan</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Pagkaanindot lantawon</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Pamilya nagkahiusa</lines>
+    </verse>
+    <verse name="v4c">
+      <lines>Kalipay, kalinaw maangkon matag-adlaw</lines>
+    </verse>
+    <verse name="v4d">
+      <lines>Kung sa pulong sa Diyos ikaw nagkahidlaw</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Kita nga lumalabay, dili angay nga musabay</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Sa mga butang sa kalibutan nga dili angay</lines>
+    </verse>
+    <verse name="v5c">
+      <lines>Mubarog sa pulong ug mamalandong</lines>
+    </verse>
+    <verse name="v5d">
+      <lines>Aron atong suga dili mapalong</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>Atong suga ipasiga, ngadto sa atong banay</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>Aron ang tanan madasig ug magkalipay</lines>
+    </verse>
+    <verse name="v6c">
+      <lines>Para sa kahimayaan sa Ginoo, kita magmalig-on</lines>
+    </verse>
+    <verse name="v6d">
+      <lines>Aron kita makabaton, kinabuhing Diosnon</lines>
+    </verse>
+    <verse name="v7a">
+      <lines>Lig-on nga pamilya, lig-on nga simbahan</lines>
+    </verse>
+    <verse name="v7b">
+      <lines>Kung ang pulong sa Ginoo kanunay'ng tipigan</lines>
+    </verse>
+    <verse name="v7c">
+      <lines>Ipaturok, ipatuhop aron mulambo</lines>
+    </verse>
+    <verse name="v7d">
+      <lines>Aron sa Kristohanong kinabuhi kita magatubo</lines>
+    </verse>
+  </lyrics>
+</song>

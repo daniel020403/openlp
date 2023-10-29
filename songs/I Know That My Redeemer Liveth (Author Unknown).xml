@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:29">
+  <properties>
+    <titles>
+      <title>I Know That My Redeemer Liveth</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>I know, I know….. <br/>that Jesus liveth,<br/>And on the earth…<br/>again shall stand;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I know, I know… <br/>that life He giveth,<br/>That grace and pow’r….<br/>are in His hand.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I know that my Redeemer liveth, <br/>And on the earth<br/>again shall stand;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I know eternal life He giveth,<br/>That grace and pow’r<br/>are in His hand.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I know His promise never faileth,<br/>The word He speaks, it cannot die;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Tho’ cruel death my flesh assaileth,<br/>Yet I shall see…. Him by and by.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I know my mansion He prepareth,<br/>That where He is there I may be;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>O wondrous tho’t for me He careth,<br/>And He at last…. will come for me.</lines>
+    </verse>
+  </lyrics>
+</song>

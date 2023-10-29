@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:34">
+  <properties>
+    <titles>
+      <title>Shall We lose The Harvest</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Oh, Shall we lose the harvest<br/>And let man go His way<br/>The fields left unattended</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Can have no harvest day?<br/>So shall we work to gather<br/>And strive to bear the yield<br/>Shall we lose the harvest or toil<br/>to reap the field</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>The fields are so white<br/>But so few will labor<br/>Awaiting the harvest<br/>The fields all waste away</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And someone must toil<br/>or it will not be gathered<br/>Safe in God's store house<br/>Before it is too late</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>When God calls us home<br/>And we stand before Him<br/>How can we deny that<br/>We had our chance today</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>He'll show us the field<br/>The sight will remind us<br/>That we had our chance now<br/>To go and to give and pray</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Oh, Shall we lose the harvest<br/>And let man go His way<br/>The fields left unattended<br/>Can have no harvest day?<br/>So shall we work to gather</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>And strive to bear the yield<br/>Shall we lose the harvest or toil<br/>to reap the field<br/>Oh, shall we lose the harvest or toil<br/>to reap the field<br/>The world is the field (God's field)</lines>
+    </verse>
+  </lyrics>
+</song>

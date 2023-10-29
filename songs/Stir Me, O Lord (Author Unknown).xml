@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:34">
+  <properties>
+    <titles>
+      <title>Stir Me, O Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Stir me to do more than just believe<br/>Stir me I have live so silently</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Stir me with the very thought of thee<br/>Stir me oh Lord</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>God has given to men<br/>His commission and plan a message to be shared</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>how Christ suffered and bled then was raised from the dead<br/>No greater love compare</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>It is easy to send when there's lost men to win<br/>some other one instead so much more could be done a<br/>great multitude won if all would be Christ led</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Daring faith must depend upon spirit to win<br/>The gates of hell are strong tongues of fire He will give,<br/>breath of God be not still until the victor's song</lines>
+    </verse>
+  </lyrics>
+</song>

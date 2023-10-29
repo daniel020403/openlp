@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:25">
+  <properties>
+    <titles>
+      <title>A New Name In Glory</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>C. Austin Miles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>There's a new name<br/>Written down in glory,<br/>And it's mine.<br/>O yes, it's mine!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And the white-robed<br/>Angels sing the story,<br/>"A sinner has come home."</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>For there's a new name<br/>Written down in glory,<br/>And it's mine,<br/>O yes it's mine.</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>With my sins forgiven<br/>I am bound for heaven,<br/>Nevermore to roam.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I was once a sinner, but I came<br/>Pardon to receive from my Lord.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>This was freely given, and I found<br/>That He always kept His word.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I was humbly kneeling at the Cross,<br/>Fearing naught but God's angry frown,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>When the heavens opened and I saw<br/>That my name was written down.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>In the Book 'tis written<br/>"Saved by grace."<br/>O the joy that came to my soul!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Now I am forgiven and I know,<br/>By the blood I am made whole.</lines>
+    </verse>
+  </lyrics>
+</song>

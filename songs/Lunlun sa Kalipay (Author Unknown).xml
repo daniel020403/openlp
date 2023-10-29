@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:31">
+  <properties>
+    <titles>
+      <title>Lunlun sa Kalipay</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 c1 c1 c1 c1 c1 c1 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lunlun sa Kalipay</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nahinumdom ka ba na ikaw kauban Niya</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Giluwas og gipanalipdan pa</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Apan may pagsulay sa kalibutan</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Apan may pagsulay, luyo ang kalipay</lines>
+    </verse>
+    <verse name="c1a">
+      <lines/>
+    </verse>
+    <verse name="c1b">
+      <lines>Paninguhaa lang gayud</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Ang pagsunod sa tinoud</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>Luyo sa pagsulay, lunlon nga kalipay</lines>
+    </verse>
+    <verse name="c1e">
+      <lines>Nahinumdom k aba na ikaw giluwas</lines>
+    </verse>
+    <verse name="c1f">
+      <lines>Sa kalisdanan ikaw gitabangan</lines>
+    </verse>
+    <verse name="c1g">
+      <lines>Gigunitan ka og gisapnay sa mga bukton Niya</lines>
+    </verse>
+    <verse name="c1h">
+      <lines>Giampingan kay mahal ka Niya</lines>
+    </verse>
+    <verse name="c1i">
+      <lines>Nahinumdom ka ba nga gipakamatyan ka</lines>
+    </verse>
+    <verse name="c1j">
+      <lines>Ni Hesus sa kalbaryo sa krus</lines>
+    </verse>
+    <verse name="c1k">
+      <lines>Tungod sa mga kasal anan</lines>
+    </verse>
+    <verse name="c1l">
+      <lines>Na imong na-angkon</lines>
+    </verse>
+    <verse name="c1m">
+      <lines>Hinumdumi ang pag antos Niya</lines>
+    </verse>
+    <verse name="c1n">
+      <lines>Ayaw gayud kaluya</lines>
+    </verse>
+    <verse name="c1o">
+      <lines>Sa pagtoo mo</lines>
+    </verse>
+    <verse name="c1p">
+      <lines>Kay si Kristo ang nagsapnay kanimo</lines>
+    </verse>
+    <verse name="c1q">
+      <lines>Luyo sa pagsulay,</lines>
+    </verse>
+    <verse name="c1r">
+      <lines>Lunlon nga kalipay</lines>
+    </verse>
+  </lyrics>
+</song>

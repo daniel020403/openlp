@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:26">
+  <properties>
+    <titles>
+      <title>Ang Bugtong Patukoranan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Bugtong patukoranan Mao man si Jesus;<br/>Ang buhi nga Iglesya gihinloan Niya;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nanaug S'ya sa langit ug nagpakamatay;<br/>Sa paglukat sa Iya nga pangasaw-onon.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Mga pinili Niya sa nasud nga tanan,<br/>Sa gugma ug pagtoo binugkosan sila;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ang ngalan nga balaan moay paglitokon,<br/>Sa grasya sinangkapan,paglaum ug kusog.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Diha sa kasakitan,kabudlay,pagdumot,<br/>Sa dayon nga kalinaw magahulat sila;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Unya ang gipaabot makita man gayud, <br/>Iglesyang madaugon makapahulay na.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Tanang mga balaan sa langit, yuta man,<br/>May pagpakig-ambitay diha sa buhing Dios;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Mandoi, O Ginoo, uban sa grasya Mo,<br/>Ug hangtud nga dangaton man ang Himaya Mo. AMEN.</lines>
+    </verse>
+  </lyrics>
+</song>

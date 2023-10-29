@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:29">
+  <properties>
+    <titles>
+      <title>Gugma Sa Dios</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Gugma sa Dios, Gugma sa Dios,<br/>Kanako nagluwas ang gugma N'ya;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Gugma sa Dios, Gugma sa Dios,<br/>Kanako nagluwas ang gugma N'ya.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang kalag ko gianud sa dagat sa sala,<br/>Sa mapintas nga balud way kagawasan ko;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ug sa wa lang madugay sa akong pagtuaw,<br/>Giluwas ko sa Agalon sa dagat.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kang Jesus gitugyan na king kasingkasing ko,<br/>Ug sa Iyang gugma lang magkinabuhi ko;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ang tanan kong katakus ihalad kang Jesus,<br/>Kay matuod S'yang gugma ug may gahum.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>O kalag nga gianud, tutuki si Jesus,<br/>Iya nga sakwaton ka sa lawod sa sala;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>S'yang agalon sa balud, ginatuman Siya,<br/>Kang Jesus dangup lang ug maluwas ka.</lines>
+    </verse>
+  </lyrics>
+</song>

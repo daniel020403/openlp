@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:34">
+  <properties>
+    <titles>
+      <title>Si Jesu-Cristo Nagsangpit Karon</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Nagatawag,<br/>Na, si Jesus;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>S'ya sa malomo,<br/>Nagsangpit kanimo karon.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Si Jesu-Cristo nagsangpit karon,<br/>Sa puloy-an bumalik ka;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Nganong moadto ka sa halayo,<br/>Gikan sa gugma Niya.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Si Jesu-Cristo karon nagatawag,<br/>Tagdon mo S'ya, tagdon mo S'ya;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Dad-a Kaniya ang gipas-an mo,<br/>Ug papahulayon ka.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Si Jesu-Cristo karon naghulat,<br/>Magdali ka sa pagduol;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Dad-a Kaniya ang imong sala,<br/>Sa tiil Niya hapa.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Si Jesu-Cristo naghangyo karon,<br/>Pamatia! Pamatia!</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sa Iyang ngalan motoo ikaw,<br/>Pagalipayon ka man.</lines>
+    </verse>
+  </lyrics>
+</song>

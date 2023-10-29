@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:30">
+  <properties>
+    <titles>
+      <title>Kay Naako Na Si Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Kay naako na si Jesus,<br/>"Nia niining dughan ko;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Nagbaha ang kalipay sa akong kalag,<br/>Kay naako na si Jesus.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>May dakung pagkabalhin sa  akong <br/>kalag,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kay naako na si Jesus;<br/>May kahayag nga akong hingkit-an karon,<br/>Kay naako na si Jesus.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sa pagkahisalaag mingbiya ako,<br/>Kay naako na si Jesus;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ang tanan kong sala nahinloan gayud,<br/>Kay naako na si Jesus.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Ang malig-ong paglaum naangkon gayud,<br/>Kay naako na si Jesus;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Dili na maglakaw sa kangitngit ako,<br/>Kay naako na si Jesus.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Bisan sa kamatayon may lamdag ako,<br/>Kay naako na si Jesus;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ganghaan nga langitnon makit-an ko na,<br/>Kay naako na si Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:30">
+  <properties>
+    <titles>
+      <title>Lead On O King Eternal</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Ernest W. Shurtleff Henry Smart</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Lead on, O King Eternal.<br/>The day of march has come;<br/>Henceforth in fields of conquest<br/>Thy tents shall be our home.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Thro' days of preparation<br/>Thy grace has made us strong;<br/>And now, O King eternal,<br/>We lift our battle song.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Lead on, O King Eternal,<br/>Till sin's fierce war shall cease,<br/>And holiness shall whisper<br/>The sweet Amen of peace.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>For not with swords loud clashing,<br/>Nor roll of stirring drums;<br/>With deeds of love and mercy,<br/>The heav'nly kingdom comes.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Lead on, O King Eternal,<br/>We follow, not with fears;<br/>For gladness breaks like morning<br/>Where'er Thy face appears.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Thy cross is lifted o'er us;<br/>We journey in its light.<br/>The crown awaits the conquest;<br/>Lead on, O God of might.</lines>
+    </verse>
+  </lyrics>
+</song>

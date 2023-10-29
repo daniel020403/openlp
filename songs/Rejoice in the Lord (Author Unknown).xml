@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:33">
+  <properties>
+    <titles>
+      <title>Rejoice in the Lord</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Oh, rejoice in the Lord<br/>He makes no mistakes</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>He knoweth the end of each path that I take<br/>For when I am tried and purified<br/>I shall come forth as gold</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>God never moves without purpose and plan<br/>When trying His servants and moulding a man</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Give thanks to the Lord though your testing seems long<br/>In darkness He gives us a song</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I could not see through the shadow ahead<br/>So I look at the cross of my Saviour instead</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I bow to the will of my Master that day<br/>Then peace came and tears fled away</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Now I can see testing comes from above<br/>God strenghtens His children and purges in love</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>My Father knows best and I trust in His care<br/>Through purging more fruit I will bear</lines>
+    </verse>
+  </lyrics>
+</song>

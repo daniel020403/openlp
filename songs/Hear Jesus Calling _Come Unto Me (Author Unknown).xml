@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:29">
+  <properties>
+    <titles>
+      <title>Hear Jesus Calling "Come Unto Me</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hear Jesus calling "Come unto Me, <br/>Come unto Me, come unto Me"<br/>Hear Jesus calling "Come unto Me,<br/>I will give you rest."</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will give you rest<br/>I will give you rest<br/>Hear Jesus calling "Come unto Me,<br/>I will give you rest".</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:30">
+  <properties>
+    <titles>
+      <title>King's Daughter</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v5 v6</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus want me to follow him</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He wants me to serve and obey</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He alone can wash me from sin</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And help me serve Him each day</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I want to please Him more than anything</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I want to known as the daughter of the King</lines>
+    </verse>
+    <verse name="v7">
+      <lines>The kings's daughter oh glorious within</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Pure and white washed from sin</lines>
+    </verse>
+    <verse name="v9">
+      <lines>I want to be just like Him</lines>
+    </verse>
+    <verse name="v10">
+      <lines>He's making me oh glorious within</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Though I'm so young and very small</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Right now os the time to begin</lines>
+    </verse>
+    <verse name="v13">
+      <lines>To give  to the Lord my life my all</lines>
+    </verse>
+    <verse name="v14">
+      <lines>He calls me to come unto Him</lines>
+    </verse>
+  </lyrics>
+</song>

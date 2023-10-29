@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:33">
+  <properties>
+    <titles>
+      <title>Redeemed2</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Redeemed! Redeemed <br/>A new life to begin!<br/>Redeemed! Redeemed<br/>Eternal life to win!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Redeemed I know by Jesus’ blood, <br/>His love o’erwhelms me like a flood<br/>Redeemed from all<br/>my guilt and shame.<br/>Redeemed! O praise His name.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Redeemed! Redeemed! <br/>Oh, sing the joyful strain!<br/>Give praise, Give praise,<br/>and glory to His name;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Who gave His blood <br/>our souls to save,<br/>And purchased freedom<br/>for the slave!<br/>And purchased freedom<br/>for the slave.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Redeemed! Redeemed! <br/>The word has bro’t repose,<br/>And joy, And joy,<br/>That each redeemed  one knows,<br/>Who sees his sins on Jesus laid</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And knows His blood <br/>the ransom paid,<br/>And knows His blood<br/>the ransom paid.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Redeemed! Redeemed! <br/>O joy that I should be In Christ,<br/>In Christ, from sin forever free<br/>Forever free to praise His name.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Who bore for me the guilt <br/>and shame,<br/>Who bore for me the guilt<br/>and shame.</lines>
+    </verse>
+  </lyrics>
+</song>

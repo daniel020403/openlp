@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:34">
+  <properties>
+    <titles>
+      <title>Si Cristo Alagaron ko,</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines/>
+    </verse>
+    <verse name="c1b">
+      <lines>Si Cristo alagaron ko,<br/>Kay S'ya rang nagpakamatay!</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Magkinabuhi ko Niya,<br/>Dios ug Ginoo ko.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang gugma'g kinabuhi ko,<br/>Kini ihalad ko, Jesus;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Matinumanon unta ko,<br/>Kanimo Ginoo.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Nagtoo ko sa gugma Mo,<br/>Kay nagpakamatay Ikaw;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Busa Ikaw saligan ko,<br/>Ginoong kong Jesus.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Gilansang Ka didto sa krus,<br/>Aron kalag ko maluwas;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>King kinabuhi ko gayud,<br/>Itugyan ko , Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

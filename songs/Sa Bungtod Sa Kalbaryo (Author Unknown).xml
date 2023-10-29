@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:33">
+  <properties>
+    <titles>
+      <title>Sa Bungtod Sa Kalbaryo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Sa bungtod sa Kalbaryo,<br/>Iya kong gipasaylo;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Ang akong lulan, ni Jesus gipas-an,<br/>Didto sa krus sa Kalbaryo.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Ang gugma sa Dios 'nia ning dughan ko,<br/>Di matupngan sa kalibutan;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kay ako Iya nga gitubos ni Jesus,<br/>Didto sa krus sa Kalbaryo.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Nag-antus Siya sa tunok ug labod,<br/>Timailhan sa Iyang gugma;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ug giludhan ko Siya sa dakung kataha,<br/>Ang akong Ginoong Jesus.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Nakita ko ang grasya N'ya ni Jesus,<br/>Sa nagsud-ong ko sa dagway N'ya;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Katubsanan nga hingpit nakaplagan ko,<br/>Didto sa krus sa Kalbaryo.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>O, Pagkatam-is nga palandungon ko,<br/>Nga ako giluwas ni Jesus;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Ang kalipay nga hingpit maangkon ko man,<br/>Sa mahimayaong dapit.</lines>
+    </verse>
+  </lyrics>
+</song>

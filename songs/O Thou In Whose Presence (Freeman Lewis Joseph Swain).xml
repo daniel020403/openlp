@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:32">
+  <properties>
+    <titles>
+      <title>O Thou In Whose Presence</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Freeman Lewis Joseph Swain</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O Thou in whose presence<br/>My soul takes delight,<br/>On Whom in affliction I call</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>My Comfort by day<br/>And my Song in the night,<br/>My Hope, my Salvation, my All!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Where dost Thou, dear Shepherd,<br/>Resort with Thy sheep.<br/>To feed them in pastures of love?</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Say, why in the valley,<br/>Of death should I weep,<br/>Or alone in this wilderness rove?</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>O, why should I wander,<br/>An alien from Thee,<br/>Or cry in the desert<br/>For bread?</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Thy foes will rejoice,<br/>When my sorrows they see,<br/>And smile at the tears,<br/>I have shed.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Ye daughters of Zion declare,<br/>Have you seen the star,<br/>That on Israel shone.<br/>Say if in your tents,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>My beloved has been,<br/>And where with His flocks<br/>He is gone.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>He looks! And ten thousands<br/>Of angels rejoice,<br/>And myriads wait for His word.</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>He speaks! And eternity,<br/>Filled with His voice,<br/>Re-echoes the praise of the Lord.</lines>
+    </verse>
+    <verse name="v6a">
+      <lines>Dear Shepherd! I hear,<br/>And will follow Thy call;<br/>I know the sweet sound of Thy voice.</lines>
+    </verse>
+    <verse name="v6b">
+      <lines>Restore and defend me,<br/>For Thou art my all,<br/>And in Thee I will ever rejoice.</lines>
+    </verse>
+  </lyrics>
+</song>

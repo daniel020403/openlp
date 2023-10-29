@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:29">
+  <properties>
+    <titles>
+      <title>Gugma'g Kaluoy Ni Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Gikan sa kasalanan ko,<br/>Ako gibangon ni Jesus;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Gikan niadtong kadulom,<br/>Ni Cristo giagak ako.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Gugma'g kaluoy ni Jesus,<br/>Nagbawi sa akong kalag;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Gikan sa yanang sa sala,<br/>Gikuha N'ya ako.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Dugay na S'yang nagatawag,<br/>Samtang nahisalaag ko;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Sa ako nga pagtoo N'ya,<br/>Sala gipasaylo.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Gikuronahan S'yag tunok,<br/>Gitamay ug gilansang pa;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Tungod sapaghigugma N'ya,<br/>Gibangon N'ya ako.</lines>
+    </verse>
+  </lyrics>
+</song>

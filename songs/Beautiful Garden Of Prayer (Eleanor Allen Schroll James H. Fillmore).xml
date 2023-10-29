@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:27">
+  <properties>
+    <titles>
+      <title>Beautiful Garden Of Prayer</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Eleanor Allen Schroll James H. Fillmore</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>O the beautiful garden, the garden of prayer,<br/>O the beautiful garden of prayer.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>There my Savior awaits, and He opens the gates<br/>To the beautiful garden of prayer.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>There's a garden where Jesus is waiting,<br/>There's a place that is wondrously fair.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>For it glows with the light of His presence,<br/>'Tis the beautiful garden of prayer.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>There's a garden where Jesus is waiting,<br/>And I go with my burden and care.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Just to learn from His lips, words of comfort,<br/>In the beautiful garden of prayer.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>There's a garden where Jesus is waiting,<br/>And He bids you to come meet Him there,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Just to bow and receive a new blessing,<br/>In the beautiful garden of prayer.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:31">
+  <properties>
+    <titles>
+      <title>Mangandam Kita</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Tindog, asdang, dad-a ang bandila,<br/>Bug-oson ta ang atong kusog;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Padayon isinggit ang Hosanna,<br/>Kay si Cristo ang pangulo ta.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Mangandam kita kay may gubat pa,<br/>Ipataas ang bandila N'ya;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dad-a ang tanan nga hinagiban,<br/>Tindog ug saliging Ginoo.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Suklan ta siya ang kaaway ta,<br/>Kay siguro na ang pagdaug;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ang atong tumong dag-ong dautan,<br/>Pinaagi sa gahum sa Dios.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>O Dios sa tanan pamatia na,<br/>Ug sa grasya Mo pun-a kami;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kon matapus na'ng pakigbugno ta,<br/>Purong-purongi kami Jesus.</lines>
+    </verse>
+  </lyrics>
+</song>

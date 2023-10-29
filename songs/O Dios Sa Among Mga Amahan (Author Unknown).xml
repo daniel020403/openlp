@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:32">
+  <properties>
+    <titles>
+      <title>O Dios Sa Among Mga Amahan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O Dios sa among mga amahan,<br/>Nga sa kamot Mo ginamandoan;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang kabubut-on Nimong masulaw,<br/>Among pag-awit gituboy karon.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kanhi nagmando namong gugma Mo,<br/>GipiliMo kanamo king dapita;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Maghari ug magtultol unta Ka,<br/>Among balaud maoy pulong Mo.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Sa gubat ug kamatay man usab,<br/>Imong kamot maoy salipdanan;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ang tinuohan Nimo magtubo,<br/>Ug sa pagdait hupngan Mo kami.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Papahulaya ang katawhan Mo,<br/>Ug sa kahayag mandoi, kami;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Pun-a kami sa gugma'g grasya Mo,<br/>Ug ang pagday'g Maimo man gayud.</lines>
+    </verse>
+  </lyrics>
+</song>

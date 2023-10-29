@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:31">
+  <properties>
+    <titles>
+      <title>May Awit Ang KasingKasing Ko</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Jesus, Jesus, Jesus,<br/>Ngalan nga mahal;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Nagtagbaw kanako,<br/>Sa tanang pangandoy ko.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>May awit ang kasingkasing ko,<br/>Gisaaran ko ni Jesus;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>"Dili ka mahadlok nia Ko,<br/>Akong ubanan ikaw."</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kanhi napuno ko sa sala,<br/>Way kalinaw ko ning dughan;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Ang Ginoo akong gitawag,<br/>Ug gilipay N'ya ako.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Sa kadato sa Iyang grasya,<br/>Duna koy kapahulayan;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Akong daygon ug awitan S'ya,<br/>Hangtud S'ya makita ko.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Unya S'ya moanhi pag-usab,<br/>Aron pagdala kanako;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Sa himaya Niya dad-on ko,<br/>Kuyog sa paghari N'ya.</lines>
+    </verse>
+  </lyrics>
+</song>

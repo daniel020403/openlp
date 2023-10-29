@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:28">
+  <properties>
+    <titles>
+      <title>Firmly Committed (Congregational)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v2 c1 c1 c1 c1 c1 c1 c1 c2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I have surrendered <br/>To Jesus my Lord,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I yield to His will, <br/>I lay down my sword</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>To pick up His banner<br/>And march bold and strong</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>There is no doubt <br/>Whose side I am on,</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>I am firmly committed<br/>To the cause of Christ</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Determined to serve Him for the <br/>Rest of my life</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Resolved to give all<br/>No matter the price</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>I am firmly committed</lines>
+    </verse>
+    <verse name="c1e">
+      <lines>To the cause of Christ</lines>
+    </verse>
+    <verse name="v2a">
+      <lines/>
+    </verse>
+    <verse name="v2b">
+      <lines>I've come through the valley<br/>There's no turning round</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>I will press toward <br/>The Lord's higher ground</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>The way set before me,<br/>My only concern,</lines>
+    </verse>
+    <verse name="v2e">
+      <lines>For I have passed <br/>The point of return</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>All to Jesus <br/>I surrender</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>I am firmly committed<br/>To The Cause of</lines>
+    </verse>
+    <verse name="c2c">
+      <lines>Christ!</lines>
+    </verse>
+    <verse name="c2d">
+      <lines>OF CHRIST!</lines>
+    </verse>
+  </lyrics>
+</song>

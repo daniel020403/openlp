@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:26">
+  <properties>
+    <titles>
+      <title>Angels From The Realms Of Glory</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1 v5 v1</verseOrder>
+    <authors>
+      <author>James Montgomery</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Angels from the realms of glory,<br/>Wing your flight o'er all the earth;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ye who sang creation's story,<br/>Now proclaim Messiah's birth.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Come and worship, come and worship;<br/>Worship Christ, the new-born King!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Shepherds in the fields abiding,<br/>Watching o'er your flocks by night;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>God with man is now residing,<br/>Yonder shines the infant Light.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Sages, leave your contemplation's,<br/>Brighter visions beam afar;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Seek the great Desire of nations,<br/>Ye have seen His natal star.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Saints, before the altar bending,<br/>Watching long in hope and fear;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Suddenly the Lord, descending,<br/>In His temple shall appear.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>All creation, join in praising,<br/>God, the Father, Spirit, Son;</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Evermore your voices raising,<br/>To the eternal Three in One.</lines>
+    </verse>
+  </lyrics>
+</song>

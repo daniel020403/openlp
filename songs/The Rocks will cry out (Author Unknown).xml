@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:35">
+  <properties>
+    <titles>
+      <title>The Rocks will cry out</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c1 c1 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>When Jesus went to Jerusalem town,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>The crowd rose up with a mighty sound.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>They lifted their voices in one accord,</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Here comes the King in the name of the Lord.</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>The Pharisees cried Master do you hear,</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>The crowd is shouting that Jehovah is here.</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Rebuke this people for their ignorance now,</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>But Jesus said, No, NO!</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>If they hold their peace then</lines>
+    </verse>
+    <verse name="v1j">
+      <lines>The rocks will cry out,</lines>
+    </verse>
+    <verse name="v1k">
+      <lines>The rocks will cry out.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>If we do not sing then<br/>the rocks will cry out,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>If we do not praise then<br/>the mountains will shout.</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>The earth will shake, <br/>the trees will bow,</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>We can’t be silent or <br/>the rocks will cry out.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Creation sings of the glory of God,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>The ocean thunders in wild applause.</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>The lily’s sweet bloom and the sparrows song,</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Joining the praise that goes on and on.</lines>
+    </verse>
+    <verse name="v2e">
+      <lines>His majesty speaks from the forest tall,</lines>
+    </verse>
+    <verse name="v2f">
+      <lines>His splendour calls out in the water fall.</lines>
+    </verse>
+    <verse name="v2g">
+      <lines>Behold His glory all of natures shout,</lines>
+    </verse>
+    <verse name="v2h">
+      <lines>And if we don't sing______sing!</lines>
+    </verse>
+    <verse name="v2i">
+      <lines>If we hold our peace then</lines>
+    </verse>
+    <verse name="v2j">
+      <lines>The rocks will cry out.<br/>The rocks will cry out!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>If we do not sing then the rocks will cry out</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>If we do not praise then <br/>the mountains will shout.</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>We can’t be silent or the rocks will cry out.</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>We can't be silent,,</lines>
+    </verse>
+    <verse name="v3e">
+      <lines>We won't be silent,,</lines>
+    </verse>
+    <verse name="v3f">
+      <lines>We'll never be silent or <br/>The Rocks will cryout!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:34">
+  <properties>
+    <titles>
+      <title>Si Jesus Ang Atong Abyan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Si Jesus ang atong abyan,<br/>Sa sala ta nagpas-an;<br/>Ang tanan mahimo nato,<br/>Sa pag-ampo kang Jesus.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ang kalinaw ta mahanaw, <br/>Ang kasakit modaku,<br/>Kay dili kita kanunay,<br/>Magampo kang Jesus.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Kon adunay kalisdanan,<br/>Pagsulay ug kaguol;<br/>Di kita magamaluya,<br/>Kang Jesus iampo ta.</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Abyan S'yang matinumanon,<br/>Sa kasakit nagdala;<br/>Sa kaluya ta nasayod,<br/>Kang Jesus itugyan lang.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Kon maluya ang kalag ta,<br/>Ug tugob sa kaguol;<br/>S'ya ang atong dalangpanan,<br/>Maga-ampo kang Jesus.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kon sa atong mga abyan,<br/>Ginatamay man kita,<br/>Modangop kang Jesus lamang,<br/>Magaampo Kaniya.</lines>
+    </verse>
+  </lyrics>
+</song>
