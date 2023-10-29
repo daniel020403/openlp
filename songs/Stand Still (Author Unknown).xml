@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:34">
   <properties>
     <titles>
       <title>Stand Still</title>
@@ -35,7 +35,7 @@
       <lines>He’ll make a way for you</lines>
     </verse>
     <verse name="v2a">
-      <lines>When the enemy surrounds you, and the walls are closing in<br/>	<br/>When the tide is swiftly rising and you wonder where He’s been?</lines>
+      <lines>When the enemy surrounds you, and the walls are closing in<br/><br/>When the tide is swiftly rising and you wonder where He’s been?</lines>
     </verse>
     <verse name="v2b">
       <lines>Friend, there never was a moment that His arms weren’t reaching out</lines>

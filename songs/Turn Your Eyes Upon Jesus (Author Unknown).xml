@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:35">
   <properties>
     <titles>
       <title>Turn Your Eyes Upon Jesus</title>
@@ -22,7 +22,7 @@
       <lines>There’s light for a look <br/>at the Savior,<br/>And life more abundant and free!</lines>
     </verse>
     <verse name="v2a">
-      <lines>Thro’ death into life everlasting <br/>He passed, <br/>and we follow Him there;</lines>
+      <lines>Thro’ death into life everlasting <br/>He passed,<br/>and we follow Him there;</lines>
     </verse>
     <verse name="v2b">
       <lines>Over us sin no more hath dominion<br/>For more than conquerors we are!</lines>

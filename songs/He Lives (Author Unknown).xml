@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:29">
   <properties>
     <titles>
       <title>He Lives</title>
@@ -13,22 +13,22 @@
       <lines>He lives, He lives, <br/>Christ Jesus lives today!<br/>He walks with me and talks with me along life’s narrow way.</lines>
     </verse>
     <verse name="c1b">
-      <lines>He lives, He lives, <br/>salvation to impart! <br/>You ask me how I know He lives?<br/>He lives within my heart.</lines>
+      <lines>He lives, He lives, <br/>salvation to impart!<br/>You ask me how I know He lives?<br/>He lives within my heart.</lines>
     </verse>
     <verse name="v1a">
-      <lines>I serve a risen Savior, <br/>He’s in the world today;<br/>I know that He is living, <br/>whatever men may say;</lines>
+      <lines>I serve a risen Savior, <br/>He’s in the world today;<br/>I know that He is living,<br/>whatever men may say;</lines>
     </verse>
     <verse name="v1b">
-      <lines>I see His hand of mercy, <br/>I hear His voice of cheer,<br/>And just the time I need Him <br/>He’s always near.</lines>
+      <lines>I see His hand of mercy, <br/>I hear His voice of cheer,<br/>And just the time I need Him<br/>He’s always near.</lines>
     </verse>
     <verse name="v2a">
-      <lines>In all the world around me <br/>I see His loving care,<br/>And tho’ my heart grows weary  <br/>I never will despair;</lines>
+      <lines>In all the world around me <br/>I see His loving care,<br/>And tho’ my heart grows weary<br/>I never will despair;</lines>
     </verse>
     <verse name="v2b">
-      <lines>I know that He is leading, <br/>thro’ all the stormy blast,<br/>The day of His appearing <br/>will come at last.</lines>
+      <lines>I know that He is leading, <br/>thro’ all the stormy blast,<br/>The day of His appearing<br/>will come at last.</lines>
     </verse>
     <verse name="v3a">
-      <lines>Rejoice, rejoice, O Christian, <br/>lift up your voice and sing <br/>Eternal hallelujahs to .<br/>Jesus Christ the King!</lines>
+      <lines>Rejoice, rejoice, O Christian, <br/>lift up your voice and sing<br/>Eternal hallelujahs to .<br/>Jesus Christ the King!</lines>
     </verse>
     <verse name="v3b">
       <lines>The Hope of all who seeks Him, the Help of all who find,<br/>None other is so loving,<br/>so good and kind.</lines>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:36">
   <properties>
     <titles>
       <title>We'll Work till Jesus Comes</title>
@@ -13,7 +13,7 @@
       <lines>We’ll work till Jesus comes, <br/>We’ll work</lines>
     </verse>
     <verse name="c1b">
-      <lines>Till Jesus comes, <br/>We'll work till Jesus come <br/>And we’ll be gathered home.</lines>
+      <lines>Till Jesus comes, <br/>We'll work till Jesus come<br/>And we’ll be gathered home.</lines>
     </verse>
     <verse name="v1a">
       <lines>O land of rest, for thee I sigh!<br/>When will the moment come</lines>
@@ -25,13 +25,13 @@
       <lines>To Jesus Christ I fled for rest; <br/>He bade me cease to roam,</lines>
     </verse>
     <verse name="v2b">
-      <lines>And lean for succor <br/>on His breast <br/>Till He conduct me home.</lines>
+      <lines>And lean for succor <br/>on His breast<br/>Till He conduct me home.</lines>
     </verse>
     <verse name="v3a">
       <lines>I sought at once <br/>my Saviour’s side,</lines>
     </verse>
     <verse name="v3b">
-      <lines>No more my steps shall roam; <br/>With Him I’ll brave death’s <br/>chilling tide, <br/>And reach my heavenly home.</lines>
+      <lines>No more my steps shall roam; <br/>With Him I’ll brave death’s<br/>chilling tide,<br/>And reach my heavenly home.</lines>
     </verse>
   </lyrics>
 </song>

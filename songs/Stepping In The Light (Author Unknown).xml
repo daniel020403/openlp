@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:34">
   <properties>
     <titles>
       <title>Stepping In The Light</title>
@@ -10,34 +10,34 @@
   </properties>
   <lyrics>
     <verse name="c1a">
-      <lines>How beautiful to walk <br/>in the steps of the Savior <br/>Stepping in the light,</lines>
+      <lines>How beautiful to walk <br/>in the steps of the Savior<br/>Stepping in the light,</lines>
     </verse>
     <verse name="c1b">
-      <lines>Stepping in the light;<br/>How beautiful to walk <br/>in the steps of the Savior<br/>Led in paths of light.</lines>
+      <lines>Stepping in the light;<br/>How beautiful to walk<br/>in the steps of the Savior<br/>Led in paths of light.</lines>
     </verse>
     <verse name="v1a">
-      <lines>Trying to walk in the steps <br/>of the Savior, <br/>Trying to follow <br/>our Savior and King;</lines>
+      <lines>Trying to walk in the steps <br/>of the Savior,<br/>Trying to follow<br/>our Savior and King;</lines>
     </verse>
     <verse name="v1b">
-      <lines>Shaping our lives <br/>by His blessed example,<br/>Happy, how happy, <br/>the songs that we bring.</lines>
+      <lines>Shaping our lives <br/>by His blessed example,<br/>Happy, how happy,<br/>the songs that we bring.</lines>
     </verse>
     <verse name="v2a">
-      <lines>Pressing more closely to <br/>Him who is leading, <br/>When we are tempted <br/>to turn from the way;</lines>
+      <lines>Pressing more closely to <br/>Him who is leading,<br/>When we are tempted<br/>to turn from the way;</lines>
     </verse>
     <verse name="v2b">
-      <lines>Trusting the arm that is <br/>strong to defend us, <br/>Happy, how happy, <br/>our praises each day.</lines>
+      <lines>Trusting the arm that is <br/>strong to defend us,<br/>Happy, how happy,<br/>our praises each day.</lines>
     </verse>
     <verse name="v3a">
-      <lines>Walking in footsteps <br/>of gentle forbearance, <br/>Foot steps of faithfulness, <br/>mercy and love,</lines>
+      <lines>Walking in footsteps <br/>of gentle forbearance,<br/>Foot steps of faithfulness,<br/>mercy and love,</lines>
     </verse>
     <verse name="v3b">
-      <lines>Looking to Him for the grace freely promised,<br/>Happy, how happy, <br/>our journey above.</lines>
+      <lines>Looking to Him for the grace freely promised,<br/>Happy, how happy,<br/>our journey above.</lines>
     </verse>
     <verse name="v4a">
-      <lines>Trying to walk in the steps <br/>of the Savior, <br/>Upward, still upward <br/>we’ll follow our Guide;</lines>
+      <lines>Trying to walk in the steps <br/>of the Savior,<br/>Upward, still upward<br/>we’ll follow our Guide;</lines>
     </verse>
     <verse name="v4b">
-      <lines>When we shall see Him, <br/>“ the King in His beauty,”<br/>Happy, how happy, <br/>our place at His side.</lines>
+      <lines>When we shall see Him, <br/>“ the King in His beauty,”<br/>Happy, how happy,<br/>our place at His side.</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:32">
   <properties>
     <titles>
       <title>Only Jesus Can Satisfy Your Soul</title>
@@ -23,7 +23,7 @@
       <lines>He'll give you peace you never knew<br/>sweet love and joy and heaven too;<br/>For only Jesus can satisfy your soul</lines>
     </verse>
     <verse name="v2a">
-      <lines>If you could have the fame and fortune <br/>All the wealth you could obtain <br/>Yet you have not Christ within, your livng here would be in vain</lines>
+      <lines>If you could have the fame and fortune <br/>All the wealth you could obtain<br/>Yet you have not Christ within, your livng here would be in vain</lines>
     </verse>
     <verse name="v2b">
       <lines>There'll come a time when death shall call you;<br/>Riches cannot help you then<br/>So come to Jesus for only He can satisfy</lines>

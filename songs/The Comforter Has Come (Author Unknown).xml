@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:35">
   <properties>
     <titles>
       <title>The Comforter Has Come</title>
@@ -13,10 +13,10 @@
       <lines>The Comforter has come, <br/>The Comforter has come!<br/>The Holy Ghost from heav’n,</lines>
     </verse>
     <verse name="c1b">
-      <lines>The Father’s promise giv’n;<br/>Oh, spread the tidings ‘round, <br/>Wherever man is found <br/>The Comforter has come!</lines>
+      <lines>The Father’s promise giv’n;<br/>Oh, spread the tidings ‘round,<br/>Wherever man is found<br/>The Comforter has come!</lines>
     </verse>
     <verse name="v1a">
-      <lines>Oh, spread the tidings ‘round, <br/>wherever man is found,<br/>Wherever human hearts <br/>and human woes abound;</lines>
+      <lines>Oh, spread the tidings ‘round, <br/>wherever man is found,<br/>Wherever human hearts<br/>and human woes abound;</lines>
     </verse>
     <verse name="v1b">
       <lines>Let ev’ry Christian tongue <br/>proclaim the joyful sound:<br/>The Comforter has come!</lines>
@@ -37,10 +37,10 @@
       <lines>O boundless love divine! <br/>how shall this tongue of mine</lines>
     </verse>
     <verse name="v4b">
-      <lines>To wond’ring mortals tell the matchless grace divine<br/>That I, a child of hell, <br/>should in His image shine!<br/>The Comforter has come!</lines>
+      <lines>To wond’ring mortals tell the matchless grace divine<br/>That I, a child of hell,<br/>should in His image shine!<br/>The Comforter has come!</lines>
     </verse>
     <verse name="v5a">
-      <lines>Sing, till the echoes fly <br/>above the vaulted sky, <br/>And all the saints above <br/>to all below reply,</lines>
+      <lines>Sing, till the echoes fly <br/>above the vaulted sky,<br/>And all the saints above<br/>to all below reply,</lines>
     </verse>
     <verse name="v5b">
       <lines>In strains of endless love, <br/>the song that ne’er will die:<br/>The Comforter has come!</lines>

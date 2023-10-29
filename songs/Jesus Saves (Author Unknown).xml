@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:30">
   <properties>
     <titles>
       <title>Jesus Saves</title>
@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>We have heard the joyful sound,<br/>Jesus saves! Jesus saves!<br/>Spread the tidings all around, <br/>Jesus saves! Jesus saves!</lines>
+      <lines>We have heard the joyful sound,<br/>Jesus saves! Jesus saves!<br/>Spread the tidings all around,<br/>Jesus saves! Jesus saves!</lines>
     </verse>
     <verse name="v1b">
       <lines>Bear the news to every land,<br/>Climb the steeps and cross the waves<br/>Onward ‘tis our Lord’s command,<br/>Jesus saves! Jesus saves!</lines>
     </verse>
     <verse name="v2a">
-      <lines>Waft it on the rolling tide,  <br/>Jesus saves! Jesus saves!<br/>Tell to sinners far and wide, <br/>Jesus saves! Jesus saves!</lines>
+      <lines>Waft it on the rolling tide,  <br/>Jesus saves! Jesus saves!<br/>Tell to sinners far and wide,<br/>Jesus saves! Jesus saves!</lines>
     </verse>
     <verse name="v2b">
-      <lines>Sing, ye islands of the sea, <br/>Echo back, ye ocean caves<br/>Earth shall keep her jubilee, <br/>Jesus saves! Jesus saves!</lines>
+      <lines>Sing, ye islands of the sea, <br/>Echo back, ye ocean caves<br/>Earth shall keep her jubilee,<br/>Jesus saves! Jesus saves!</lines>
     </verse>
     <verse name="v3a">
       <lines>Sing above the battle strife, <br/>Jesus saves! Jesus saves!<br/>By His death and endless life,<br/>Jesus saves! Jesus saves!</lines>
@@ -28,10 +28,10 @@
       <lines>Sing it softly through the gloom,<br/>When the heart for mercy craves;<br/>Sing in triumph o’er the tomb,<br/>Jesus saves! Jesus saves!</lines>
     </verse>
     <verse name="v4a">
-      <lines>Give the winds a mighty voice,<br/>Jesus saves! Jesus saves!<br/>Let the nations now rejoice, <br/>Jesus saves! Jesus saves!</lines>
+      <lines>Give the winds a mighty voice,<br/>Jesus saves! Jesus saves!<br/>Let the nations now rejoice,<br/>Jesus saves! Jesus saves!</lines>
     </verse>
     <verse name="v4b">
-      <lines>Shout salvation full and free,<br/>Highest hills and deepest caves<br/>This our song of victory, <br/>Jesus saves! Jesus saves!</lines>
+      <lines>Shout salvation full and free,<br/>Highest hills and deepest caves<br/>This our song of victory,<br/>Jesus saves! Jesus saves!</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:31">
   <properties>
     <titles>
       <title>My Savior's Love</title>
@@ -10,22 +10,22 @@
   </properties>
   <lyrics>
     <verse name="c1a">
-      <lines>How marvelous! <br/>how wonderful! <br/>And my song shall ever be:</lines>
+      <lines>How marvelous! <br/>how wonderful!<br/>And my song shall ever be:</lines>
     </verse>
     <verse name="c1b">
-      <lines>How marvelous! <br/>how wonderful <br/>Is my Savior’s love for me!</lines>
+      <lines>How marvelous! <br/>how wonderful<br/>Is my Savior’s love for me!</lines>
     </verse>
     <verse name="v1a">
       <lines>I stand amazed in the presence <br/>Of Jesus the Nazarene,</lines>
     </verse>
     <verse name="v1b">
-      <lines>And wonder how <br/>He could love me, <br/>A sinner, condemned, unclean.</lines>
+      <lines>And wonder how <br/>He could love me,<br/>A sinner, condemned, unclean.</lines>
     </verse>
     <verse name="v2a">
       <lines>For me it was in the garden <br/>He prayed:<br/>“Not My will, but Thine,”</lines>
     </verse>
     <verse name="v2b">
-      <lines>He had no tears for <br/>His own grief’s,    <br/>But sweat-drops <br/>of blood for mine.</lines>
+      <lines>He had no tears for <br/>His own grief’s,<br/>But sweat-drops<br/>of blood for mine.</lines>
     </verse>
     <verse name="v3a">
       <lines>In pity angels beheld Him,<br/>And came from the world of light</lines>

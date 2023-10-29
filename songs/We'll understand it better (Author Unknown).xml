@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:36">
   <properties>
     <titles>
       <title>We'll understand it better</title>
@@ -10,22 +10,22 @@
   </properties>
   <lyrics>
     <verse name="c1a">
-      <lines>By and by when the morning comes, <br/>When the saints of God <br/>are gathered home,</lines>
+      <lines>By and by when the morning comes, <br/>When the saints of God<br/>are gathered home,</lines>
     </verse>
     <verse name="c1b">
-      <lines>We’ll tell the story <br/>how we've overcome;<br/>For we'll understand it better <br/>by and by.</lines>
+      <lines>We’ll tell the story <br/>how we've overcome;<br/>For we'll understand it better<br/>by and by.</lines>
     </verse>
     <verse name="v1a">
-      <lines>We are often tossed and driv’n <br/>on the restless sea of time, <br/>Sombre skies and howling tempests oft succeed a bright sunshine,</lines>
+      <lines>We are often tossed and driv’n <br/>on the restless sea of time,<br/>Sombre skies and howling tempests oft succeed a bright sunshine,</lines>
     </verse>
     <verse name="v1b">
-      <lines>In that land of perfect day, <br/>when the mists have rolled away,<br/>We will understand it better <br/>by and by.</lines>
+      <lines>In that land of perfect day, <br/>when the mists have rolled away,<br/>We will understand it better<br/>by and by.</lines>
     </verse>
     <verse name="v2a">
-      <lines>We are often destitute <br/>of the things that life demands,<br/>Want of food and want of shelter <br/>thirsty hills and barren lands,</lines>
+      <lines>We are often destitute <br/>of the things that life demands,<br/>Want of food and want of shelter<br/>thirsty hills and barren lands,</lines>
     </verse>
     <verse name="v2b">
-      <lines>We are trusting in the Lord, and according to His word,<br/>We will understand it better <br/>by and by.</lines>
+      <lines>We are trusting in the Lord, and according to His word,<br/>We will understand it better<br/>by and by.</lines>
     </verse>
   </lyrics>
 </song>

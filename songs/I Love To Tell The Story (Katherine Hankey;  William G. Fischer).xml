@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:59:01">
+  <properties>
+    <titles>
+      <title>I Love To Tell The Story</title>
+    </titles>
+    <authors>
+      <author>Katherine Hankey;  William G. Fischer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>I love to tell the story, <br/>'Twill be my theme in glory</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>To tell the old, old story of Jesus and His love.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines break="optional">I love to tell the story of <br/>unseen things above,<br/></lines>
+      <lines>Of Jesus and His glory,<br/>Of Jesus and His love.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">I love to tell the story, <br/>Because I know 'tis true;<br/></lines>
+      <lines>It satisfies my longings as<br/>nothing else can do.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines break="optional">I love to tell the story more wonderful it seems,<br/></lines>
+      <lines>Than all the golden fancies, of all our golden dreams,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines break="optional">I love to tell the story, <br/>It did so much for me;<br/></lines>
+      <lines>And that is just the reason<br/>I tell it now to thee.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines break="optional">I love to tell the story, <br/>'tis pleasant to repeat<br/></lines>
+      <lines>What seems, each time I tell it, more wonderfully sweet.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines break="optional">I love to tell the story, <br/>for some have never heard<br/></lines>
+      <lines>The message of salvation<br/>from God's own Holy Word.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines break="optional">I love to tell the story, <br/>for those who know it best<br/></lines>
+      <lines>Seem hungering and thirsting to hear it like the rest.</lines>
+    </verse>
+    <verse name="v4b">
+      <lines break="optional">And when, in scenes of glory, I sing the new, new song,<br/></lines>
+      <lines>'Twill be the old, old story that I have loved so long.</lines>
+    </verse>
+  </lyrics>
+</song>

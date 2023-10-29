@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:52">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:27">
   <properties>
     <titles>
       <title>Bisa'g Maako Ang Kalibutan</title>
@@ -19,7 +19,7 @@
       <lines>Kon ako ang labing adunahan,<br/>Ug labing bantugan sa tanan;<br/>Apan kon ako walay paglaum,</lines>
     </verse>
     <verse name="v2b">
-      <lines>Hain may maayo ning tanan;<br/>Bisan ang tanan akong maangkon,<br/>Ug waly Jesus nga nag nagtubos; <br/>Kinsa man ang ako nga kadangpan,<br/>Sa kalag ko nga nabug-atan.</lines>
+      <lines>Hain may maayo ning tanan;<br/>Bisan ang tanan akong maangkon,<br/>Ug waly Jesus nga nag nagtubos;<br/>Kinsa man ang ako nga kadangpan,<br/>Sa kalag ko nga nabug-atan.</lines>
     </verse>
     <verse name="v3a">
       <lines>Pagka-laay kon way mangluluwas,<br/>Sa mga sala maglunang ko;<br/>Ug mangitngit ang akong padulngan,</lines>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:31">
   <properties>
     <titles>
       <title>My Tribute</title>
@@ -28,7 +28,7 @@
       <lines>With His blood He has saved me;<br/>With His pow'r He has raised me.</lines>
     </verse>
     <verse name="c2">
-      <lines>To God be the glory for the things He has done<br/>For the things, for the things, for the things <br/>He has done.</lines>
+      <lines>To God be the glory for the things He has done<br/>For the things, for the things, for the things<br/>He has done.</lines>
     </verse>
   </lyrics>
 </song>

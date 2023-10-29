@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:32">
   <properties>
     <titles>
       <title>Now I Belong To Jesus</title>
@@ -16,19 +16,19 @@
       <lines>Not for the years of time alone,<br/>But for eternity.</lines>
     </verse>
     <verse name="v1a">
-      <lines>Jesus my Lord <br/>will love me forever,<br/>From Him no pow’r <br/>of evil can sever,</lines>
+      <lines>Jesus my Lord <br/>will love me forever,<br/>From Him no pow’r<br/>of evil can sever,</lines>
     </verse>
     <verse name="v1b">
       <lines>He gave His life <br/>to ransom my soul,<br/>Now I belong to Him;</lines>
     </verse>
     <verse name="v2a">
-      <lines>Once I was lost <br/>in sin’s degradation,<br/>Jesus came down to bring <br/>me salvation,</lines>
+      <lines>Once I was lost <br/>in sin’s degradation,<br/>Jesus came down to bring<br/>me salvation,</lines>
     </verse>
     <verse name="v2b">
       <lines>Lifted me up from sorrow <br/>and shame,<br/>Now I belong to Him;</lines>
     </verse>
     <verse name="v3a">
-      <lines>Joy floods my soul for Jesus <br/>has saved me,<br/>Freed me from sin that long <br/>had enslaved me,</lines>
+      <lines>Joy floods my soul for Jesus <br/>has saved me,<br/>Freed me from sin that long<br/>had enslaved me,</lines>
     </verse>
     <verse name="v3b">
       <lines>His precious blood <br/>He gave to redeem,<br/>Now I belong to Him;</lines>

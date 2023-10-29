@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T07:17:06">
+  <properties>
+    <titles>
+      <title>Sound the Battle Cry</title>
+    </titles>
+    <authors>
+      <author>William F. Sherwin (1869)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines break="optional">Rouse, then, soldiers, <br/>rally round the banner,<br/></lines>
+      <lines>ready, steady, pass the word along;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines break="optional">Onward, forward, <br/>shout aloud Hosanna!<br/></lines>
+      <lines>Christ is Captain of the mighty throng</lines>
+    </verse>
+    <verse name="v1a">
+      <lines break="optional">Sound the battle cry! <br/>See, the foe is nigh;<br/></lines>
+      <lines>raise the standard high<br/>for the Lord;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">Gird your armor on,<br/>stand firm, every one;<br/></lines>
+      <lines>rest your cause upon His holy word.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines break="optional">Strong to meet the foe, <br/>marching on we go,<br/></lines>
+      <lines>while our cause we know,<br/>must prevail;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines break="optional">Shield and banner bright,<br/>gleaming in the light;<br/></lines>
+      <lines>battling for the right<br/>we ne’er can fail.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines break="optional">O! Thou God of all, <br/>hear us when we call,<br/></lines>
+      <lines>help us one and all<br/>by Thy grace;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines break="optional">When the battle’s done, <br/>and the vict'ry's won,<br/></lines>
+      <lines>may we wear the crown<br/>before Thy face.</lines>
+    </verse>
+  </lyrics>
+</song>

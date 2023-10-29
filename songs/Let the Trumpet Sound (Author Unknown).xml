@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:30">
   <properties>
     <titles>
       <title>Let the Trumpet Sound</title>
@@ -44,7 +44,7 @@
       <lines>And let the children of God arise in worship!<br/>Let the trumpet sound!</lines>
     </verse>
     <verse name="v12">
-      <lines>And let the high praise of God<br/>the high praise of God <br/>the high praise of God<br/>the high praise of God be in the air.</lines>
+      <lines>And let the high praise of God<br/>the high praise of God<br/>the high praise of God<br/>the high praise of God be in the air.</lines>
     </verse>
   </lyrics>
 </song>

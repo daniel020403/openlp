@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:29">
   <properties>
     <titles>
       <title>He Still Working On Me</title>
@@ -13,10 +13,10 @@
       <lines>He still working on me<br/>To make me what I ought to be<br/>It took Him just a week to make the moon and stars,</lines>
     </verse>
     <verse name="c1b">
-      <lines>The sun and the earth and Jupiter and Mars<br/>How loving and precious He must be<br/>He still worling on me. <br/>verse 1</lines>
+      <lines>The sun and the earth and Jupiter and Mars<br/>How loving and precious He must be<br/>He still worling on me.<br/>verse 1</lines>
     </verse>
     <verse name="c1c">
-      <lines>There really ought to be <br/>A sign upon my heart <br/>Don't judge him yet</lines>
+      <lines>There really ought to be <br/>A sign upon my heart<br/>Don't judge him yet</lines>
     </verse>
     <verse name="c1d">
       <lines>There's an unfinished part<br/>But I'll be perpect just according to His plan<br/>Fashioned by the Master's loving hand<br/>verse 2</lines>
@@ -25,7 +25,7 @@
       <lines>In the mirror of His Word<br/>Reflections that I see</lines>
     </verse>
     <verse name="c1f">
-      <lines>Make me wonder why He never gave up on me<br/>He loves me as I am<br/>  and helps when I pray<br/>Remember He's the Potter, I'm the clay</lines>
+      <lines>Make me wonder why He never gave up on me<br/>He loves me as I am<br/>and helps when I pray<br/>Remember He's the Potter, I'm the clay</lines>
     </verse>
   </lyrics>
 </song>

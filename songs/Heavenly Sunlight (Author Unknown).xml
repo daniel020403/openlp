@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:53">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:29">
   <properties>
     <titles>
       <title>Heavenly Sunlight</title>
@@ -13,16 +13,16 @@
       <lines>Heavenly sunlight, <br/>heavenly sunlight,</lines>
     </verse>
     <verse name="c1b">
-      <lines>Flooding my soul with glory divine: <br/>Hallelujah, I am rejoicing, <br/>Singing His praises, <br/>Jesus is mine.</lines>
+      <lines>Flooding my soul with glory divine: <br/>Hallelujah, I am rejoicing,<br/>Singing His praises,<br/>Jesus is mine.</lines>
     </verse>
     <verse name="v1a">
-      <lines>Walking in sunlight, <br/>all of my journey;<br/>Over the mountains, <br/>thro’ the deep vale;</lines>
+      <lines>Walking in sunlight, <br/>all of my journey;<br/>Over the mountains,<br/>thro’ the deep vale;</lines>
     </verse>
     <verse name="v1b">
       <lines>Jesus has said <br/>"I'll never forsake thee".<br/>Promise divine that never can fail.</lines>
     </verse>
     <verse name="v2a">
-      <lines>Shadows around me, <br/>shadows above me, <br/>Never conceal my Saviour <br/>and Guide;</lines>
+      <lines>Shadows around me, <br/>shadows above me,<br/>Never conceal my Saviour<br/>and Guide;</lines>
     </verse>
     <verse name="v2b">
       <lines>He is the light, <br/>in Him is no darkness;<br/>Ever I’m walking close to His side.</lines>
@@ -31,7 +31,7 @@
       <lines>In the bright sunlight, <br/>ever rejoicing,<br/>Pressing my way to mansions above;</lines>
     </verse>
     <verse name="v3b">
-      <lines>Singing His praises <br/>gladly I’m walking,<br/>Walking in sunlight, <br/>sunlight of love.</lines>
+      <lines>Singing His praises <br/>gladly I’m walking,<br/>Walking in sunlight,<br/>sunlight of love.</lines>
     </verse>
   </lyrics>
 </song>

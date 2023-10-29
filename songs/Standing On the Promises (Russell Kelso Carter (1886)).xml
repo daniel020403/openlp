@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T07:24:02">
+  <properties>
+    <titles>
+      <title>Standing On the Promises</title>
+    </titles>
+    <authors>
+      <author>Russell Kelso Carter (1886)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines break="optional">Standing, standing,<br/></lines>
+      <lines>standing on the promises of God my Saviour;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines break="optional">Standing, standing,<br/></lines>
+      <lines>I’m standing on the promises of God.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines break="optional">Standing on the promises of Christ my King,<br/></lines>
+      <lines>Thro’ eternal ages let His praises ring;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">Glory in the highest, <br/>I will shout and sing,<br/></lines>
+      <lines>standing on the promises of God.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines break="optional">Standing on the promises that cannot fail,<br/></lines>
+      <lines>when the howling storms of doubt and fear assail,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines break="optional">By the living word of God<br/>I shall prevail,<br/></lines>
+      <lines>standing on the promises of God.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines break="optional">Standing on the promises of Christ the Lord,<br/></lines>
+      <lines>bound to Him eternally by love’s strong cord,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines break="optional">Overcoming daily with the Spirit’s sword,<br/></lines>
+      <lines>standing on the promises of God.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines break="optional">Standing of the promises<br/>I cannot fall, <br/></lines>
+      <lines>listening every moment to the Spirit’s call,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines break="optional">Resting in my Saviour,<br/>as my all in all,<br/></lines>
+      <lines>standing on the promises of God.</lines>
+    </verse>
+  </lyrics>
+</song>

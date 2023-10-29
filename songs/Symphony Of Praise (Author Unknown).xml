@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2023-08-25T02:13:54">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:34">
   <properties>
     <titles>
       <title>Symphony Of Praise</title>
@@ -29,7 +29,7 @@
       <lines>The fall of raindrops all in wild syncopation<br/>as lightning strikes and thunder claps in time</lines>
     </verse>
     <verse name="c1a">
-      <lines>The symphony of praise conducted by the ancient of days<br/>May each creation great or small lift their <br/>voices one and all in the symphony of praise</lines>
+      <lines>The symphony of praise conducted by the ancient of days<br/>May each creation great or small lift their<br/>voices one and all in the symphony of praise</lines>
     </verse>
     <verse name="v2a">
       <lines>Heaven waits in hushed anticipation<br/>the great I AM then turns to mortal men<br/>A massive chorus robed in spotless garments</lines>
