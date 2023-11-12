@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:34">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-11-12T06:02:56">
   <properties>
     <titles>
       <title>Si Jesus Hatagi'g Higayon</title>
@@ -10,31 +10,39 @@
   </properties>
   <lyrics>
     <verse name="c1a">
-      <lines>Hatagi'g higayon si Jesus karon<br/>Nga modumala sa kinabuhi mo</lines>
+      <lines break="optional">Hatagi'g higayon<br/>si Jesus karon<br/></lines>
+      <lines>Nga modumala<br/>sa kinabuhi mo</lines>
     </verse>
     <verse name="c1b">
-      <lines>Siya lamang ang nasayod sa gihandum<br/>Sa kalag mo, sa kasing-kasing mo<br/>Si Jesus hatagi'g higayon</lines>
+      <lines break="optional">Siya lamang ang nasayod<br/>sa gihandum sa kalag mo,<br/></lines>
+      <lines>Sa kasing-kasing mo<br/>si Jesus hatagi'g higayon</lines>
     </verse>
     <verse name="v1a">
-      <lines>Nanglabay ang mga tuig sa imong kinabuhi<br/>Ikaw nagapangita,</lines>
+      <lines break="optional">Nanglabay<br/>ang mga tuig sa imong kinabuhi<br/></lines>
+      <lines>Ikaw nagapangita,</lines>
     </verse>
     <verse name="v1b">
-      <lines>Naangkon mo ba ang kalinaw<br/>Nga dili molubad ang kalibutan</lines>
+      <lines>Naangkon mo ba ang kalinaw<br/>nga di molubad</lines>
     </verse>
     <verse name="v1c">
-      <lines>Way laing idalit kaguol ug kapakyasan lang.</lines>
+      <lines break="optional">Ang kalibutan<br/>way laing idalit<br/></lines>
+      <lines>Kaguol ug kapakyasan lang.</lines>
     </verse>
     <verse name="v2a">
-      <lines>Mga butang nga makaiibog sa mga panan-awon<br/>Lumalabay lamang, tutuki Siya nga nagtubos</lines>
+      <lines break="optional">Mga butang nga makaiibog sa mga panan-awon<br/>lumalabay lamang,<br/></lines>
+      <lines>Tutuki Siya nga nagtubos kanimo sa krus</lines>
     </verse>
     <verse name="v2b">
-      <lines>Kanimo sa Krus ang pulong Niya itisok sa dughan<br/>Maangkon mo kinabuhing way utlanan.</lines>
+      <lines break="optional">Ang pulong Niya<br/>itisok sa dughan<br/></lines>
+      <lines>Maangkon mo<br/>kinabuhing way utlanan.</lines>
     </verse>
-    <verse name="v3a">
-      <lines>Unsa pa'y gihulat o nakapugong<br/>S'ya ang dalan kamatuoran ug kinabuhi<br/>Hatagi'g higayon si Jesus karon<br/>Nga modumala sa kinabuhi mo</lines>
+    <verse name="b1">
+      <lines break="optional">Unsa pa'y gihulat o makapugong<br/></lines>
+      <lines>S'ya ang dalan kamatuoran ug kinabuhi</lines>
     </verse>
-    <verse name="v3b">
-      <lines>Siya lamang ang nasayod sa gihandom sa kalag mo sa kasing-kasing mo<br/>Si Jesus hatagi'g higayon<br/>Sa kasing-kasing mo<br/>Si Jesus hatagi'g higayon</lines>
+    <verse name="e1">
+      <lines break="optional">Sa kasing-kasing mo<br/></lines>
+      <lines>Si Jesus hatagi'g higayon</lines>
     </verse>
   </lyrics>
 </song>
