@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-11-19T05:49:56">
+  <properties>
+    <titles>
+      <title>Mansion Over The Hilltop</title>
+    </titles>
+    <authors>
+      <author>Ira Stanphill (1949)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines break="optional">I’ve got a mansion <br/>just over the hilltop,<br/></lines>
+      <lines>In that bright land<br/>where we’ll never grow old.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines break="optional">And some day yonder<br/>We will never more wander,<br/></lines>
+      <lines>But walk on streets<br/>that are purest gold.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines break="optional">I’m satisfied with<br/>just a cottage below…<br/></lines>
+      <lines>a little silver,<br/>and a little gold.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">But in that city,<br/>where the ransomed will shine…<br/></lines>
+      <lines>I want a gold one<br/>that’s silver lined.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines break="optional">Tho’ often tempted,<br/>tormented and tested<br/></lines>
+      <lines>And like the prophet,<br/>my pillow a stone,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines break="optional">And tho I find here,<br/>no permanent dwelling,<br/></lines>
+      <lines>I know He’ll give me<br/>a mansion my own.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines break="optional">Don’t think me poor or,<br/>deserted or lonely.<br/></lines>
+      <lines>I’m not discouraged,<br/>I’m heaven bound.</lines>
+    </verse>
+    <verse name="v3b">
+      <lines break="optional">I’m just a pilgrim<br/>in search of that city.<br/></lines>
+      <lines>I want a mansion,<br/>a harp and a crown.</lines>
+    </verse>
+  </lyrics>
+</song>
