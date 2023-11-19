@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:36">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-11-19T06:49:06">
   <properties>
     <titles>
       <title>Welcome Song</title>
@@ -9,14 +9,22 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1">
-      <lines>Welcome, welcome all of you<br/>I'm glad you're with us<br/>Shake hands never to be blue<br/>Welcome to you.</lines>
+    <verse name="v1a">
+      <lines break="optional">Welcome,<br/>welcome all of you<br/></lines>
+      <lines>I'm glad you're with us</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">Shake hands<br/>never to be blue<br/></lines>
+      <lines>Welcome to you.</lines>
     </verse>
     <verse name="v2">
-      <lines>There's a welcome here<br/>There's a welcome here<br/>There's a Christian welcome here<br/>Hallelujah.</lines>
+      <lines break="optional">There's a welcome here<br/>There's a welcome here<br/></lines>
+      <lines break="optional">There's a Christian<br/>welcome here<br/></lines>
+      <lines>Hallelujah.</lines>
     </verse>
     <verse name="v3">
-      <lines>There's a welcome here<br/>There's a welcome here<br/>There's a Christian welcome here.</lines>
+      <lines break="optional">There's a welcome here<br/>There's a welcome here<br/></lines>
+      <lines>There's a Christian<br/>welcome here.</lines>
     </verse>
   </lyrics>
 </song>
