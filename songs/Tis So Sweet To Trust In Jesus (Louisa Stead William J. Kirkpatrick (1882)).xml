@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-11-19T07:06:34">
+  <properties>
+    <titles>
+      <title>Tis So Sweet To Trust In Jesus</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Louisa Stead William J. Kirkpatrick (1882)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines break="optional">Jesus, Jesus<br/>how I trust Him!<br/></lines>
+      <lines>How I've proved Him<br/>o'er and o'er!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines break="optional">Jesus, Jesus,<br/>precious Jesus!<br/></lines>
+      <lines>O for grace<br/>to trust Him more!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines break="optional">'Tis so sweet<br/>to trust in Jesus,<br/></lines>
+      <lines>Just to take Him<br/>at His word;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">Just to rest<br/>upon His promise;<br/></lines>
+      <lines>Just to know<br/>"Thus saith the Lord."</lines>
+    </verse>
+    <verse name="v2a">
+      <lines break="optional">O how sweet<br/>to trust in Jesus,<br/></lines>
+      <lines>Just to trust<br/>His cleansing blood;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines break="optional">Just in simple faith<br/>to plunge me,<br/></lines>
+      <lines>'neath the healing,<br/>cleansing flood!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines break="optional">Yes, 'tis sweet<br/>to trust in Jesus,<br/></lines>
+      <lines>Just from sin<br/>and self to cease;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines break="optional">Just from Jesus<br/>simply taking<br/></lines>
+      <lines>Life and rest<br/>and joy and peace.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines break="optional">I'm so glad<br/>I learned to trust Thee,<br/></lines>
+      <lines>Precious Jesus,<br/>Savior friend;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines break="optional">And I know<br/>that Thou art with me,<br/></lines>
+      <lines>Wilt be with me<br/>to the end.</lines>
+    </verse>
+  </lyrics>
+</song>
