@@ -1,62 +1,57 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:28">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-11-19T05:18:15">
   <properties>
     <titles>
       <title>Didto sa Langit</title>
     </titles>
-    <verseOrder>v1 c1 v2 c1 c1 c1 c1 v3 c1 c1 c1 c1 v4</verseOrder>
     <authors>
       <author>Author Unknown</author>
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1a">
-      <lines>Unsa pa may tinguhaon ta <br/>ning kalibutan?</lines>
-    </verse>
-    <verse name="v1b">
-      <lines>Ang kalipay ba nga lumalabay<br/>lamang?</lines>
-    </verse>
-    <verse name="v1c">
-      <lines>Tinguhaon ta ang kalipay nga 	wa’y katapusan<br/>Didto sa langitnong puloy-anan, sa Amahan.</lines>
-    </verse>
     <verse name="c1a">
-      <lines>Didto sa langit, kalipay lang ang<br/>atong matagamtaman</lines>
+      <lines break="optional">Didto sa langit,<br/></lines>
+      <lines>kalipay lang<br/>ang atong matagamtaman</lines>
     </verse>
     <verse name="c1b">
-      <lines>Wa nay kasakit ug wa’y kagul-anan, ang tanan lunlon kalipay lang</lines>
+      <lines break="optional">Wa nay kasakit<br/>ug wa’y kagul-anan,<br/></lines>
+      <lines>ang tanan lunlon<br/>kalipay lang</lines>
     </verse>
     <verse name="c1c">
-      <lines>Didto sa langit, kalipay lang ang atong matagamtaman</lines>
+      <lines break="optional">Didto sa langit<br/></lines>
+      <lines> kalipay lang<br/>ang atong matagamtaman</lines>
     </verse>
     <verse name="c1d">
-      <lines>Kalipay’ng wa’y katapusan hangtud sa kahangturan</lines>
+      <lines>Kalipay’ng wa’y katapusan<br/>hangtud sa kahangturan</lines>
+    </verse>
+    <verse name="v1a">
+      <lines break="optional">Unsa pa may tinguhaon ta ning kalibutan?<br/></lines>
+      <lines>Ang kalipay ba nga lumalabay lamang?</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">Tinguhaon ta ang kalipay nga wa’y katapusan<br/></lines>
+      <lines break="optional">Didto sa langitnong<br/>puloy-anan,<br/></lines>
+      <lines>sa Amahan.</lines>
     </verse>
     <verse name="v2a">
-      <lines>Ni’ng kalibutan ato karong gipuy-an</lines>
+      <lines break="optional">Ni’ng kalibutan<br/>ato karong gipuy-an<br/></lines>
+      <lines>Puno sa kasakit<br/>ug mga kapaitan</lines>
     </verse>
     <verse name="v2b">
-      <lines>Puno sa kasakit ug mga kapaitan</lines>
-    </verse>
-    <verse name="v2c">
-      <lines>Kalisdanan kanunay natong 	matagamtaman</lines>
-    </verse>
-    <verse name="v2d">
-      <lines>Dunay kalipay apan lumalabay lamang, ang tanan.</lines>
+      <lines break="optional">Kalisdanan kanunay natong matagamtaman<br/></lines>
+      <lines>Dunay kalipay<br/>apan lumalabay lamang,<br/>ang tanan.</lines>
     </verse>
     <verse name="v3a">
-      <lines>Didto sa langit kauban ta si <br/>Jesus Cristo<br/>Diha sa mahimayaon Niyang trono</lines>
+      <lines break="optional">Didto sa langit kauban ta si Jesus Cristo<br/></lines>
+      <lines>Diha sa mahimayaon<br/>Niyang trono</lines>
     </verse>
     <verse name="v3b">
-      <lines>Kauban ta ang mga manulunda Niya</lines>
+      <lines break="optional">Kauban ta<br/>ang mga manulunda Niya<br/></lines>
+      <lines break="optional">Ug magaawit ta<br/>sa pagdayeg Kaniya<br/></lines>
+      <lines>Aleluya.</lines>
     </verse>
-    <verse name="v3c">
-      <lines>Ug magaawit ta sa pagdayeg Kaniya<br/>Aleluya.</lines>
-    </verse>
-    <verse name="v4a">
-      <lines>Didto sa langit kalipay lang ang	atong matagamtaman</lines>
-    </verse>
-    <verse name="v4b">
-      <lines>Kalipay’ng wa’y katapusan hangtud sa kahangturan.<br/>Didto sa langit.</lines>
+    <verse name="e1">
+      <lines>Didto sa langit.</lines>
     </verse>
   </lyrics>
 </song>
