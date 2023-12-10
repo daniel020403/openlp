@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-10T06:56:51">
+  <properties>
+    <titles>
+      <title>Such Love</title>
+    </titles>
+    <copyright>1929 by Lillenas Publishing Co.</copyright>
+    <authors>
+      <author>C. Bishop</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines break="optional">Such love,<br/>such wondrous love, <br/></lines>
+      <lines>Such love,<br/>such wondrous love,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines break="optional">That God should love<br/>a sinner such as I,<br/></lines>
+      <lines>How wonderful<br/>is love like this!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines break="optional">That God should love<br/>a sinner such as I,<br/></lines>
+      <lines>Should yearn to change<br/>my sorrow into bliss,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">Nor rest till He had planned to bring me nigh,<br/></lines>
+      <lines>How wonderful<br/>is love like this!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines break="optional">That Christ should join so freely in the scheme,<br/></lines>
+      <lines>Although it meant<br/>His death on Calvary,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines break="optional">Did ever human tongue find nobler theme<br/></lines>
+      <lines>Than love divine that ransomed me?</lines>
+    </verse>
+    <verse name="v3a">
+      <lines break="optional">That for a wilful outcast such as I,<br/></lines>
+      <lines>The Father planned,<br/>the Savior bled and died;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines break="optional">Redemption for a worthless slave to buy,<br/></lines>
+      <lines>Who long had law and grace defied.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines break="optional">And now He takes me to His heart - a son,<br/></lines>
+      <lines>He asks me not to fill a servant’s place;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines break="optional">The “Far-off country” wand’rings all are done,<br/></lines>
+      <lines>Wide open are His arms of grace.</lines>
+    </verse>
+  </lyrics>
+</song>
