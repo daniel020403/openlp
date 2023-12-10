@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-10T07:15:21">
+  <properties>
+    <titles>
+      <title>My Savior's Love</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Chas. H. Gabriel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines break="optional">How marvelous! <br/>How wonderful!<br/></lines>
+      <lines>And my song shall ever be:</lines>
+    </verse>
+    <verse name="c1b">
+      <lines break="optional">How marvelous!<br/>How wonderful<br/></lines>
+      <lines>is my Savior’s love for me!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I stand amazed in the presence of Jesus the Nazarene,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">And wonder how He could love me,<br/></lines>
+      <lines>a sinner, condemned, unclean.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines break="optional">For me it was in the garden<br/></lines>
+      <lines>He prayed:<br/>“Not My will, but Thine,”</lines>
+    </verse>
+    <verse name="v2b">
+      <lines break="optional">He had no tears for His own grief’s,<br/></lines>
+      <lines>But sweat drops of blood for mine.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines break="optional">In pity<br/>angels beheld Him,<br/></lines>
+      <lines>and came from<br/>the world of light</lines>
+    </verse>
+    <verse name="v3b">
+      <lines break="optional">To comfort Him<br/>in the sorrows<br/></lines>
+      <lines>He bore for my soul<br/>that night.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines break="optional">He took my sins<br/>and my sorrows,<br/></lines>
+      <lines>He made His very own;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines break="optional">He bore the burden<br/>to Calva’ry,<br/></lines>
+      <lines>And suffered,<br/>and died alone.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines break="optional">When with<br/>the ransomed in glory<br/></lines>
+      <lines>His face<br/>I at last shall see,</lines>
+    </verse>
+    <verse name="v5b">
+      <lines break="optional">‘Twill be my joy<br/>thro’ the ages<br/></lines>
+      <lines>To sing of His  love for me.</lines>
+    </verse>
+  </lyrics>
+</song>
