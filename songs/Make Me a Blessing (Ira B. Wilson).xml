@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-10T06:18:16">
+  <properties>
+    <titles>
+      <title>Make Me a Blessing</title>
+    </titles>
+    <copyright>1909</copyright>
+    <authors>
+      <author>Ira B. Wilson</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines break="optional">Make me a blessing,<br/>Make me a blessing,<br/></lines>
+      <lines>Out of my life<br/>may Jesus shine;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines break="optional">Make me a blessing,<br/>O Savior, I pray<br/></lines>
+      <lines>Make me a blessing<br/>to someone today.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines break="optional">Out in the highways <br/>and by ways of life,<br/></lines>
+      <lines>Many are weary and sad;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">Carry the sunshine where darkness is rife,<br/></lines>
+      <lines>making the sorrowing glad</lines>
+    </verse>
+    <verse name="v2a">
+      <lines break="optional">Tell the sweet story of Christ and His love,<br/></lines>
+      <lines>Tell of His pow’r to forgive;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines break="optional">Others will trust Him if only you prove<br/></lines>
+      <lines>True, ev’ry moment to live</lines>
+    </verse>
+    <verse name="v3a">
+      <lines break="optional">Give as ‘twas given to you in your need,<br/></lines>
+      <lines>Love as the Master loved you;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines break="optional">Be to the helpless<br/>a helper indeed,<br/></lines>
+      <lines>Unto your mission be true</lines>
+    </verse>
+  </lyrics>
+</song>

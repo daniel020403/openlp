@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:27">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-10T06:08:51">
   <properties>
     <titles>
       <title>Blessed Assurance</title>
@@ -12,25 +12,32 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>This is my story, this is my song,<br/>Praising my Savior all the day long.</lines>
+      <lines break="optional">This is my story<br/>this is my song,<br/></lines>
+      <lines>Praising my Savior<br/>all the day long.</lines>
     </verse>
     <verse name="v1a">
-      <lines>Blessed assurance, Jesus is mine!<br/>Oh, what a foretaste of glory divine!</lines>
+      <lines break="optional">Blessed assurance,<br/>Jesus is mine!<br/></lines>
+      <lines>Oh, what a foretaste of glory divine!</lines>
     </verse>
     <verse name="v1b">
-      <lines>Heir of salvation, purchase of God,<br/>Born of His Spirit, washed in His blood!</lines>
+      <lines break="optional">Heir of salvation,<br/>purchase of God,<br/></lines>
+      <lines>Born of His Spirit,<br/>washed in His blood!</lines>
     </verse>
     <verse name="v2a">
-      <lines>Perfect submission, perfect delight!<br/>Visions of rapture now burst at my sight!</lines>
+      <lines break="optional">Perfect submission,<br/>perfect delight!<br/></lines>
+      <lines>Visions of rapture now burst at my sight!</lines>
     </verse>
     <verse name="v2b">
-      <lines>Angels descending bring from above<br/>Echoes of mercy, whispers of love.</lines>
+      <lines break="optional">Angels descending<br/>bring from above<br/></lines>
+      <lines>Echoes of mercy,<br/>whispers of love.</lines>
     </verse>
     <verse name="v3a">
-      <lines>Perfect submission, all is at rest.<br/>I in my Savior am happy and blest;</lines>
+      <lines break="optional">Perfect submission,<br/>all is at rest.<br/></lines>
+      <lines>I in my Savior<br/>am happy and blest;</lines>
     </verse>
     <verse name="v3b">
-      <lines>Watching and waiting, looking above,<br/>Filled with His goodness, lost in His love.</lines>
+      <lines break="optional">Watching and waiting,<br/>looking above,<br/></lines>
+      <lines>Filled with His goodness,<br/>lost in His love.</lines>
     </verse>
   </lyrics>
 </song>

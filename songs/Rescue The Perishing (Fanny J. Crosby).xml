@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-10T05:46:53">
+  <properties>
+    <titles>
+      <title>Rescue The Perishing</title>
+    </titles>
+    <copyright>1869</copyright>
+    <authors>
+      <author>Fanny J. Crosby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines break="optional">Rescue the perishing,<br/>care for the dying;<br/></lines>
+      <lines>Jesus is merciful,<br/>Jesus will save.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines break="optional">Rescue the perishing,<br/>care for the dying,<br/></lines>
+      <lines>snatch them in pity<br/>from sin and the grave;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">Weep o'er the erring one, <br/>Lift up the fallen,<br/></lines>
+      <lines>Tell them of Jesus<br/>the mighty to save.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines break="optional">Tho' they are<br/>slighting Him,<br/></lines>
+      <lines break="optional">Still He is waiting,<br/></lines>
+      <lines>Waiting the penitent child<br/>to receive;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines break="optional">Plead with them earnestly,<br/>Plead with them gently,<br/></lines>
+      <lines>He will forgive<br/>if they only believe.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines break="optional">Down in the human heart,<br/>crushed by the tempter,<br/></lines>
+      <lines>Feelings lie buried<br/>that grace can restore;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines break="optional">Touched by a loving heart,<br/>wakened by kindness,<br/></lines>
+      <lines>Chords that are broken will vibrate once more.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines break="optional">Rescue the perishing,<br/>duty demands it;<br/></lines>
+      <lines>Strength for thy labor<br/>the Lord will provide;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines break="optional">Back to the narrow way<br/>patiently win them;<br/></lines>
+      <lines>Tell the poor wanderer<br/>a Savior has died.</lines>
+    </verse>
+  </lyrics>
+</song>
