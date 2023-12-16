@@ -1,25 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:35">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-16T13:07:31">
   <properties>
     <titles>
       <title>The Lily of the Valley</title>
     </titles>
     <authors>
-      <author>Author Unknown</author>
+      <author>Charles W. Fry (1881)</author>
     </authors>
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines break="optional">He's the Lily of the Valley, <br/>the Bright and Morning Star,<br/></lines>
+      <lines break="optional">He's the<br/>Lily of the Valley,<br/></lines>
+      <lines break="optional">the Bright<br/>and Morning Star,<br/></lines>
       <lines>He’s the fairest of  ten thousand to my soul.</lines>
     </verse>
     <verse name="v1a">
-      <lines break="optional">I have found a friend in Jesus,<br/></lines>
+      <lines break="optional">I have found<br/>a friend in Jesus,<br/></lines>
       <lines break="optional">He’s everything to me, <br/></lines>
       <lines>He’s the fairest of ten thousand to my soul;</lines>
     </verse>
     <verse name="v1b">
-      <lines break="optional">The Lily of the Valley, in Him alone I see<br/></lines>
+      <lines break="optional">The Lily of the Valley,<br/>in Him alone I see<br/></lines>
       <lines>All I need to cleanse and make me fully whole.</lines>
     </verse>
     <verse name="v1c">
@@ -40,7 +41,7 @@
       <lines>Through Jesus I shall safely reach the goal:</lines>
     </verse>
     <verse name="v3a">
-      <lines break="optional">He will never, never leave me, <br/>nor yet forsake me here,<br/></lines>
+      <lines break="optional">He will never,<br/>never leave me, <br/>nor yet forsake me here,<br/></lines>
       <lines>While I live by faith <br/>and do His blessed will;</lines>
     </verse>
     <verse name="v3b">
