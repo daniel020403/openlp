@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-17T05:50:24">
+  <properties>
+    <titles>
+      <title>Work for the Night is Coming</title>
+    </titles>
+    <authors>
+      <author>Harry Coghill</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Work,<br/>for the night is coming,<br/><br/>Work<br/>thro’ the morning hours;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Work<br/>while the dew is sparkling;<br/><br/>Work,<br/>mid springing flow’rs.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Work<br/>while the day grows brighter,<br/><br/>Work<br/>in the glowing sun;</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Work,<br/>for the night is coming;<br/><br/>When man’s work is done.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Work,<br/>for the night is coming,<br/><br/>Work<br/>thro’ the sunny noon;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Fill brightest hours<br/>with labor,<br/><br/>Rest comes sure and soon.</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Give ev’ry flying minute<br/><br/>Something to keep<br/>in store;</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>Work<br/>for the night is coming,<br/><br/>When man works no more.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Work,<br/>for the night is coming,<br/><br/>Under the sunset skies;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>While their bright tints<br/>are glowing,<br/><br/>Work,<br/>for daylight flies.</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Work<br/>till the last beam fadeth,<br/><br/>Fadeth to shine no more;</lines>
+    </verse>
+    <verse name="v3d">
+      <lines>Work,<br/>while the night is dark’ning,<br/><br/>When man’s work is o’er.</lines>
+    </verse>
+  </lyrics>
+</song>
