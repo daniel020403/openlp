@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-17T06:12:20">
+  <properties>
+    <titles>
+      <title>Higher Ground</title>
+    </titles>
+    <authors>
+      <author>Johnson Oatman, Jr.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Lord, lift me up<br/>and let me stand,<br/><br/>By faith, on heaven’s<br/>table land,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>A higher plane than<br/>I have found;<br/><br/>Lord, plant my feet<br/>on higher ground.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I’m pressing on<br/>the upward way,<br/><br/>New heights<br/>I’m gaining everyday;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Still praying as<br/>I onward bound,<br/><br/>“Lord, plant my feet<br/>on higher ground.”</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>My heart has no<br/>desire to stay<br/><br/>Where doubts arise<br/>and fears dismay;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Tho’ some may dwell<br/>where these abound’<br/><br/>My prayer, my aim,<br/>is higher ground.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I want to live<br/>above the world,<br/><br/>Tho’ Satan’s darts<br/>at me are hurled;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>For faith has caught<br/>the joyful sound,<br/><br/>The song of saints<br/>on higher ground.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>I want to scale<br/>the utmost height,<br/><br/>And catch a gleam<br/>of glory bright;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>But still I’ll pray<br/>till heaven I’ve found,<br/><br/>“Lord, lead me on<br/>to higher ground.”</lines>
+    </verse>
+  </lyrics>
+</song>
