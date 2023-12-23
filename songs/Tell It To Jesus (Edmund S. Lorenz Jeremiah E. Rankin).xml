@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:34">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-16T13:42:08">
   <properties>
     <titles>
       <title>Tell It To Jesus</title>
@@ -11,34 +11,34 @@
   </properties>
   <lyrics>
     <verse name="c1a">
-      <lines>Tell it to Jesus,<br/>Tell it to Jesus.<br/>He is a Friend that's well known.</lines>
+      <lines>Tell it to Jesus,<br/>Tell it to Jesus.<br/><br/>He is a Friend<br/>that's well known.</lines>
     </verse>
     <verse name="c1b">
-      <lines>You have no other<br/>Such a friend or brother.<br/>Tell it to Jesus alone.</lines>
+      <lines>You've no other<br/>such a friend or brother.<br/><br/>Tell it to Jesus alone.</lines>
     </verse>
     <verse name="v1a">
-      <lines>Are you weary,<br/>Are you heavy hearted?<br/>Tell it to Jesus,<br/>Tell it to Jesus.</lines>
+      <lines>Are you weary,<br/>are you heavy hearted?<br/><br/>Tell it to Jesus,<br/>Tell it to Jesus.</lines>
     </verse>
     <verse name="v1b">
-      <lines>Are you grieving<br/>Over joys departed?<br/>Tell it to Jesus alone.</lines>
+      <lines>Are you grieving<br/>Over joys departed?<br/><br/>Tell it to Jesus alone.</lines>
     </verse>
     <verse name="v2a">
-      <lines>Do the tears flow down<br/>Your cheeks unbidden?<br/>Tell it to Jesus,</lines>
+      <lines>Do the tears flow down<br/>your cheeks unbidden?<br/><br/>Tell it to Jesus,<br/>Tell it to Jesus.</lines>
     </verse>
     <verse name="v2b">
-      <lines>Tell it to Jesus.<br/>Have you sins that<br/>To men's eyes are hidden?<br/>Tell it to Jesus alone.</lines>
+      <lines>Have you sins that<br/>to men's eyes are hidden?<br/><br/>Tell it to Jesus alone.</lines>
     </verse>
     <verse name="v3a">
-      <lines>Do you fear the<br/>Gathering clouds of sorrow?<br/>Tell it to Jesus,</lines>
+      <lines>Do you fear the<br/>gathering clouds of sorrow?<br/><br/>Tell it to Jesus,<br/>Tell it to Jesus.</lines>
     </verse>
     <verse name="v3b">
-      <lines>Tell it to Jesus.<br/>Are you anxious<br/>What shall be tomorrow?<br/>Tell it to Jesus alone.</lines>
+      <lines>Are you anxious<br/>what shall be tomorrow?<br/><br/>Tell it to Jesus alone.</lines>
     </verse>
     <verse name="v4a">
-      <lines>Are you troubled<br/>At the thought of dying?<br/>Tell it to Jesus,</lines>
+      <lines>Are you troubled<br/>at the thought of dying?<br/><br/>Tell it to Jesus,<br/>Tell it to Jesus.</lines>
     </verse>
     <verse name="v4b">
-      <lines>Tell it to Jesus.<br/>For Christ's coming kingdom<br/>Are you sighing?<br/>Tell it to Jesus alone.</lines>
+      <lines>For Christ's coming kingdom<br/>are you sighing?<br/><br/>Tell it to Jesus alone.</lines>
     </verse>
   </lyrics>
 </song>

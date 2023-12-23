@@ -1,32 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:26">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-16T12:32:58">
   <properties>
     <titles>
       <title>Ang Tanan Iyaha Man (offering song)</title>
     </titles>
-    <verseOrder>c1 v1 v2 v1 v3 v1</verseOrder>
+    <verseOrder>c1 v1 p1 v2 p1 v3 p1</verseOrder>
     <authors>
       <author>Author Unknown</author>
     </authors>
   </properties>
   <lyrics>
     <verse name="c1a">
-      <lines>Busa ihatag ta ang ikapulo<br/>Ug ang mga halad Iya man nga bahin</lines>
+      <lines break="optional">Busa ihatag ta ang ikapulo<br/></lines>
+      <lines>Ug ang mga halad<br/>Iya man nga bahin</lines>
     </verse>
     <verse name="c1b">
-      <lines>Pun-on kita sa mga panalangin<br/>Kon atong ihatag ang Iyang bahin</lines>
+      <lines break="optional">Pun-on kita<br/>sa mga panalangin<br/></lines>
+      <lines>Kon atong ihatag<br/>ang Iyang bahin</lines>
     </verse>
-    <verse name="v1a">
-      <lines>Ang tanan nga mga panalangin<br/>Nga atong nadawat gikan sa Dios</lines>
+    <verse name="v1">
+      <lines break="optional">Ang tanan nga mga panalangin<br/></lines>
+      <lines>Nga atong nadawat<br/>gikan sa Dios</lines>
     </verse>
-    <verse name="v1b">
-      <lines>Kinahanglan bahinan nato Siya<br/>Kay ang tanan Iyaha man</lines>
+    <verse name="p1">
+      <lines break="optional">Kinahanglan bahinan nato Siya<br/></lines>
+      <lines>Kay ang tanan Iyaha man</lines>
     </verse>
     <verse name="v2">
-      <lines>Ang tanan natong mga bahandi<br/>Hinulaman lamang gikan sa Dios</lines>
+      <lines break="optional">Ang tanan natong<br/>mga bahandi<br/></lines>
+      <lines>Hinulaman lamang<br/>gikan sa Dios</lines>
     </verse>
     <verse name="v3">
-      <lines>Ang tanan nga ani-a kanato<br/>Mga butang gikan kini sa Dios</lines>
+      <lines break="optional">Ang tanan nga ani-a kanato<br/></lines>
+      <lines>Mga butang<br/>gikan kini sa Dios</lines>
     </verse>
   </lyrics>
 </song>

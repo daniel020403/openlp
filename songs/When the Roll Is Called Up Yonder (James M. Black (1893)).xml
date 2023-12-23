@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-23T06:15:58">
+  <properties>
+    <titles>
+      <title>When the Roll Is Called Up Yonder</title>
+    </titles>
+    <authors>
+      <author>James M. Black (1893)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>When the roll<br/>is called up yonder,<br/><br/>When the roll<br/>is called up yonder,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>When the roll<br/>is called up yonder,<br/><br/>When the roll<br/>is called up yonder,<br/><br/>I’ll be there.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>When the trumpet<br/>of the Lord shall sound,<br/>and time shall be no more,<br/><br/>And the morning breaks,<br/>eternal, bright and fair;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>When the saved of earth<br/>shall gather over on the other shore,<br/><br/>And the roll<br/>is called up yonder,<br/><br/>I’ll be there.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>On that bright<br/>and cloudless morning<br/>when the dead <br/>in Christ shall rise,<br/><br/>And the glory<br/>of His resurrection share;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>When His chosen ones<br/>shall gather to their home<br/>beyond the skies,<br/><br/>And the roll<br/>is called up yonder,<br/><br/>I’ll be there</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Let us labor for the Master from the dawn<br/>till setting sun,<br/><br/>Let us talk<br/>of all His wondrous<br/>love and care;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Then when all of life<br/>is over, <br/>and our work on earth<br/>is done,<br/><br/>And the roll<br/>is called up yonder,<br/>I’ll be there</lines>
+    </verse>
+  </lyrics>
+</song>

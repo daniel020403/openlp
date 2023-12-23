@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-16T13:13:54">
+  <properties>
+    <titles>
+      <title>He Is Able To Deliver Thee</title>
+    </titles>
+    <authors>
+      <author>W. A. Ogden (1887)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>He is able to deliver thee, <br/>He is able to deliver thee:</lines>
+    </verse>
+    <verse name="c1b">
+      <lines break="optional">Tho’ by sin opprest,<br/>Go to Him for rest;<br/></lines>
+      <lines>“Our God is able<br/>to deliver thee”</lines>
+    </verse>
+    <verse name="v1a">
+      <lines break="optional">‘Tis the grandest theme<br/>thro’ the ages rung;<br/></lines>
+      <lines>‘Tis the grandest theme<br/>for a mortal tongue;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">‘Tis the grandest theme<br/>that the world e’er sung,<br/></lines>
+      <lines>“Our God is able<br/>to deliver thee.”</lines>
+    </verse>
+    <verse name="v2a">
+      <lines break="optional">‘Tis the grandest theme<br/>in the earth or main;<br/></lines>
+      <lines>‘Tis the grandest theme<br/>for a mortal strain;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines break="optional">‘Tis the grandest theme,<br/>tell the world again,<br/></lines>
+      <lines>“Our God is able<br/>to deliver thee.”</lines>
+    </verse>
+    <verse name="v3a">
+      <lines break="optional">‘Tis the grandest theme,<br/>let the tidings roll,<br/></lines>
+      <lines>To the guilty heart,<br/>to the sinful soul;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines break="optional">Look to God in faith,<br/>He will make thee whole,<br/></lines>
+      <lines>“Our God is able<br/>to deliver thee.”</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-16T13:34:38">
+  <properties>
+    <titles>
+      <title>Christ Arose</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Robert Lowry (1874)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Up from the grave<br/>He arose,<br/><br/>With a mighty triumph<br/>o'er His foes;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>He arose a victor<br/>from the dark domain<br/><br/>And He lives forever<br/>With His saints to reign.</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>He arose!<br/>He arose!<br/><br/>Hallelujah!<br/>Christ arose!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Low in the grave He lay,<br/><br/>Jesus my Savior!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Waiting the coming day,<br/><br/>Jesus my Lord!</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Vainly they watch His bed,<br/><br/>Jesus my Savior!</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Vainly they seal the dead,<br/><br/>Jesus my Lord!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Death cannot keep his prey,<br/><br/>Jesus my Savior!</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>He tore the bars away,<br/><br/>Jesus my Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,41 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:30">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-16T13:51:23">
   <properties>
     <titles>
       <title>Kang Jesus Lang Magtawag</title>
     </titles>
-    <verseOrder>c1 v1 v2 v3 v2 v4</verseOrder>
     <authors>
       <author>Author Unknown</author>
     </authors>
   </properties>
   <lyrics>
     <verse name="c1a">
-      <lines>Si Jesus lang ang angay'ng suginlan,<br/>May kahangawa Siya;</lines>
+      <lines>Si Jesus lang<br/>ang angay'ng suginlan,<br/><br/>May kahangawa Siya;</lines>
     </verse>
     <verse name="c1b">
-      <lines>Way higala nga ingon Kaniya,<br/>Kang Jesus lang magtawag.</lines>
+      <lines>Way higala<br/>nga ingon Kaniya,<br/><br/>Kang Jesus lang magtawag.</lines>
     </verse>
     <verse name="v1a">
-      <lines>Nagbug-at bang imong kasingkasing?<br/>Si Jesus lang ang angay'ng suginlan;</lines>
+      <lines>Nagbug-at bang imong kasingkasing?<br/><br/>Si Jesus lang<br/>ang angay'ng suginlan;</lines>
     </verse>
     <verse name="v1b">
-      <lines>Nagkahanaw bang kalinaw nimo?<br/>Kang Jesus lang magtawag.</lines>
+      <lines>Nagkahanaw bang kalinaw nimo?<br/><br/>Kang Jesus lang magtawag.</lines>
     </verse>
     <verse name="v2a">
-      <lines>Mga luha mo di ba kapugngan?<br/>Si Jesus lang ang angay'ng suginlan;</lines>
+      <lines>Mga luha mo<br/>di ba kapugngan?<br/><br/>Si Jesus lang<br/>ang angay'ng suginlan;</lines>
     </verse>
     <verse name="v2b">
-      <lines>Kon wala ka may kasegurohan,<br/>Kang Jesus lang magtawag.</lines>
+      <lines>Kon wala ka may kasegurohan,<br/><br/>Kang Jesus lang magtawag.</lines>
     </verse>
-    <verse name="v3">
-      <lines>Nalisang ka ba sa kaugmaon?<br/>Si Jesus lang ang angay'ng suginlan;</lines>
+    <verse name="v3a">
+      <lines>Nalisang ka ba sa kaugmaon?<br/><br/>Si Jesus lang<br/>ang angay'ng suginlan;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Kon wala ka may kasegurohan,<br/><br/>Kang Jesus lang magtawag.</lines>
     </verse>
     <verse name="v4a">
-      <lines>Nahadlok ka ba sa kamatayon?<br/>Si Jesus lang ang angay'ng suginlan;</lines>
+      <lines>Nahadlok ka ba sa kamatayon?<br/><br/>Si Jesus lang<br/>ang angay'ng suginlan;</lines>
     </verse>
     <verse name="v4b">
-      <lines>Nangandoy ka ba Niyang mobalik?<br/>Kang Jesus lang magtawag.</lines>
+      <lines>Nangandoy ka ba Niyang mobalik?<br/><br/>Kang Jesus lang magtawag.</lines>
     </verse>
   </lyrics>
 </song>

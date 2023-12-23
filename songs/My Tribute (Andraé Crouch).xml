@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-16T12:12:53">
+  <properties>
+    <titles>
+      <title>My Tribute</title>
+    </titles>
+    <authors>
+      <author>Andraé Crouch</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines break="optional">How can I say thanks<br/>for the things<br/>You have done for me?<br/></lines>
+      <lines>Things so undeserved,<br/>yet You gave<br/>to prove Your love for me.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines break="optional">The voices<br/>of a million angels<br/>could not express<br/>my gratitude;<br/></lines>
+      <lines>All that I am<br/>and ever hope to be,<br/>I owe it all to Thee.</lines>
+    </verse>
+    <verse name="c1a">
+      <lines break="optional">To God be the glory;<br/>To God be the glory;<br/>To God be the glory<br/></lines>
+      <lines>for the things He has done.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines break="optional">With His blood<br/>He has saved me;<br/></lines>
+      <lines break="optional">With His pow'r<br/>He has raised me.<br/></lines>
+      <lines>To God be the glory<br/>for the things He has done</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Just let me live my life;<br/>let it be pleasing,<br/>Lord to Thee<br/></lines>
+      <lines>and should I gain<br/>any praise,<br/>let it go to Calvary.</lines>
+    </verse>
+    <verse name="c2a">
+      <lines break="optional">With His blood<br/>He has saved me;<br/></lines>
+      <lines break="optional">With His pow'r<br/>He has raised me.<br/></lines>
+      <lines>To God be the glory<br/>for the things He has done</lines>
+    </verse>
+    <verse name="c2b">
+      <lines break="optional">For the things,<br/>for the things,<br/></lines>
+      <lines>for the things<br/>He has done!</lines>
+    </verse>
+  </lyrics>
+</song>
