@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:32">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-01-07T05:17:11">
   <properties>
     <titles>
       <title>Pabilin Kanunay Sa Ginoo</title>
@@ -13,25 +13,25 @@
       <lines>Pabilin kanunay sa Ginoo,<br/>Pabilin kanunay sa pagtoo;</lines>
     </verse>
     <verse name="c1b">
-      <lines>Dili ko N'ya talikdan kay nagsaad S'ya,<br/>Di ko N'ya talikdan ug biyaan.</lines>
+      <lines>Dili ko N'ya talikdan<br/>kay nagsaad S'ya,<br/><br/>Di ko N'ya talikdan<br/>ug biyaan.</lines>
     </verse>
     <verse name="v1a">
-      <lines>May kalinaw'ng hingpit nia ning dughan ko,<br/>Kalinaw nga di mawala;</lines>
+      <lines>May kalinaw'ng hingpit<br/>nia ning dughan ko,<br/><br/>Kalinaw nga di mawala;</lines>
     </verse>
     <verse name="v1b">
-      <lines>Bisan pa ug libutan ko sa pagsulay,<br/>Magpabilin ang kalinaw N'ya.</lines>
+      <lines>Bisan pa ug libutan<br/>ko sa pagsulay,<br/><br/>Magpabilin ang kalinaw N'ya.</lines>
     </verse>
     <verse name="v2a">
-      <lines>Daw nag-ambahan ang yuta sa pag-awit,<br/>Sa kalinaw'ng naangkon ko;</lines>
+      <lines>Daw nag-ambahan ang<br/>yuta sa pag-awit,<br/><br/>Sa kalinaw'ng naangkon ko;</lines>
     </verse>
     <verse name="v2b">
-      <lines>Iya nga gikuha ang tanang kasubo,<br/>Sa kalinaw gialid-an N'ya.</lines>
+      <lines>Iya nga gikuha<br/>ang tanang kasubo,<br/><br/>Sa kalinaw gialid-an N'ya.</lines>
     </verse>
     <verse name="v3a">
-      <lines>Lumalabay kining akong kinabuhi,<br/>Ning yuta nga gipuy-an ko;</lines>
+      <lines>Lumalabay kining<br/>akong kinabuhi,<br/><br/>Ning yuta nga gipuy-an ko;</lines>
     </verse>
     <verse name="v3b">
-      <lines>Ug sa adlaw unya nga mobalik Siya,<br/>Sa himaya ako dad-on N'ya.</lines>
+      <lines>Ug sa adlaw unya<br/>nga mobalik Siya,<br/><br/>Sa himaya ako dad-on N'ya.</lines>
     </verse>
   </lyrics>
 </song>
