@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-01-21T07:13:20">
+  <properties>
+    <titles>
+      <title>The Unclouded Day</title>
+    </titles>
+    <copyright>1885</copyright>
+    <authors>
+      <author>Josiah Kelley Alwood</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>O the land<br/>of cloudless day,<br/><br/>O the land<br/>of an uncloudy day.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>O they tell me of a home<br/>where no storm-clouds rise,<br/><br/>O they tell me<br/>of an uncloudy day.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>O they tell me of a home<br/>far beyond the skies,<br/><br/>O they tell me of a home<br/>far away;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>O they tell me of a home<br/>where no storm clouds rise;<br/><br/>O they tell me<br/>of an uncloudy day.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>O they tell me of a home<br/>where my friends have gone,<br/><br/>O they tell me<br/>of that land far away,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Where the tree of life<br/>in eternal bloom<br/><br/>Sheds its fragrance<br/>thro' the uncloudy day.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>O they tell me of a King<br/>in His beauty there,<br/><br/>And they tell me<br/>that mine eyes shall behold</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Where He sits on the throne<br/>that is whiter than snow,<br/><br/>In the city<br/>that is made of gold.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>O they tell me<br/>that He smiles on His children there,<br/><br/>And His smile<br/>drives their sorrows all away;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>And they tell me<br/>that no tears ever come again,<br/><br/>In that lovely land<br/>of uncloudy day.</lines>
+    </verse>
+  </lyrics>
+</song>
