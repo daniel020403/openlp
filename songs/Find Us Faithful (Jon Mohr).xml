@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-01-28T05:00:49">
+  <properties>
+    <titles>
+      <title>Find Us Faithful</title>
+    </titles>
+    <authors>
+      <author>Jon Mohr</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>O may all who come<br/>behind us<br/><br/>Find us faithful,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>May the fire<br/>of our devotion<br/><br/>Light their way.</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>May the footprints<br/>that we leave,<br/><br/>Lead them to believe,</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>And the lives we live<br/><br/>Inspire them to obey.</lines>
+    </verse>
+    <verse name="c1e">
+      <lines>O may all who come<br/>behind us<br/><br/>Find us faithful.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>We're pilgrims<br/>on the journey<br/>of the narrow road,<br/><br/>And those<br/>who've gone before us<br/>line the way.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Cheering on the faithful,<br/>encouraging the weary,<br/><br/>Their lives<br/>a stirring testament<br/>to God's sustaining grace.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Surrounded by so great<br/>a  cloud of witnesses,<br/><br/>Let us run the race<br/>not only for the prize,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>But as those<br/>who've gone before us.<br/>Let us leave to those behind us,<br/><br/>The heritage of faithfulness<br/>passed on thru godly lives.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>After all<br/>our hopes and dreams<br/>have come and gone,<br/><br/>And our children<br/>sift thru all<br/>we've left behind,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>May the clues<br/>that they discover,<br/><br/>and the mem'ries<br/>they uncover,</lines>
+    </verse>
+    <verse name="v3c">
+      <lines>Become the light<br/>that leads them,<br/><br/>to the road<br/>we each must find.</lines>
+    </verse>
+  </lyrics>
+</song>
