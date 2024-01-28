@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-01-28T04:29:02">
+  <properties>
+    <titles>
+      <title>Saved! Saved!</title>
+    </titles>
+    <comments>
+      <comment>1911</comment>
+    </comments>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Jack P. Scholfield</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Saved by His pow'r divine,<br/>Saved to new life sublime!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Life now is sweet<br/>and my joy is complete,<br/><br/>For I'm saved,<br/>saved, saved.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I've found a friend<br/>who is all to me,<br/><br/>His love is ever true;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I love to tell<br/>how He lifted me,<br/><br/>And what His grace<br/>can do for you.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>He saves me from<br/>ev'ry sin and harm,<br/><br/>Secures my soul<br/>each day;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I'm leaning strong<br/>on His mighty arm–<br/><br/>I know He'll guide me<br/>all the way.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>When poor and needy<br/>and all alone,<br/><br/>In love He said to me,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>"Come unto Me<br/>and I'll lead you home<br/><br/>To live with Me eternally."</lines>
+    </verse>
+  </lyrics>
+</song>
