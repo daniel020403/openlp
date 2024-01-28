@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-01-28T07:31:47">
+  <properties>
+    <titles>
+      <title>The Banner of the Cross</title>
+    </titles>
+    <authors>
+      <author>Daniel Webster Whittle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Marching on,<br/>marching on,<br/><br/>For Christ count everything but loss!</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>And to crown Him King,<br/>toil and sing<br/><br/>‘Neath the banner of the cross!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>There’s a royal banner given for display<br/><br/>To the soldiers of the King;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>As an ensign fair<br/>we lift it up today,<br/><br/>While as ransomed<br/>ones we sing.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Though the foe may rage<br/>and gather as the flood,<br/><br/>Let the standard<br/>be displayed;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And beneath its folds,<br/>as soldier of the Lord,<br/><br/>For the truth<br/>be not dismayed!</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Over land and sea,<br/>wherever man may dwell,<br/><br/>Make the glorious tidings known;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Of the crimson banner<br/>now the story tell.<br/><br/>While the Lord shall claim His own!</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>When the glory dawns<br/>’tis drawing very near<br/><br/>It is hastening day by day</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Then before our King<br/>the foe shall disappear,<br/><br/>And the cross the world shall sway!</lines>
+    </verse>
+  </lyrics>
+</song>
