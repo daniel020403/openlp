@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:35">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-01-21T04:07:34">
   <properties>
     <titles>
       <title>The Bible Stands</title>
@@ -11,34 +11,34 @@
   </properties>
   <lyrics>
     <verse name="c1a">
-      <lines>The Bible stands tho' the hills may tumble,<br/>It will firmly stand when the earth shall crumble.</lines>
+      <lines>The Bible stands tho' the hills may tumble,<br/><br/>It will firmly stand when the earth shall crumble.</lines>
     </verse>
     <verse name="c1b">
-      <lines>I will plant my feet on its firm foundation,<br/>For the Bible stands, the Bible stands.</lines>
+      <lines>I will plant my feet on its firm foundation,<br/><br/>For the Bible stands</lines>
     </verse>
     <verse name="v1a">
-      <lines>The Bible stands like a rock undaunted,<br/>Mid the raging storms of time.</lines>
+      <lines>The Bible stands like a rock undaunted,<br/><br/>Mid the raging storms<br/>of time.</lines>
     </verse>
     <verse name="v1b">
-      <lines>Its pages burn with the truth eternal,<br/>And they glow with a light sublime.</lines>
+      <lines>Its pages burn with the truth eternal,<br/><br/>And they glow with a light sublime.</lines>
     </verse>
     <verse name="v2a">
-      <lines>The Bible stands like a mountain towering,<br/>Far above the works of man.</lines>
+      <lines>The Bible stands like a mountain towering,<br/><br/>Far above the works of man.</lines>
     </verse>
     <verse name="v2b">
-      <lines>Its truth by none ever was refuted,<br/>And destroy it they never can.</lines>
+      <lines>Its truth by none<br/>ever was refuted,<br/><br/>And destroy it<br/>they never can.</lines>
     </verse>
     <verse name="v3a">
-      <lines>The Bible stands, and it will forever,<br/>When the world has passed away.</lines>
+      <lines>The Bible stands, and it will forever,<br/><br/>When the world<br/>has passed away.</lines>
     </verse>
     <verse name="v3b">
-      <lines>By inspiration it has been given,<br/>All its precepts I will obey.</lines>
+      <lines>By inspiration<br/>it has been given,<br/><br/>All its precepts<br/>I will obey.</lines>
     </verse>
     <verse name="v4a">
-      <lines>The Bible stands every test we give it,<br/>For its Author is divine.</lines>
+      <lines>The Bible stands<br/>every test we give it,<br/><br/>For its Author is divine.</lines>
     </verse>
     <verse name="v4b">
-      <lines>By grace alone I expect to live it,<br/>And to prove it and make it mine.</lines>
+      <lines>By grace alone<br/>I expect to live it,<br/><br/>And to prove it<br/>and make it mine.</lines>
     </verse>
   </lyrics>
 </song>
