@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-04T13:42:19">
+  <properties>
+    <titles>
+      <title>Dwelling In Beulah Land</title>
+    </titles>
+    <authors>
+      <author>C. Austin Miles</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>I’m living on the mountain, underneath a cloudless sky.<br/><br/>I’m drinking<br/>at the fountain<br/>that never shall run dry;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>O yes!<br/>I’m feasting on the manna from a bountiful supply,<br/><br/>For I am dwelling<br/>in Beulah Land.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Far away the noise of strife upon my ear is falling,<br/><br/>Then I know the sins of earth beset on ev’ry hand:</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Doubt and fear and things of earth in vain to me are calling,<br/><br/>None of these shall move me from Beulah Land.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Far below the storm of doubt upon the world is beating,<br/><br/>Sons of men in battle long<br/>the enemy withstand:</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Safe am I within the castle<br/>of God’s word retreating,<br/><br/>Nothing then can reach me’<br/>tis Beulah Land.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Let the stormy breezes blow, their cry cannot alarm me;<br/><br/>I am safely  sheltered here, protected by God’s hand:</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Here the sun is always shining, here there’s naught can harm me,<br/><br/>I am safe forever<br/>in Beulah Land.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Viewing here the works<br/>of God, I sink in contemplation,<br/><br/>Hearing now His blessed voice, I see the way He planned</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Dwelling in the Spirit, here I learn of full salvation;<br/><br/>Gladly will I tarry<br/>in Beulah Land.</lines>
+    </verse>
+  </lyrics>
+</song>
