@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:27">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-04T01:40:47">
   <properties>
     <titles>
       <title>Blessed Be The Name</title>
@@ -11,34 +11,34 @@
   </properties>
   <lyrics>
     <verse name="c1a">
-      <lines>Blessed be the name,<br/>Blessed be the name,</lines>
+      <lines>Blessed be the name,<br/>Blessed be the name,<br/><br/>Blessed be the name<br/>of the Lord;</lines>
     </verse>
     <verse name="c1b">
-      <lines>Blessed be the name of the Lord;<br/>Blessed be the name,<br/>Blessed be the name,<br/>Blessed be the name of the Lord.</lines>
+      <lines>Blessed be the name,<br/>Blessed be the name,<br/><br/>Blessed be the name<br/>of the Lord.</lines>
     </verse>
     <verse name="v1a">
-      <lines>All praise to Him who reigns above,<br/>In majesty supreme</lines>
+      <lines>All praise to Him<br/>who reigns above,<br/><br/>In majesty supreme</lines>
     </verse>
     <verse name="v1b">
-      <lines>Who gave His Son for man to die,<br/>That He might man redeem!</lines>
+      <lines>Who gave His Son<br/>for man to die,<br/><br/>That He might man redeem!</lines>
     </verse>
     <verse name="v2a">
-      <lines>His name above all names shall stand,<br/>Exalted more and more,</lines>
+      <lines>His name above<br/>all names shall stand,<br/><br/>Exalted more and more,</lines>
     </verse>
     <verse name="v2b">
-      <lines>At God the Father's own right hand,<br/>Where angel hosts adore.</lines>
+      <lines>At God the Father's<br/>own right hand,<br/><br/>Where angel hosts adore.</lines>
     </verse>
     <verse name="v3a">
-      <lines>Redeemer, Savior, Friend of man,<br/>Once ruined by the fall,</lines>
+      <lines>Redeemer, Savior,<br/>Friend of man,<br/><br/>Once ruined by the fall,</lines>
     </verse>
     <verse name="v3b">
-      <lines>Thou hast devised salvation's plan,<br/>For Thou hast died for all.</lines>
+      <lines>Thou hast devised salvation's plan,<br/><br/>For Thou hast died<br/>for all.</lines>
     </verse>
     <verse name="v4a">
-      <lines>His name shall be the Counselor,<br/>The mighty Prince of Peace,</lines>
+      <lines>His name shall be<br/>the Counselor,<br/><br/>The mighty<br/>Prince of Peace,</lines>
     </verse>
     <verse name="v4b">
-      <lines>Of all earth's kingdoms Conqueror,<br/>Whose reign shall never cease.</lines>
+      <lines>Of all earth's kingdoms Conqueror,<br/><br/>Whose reign<br/>shall never cease.</lines>
     </verse>
   </lyrics>
 </song>
