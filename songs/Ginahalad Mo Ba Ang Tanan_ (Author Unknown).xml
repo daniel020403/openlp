@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:28">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-11T05:04:22">
   <properties>
     <titles>
       <title>Ginahalad Mo Ba Ang Tanan?</title>
@@ -10,34 +10,34 @@
   </properties>
   <lyrics>
     <verse name="c1a">
-      <lines>Ginahalad mo ba ang tanan kang Jesus?<br/>Bisan ang kasingkasing mo?</lines>
+      <lines>Ginahalad mo ba<br/>ang tanan kang Jesus?<br/><br/>Bisan ang kasingkasing mo?</lines>
     </verse>
     <verse name="c1b">
-      <lines>May pahulay ikaw, ug kalinaw usab,<br/>Kon ihalad ang imong tanan.</lines>
+      <lines>May pahulay ikaw,<br/>ug kalinaw usab,<br/><br/>Kon ihalad ang imong tanan.</lines>
     </verse>
     <verse name="v1a">
-      <lines>Gipangandoy mo ba ang kalinaw sa Dios?<br/>Sa kanunay nag-ampo ka ba?</lines>
+      <lines>Gipangandoy mo ba<br/>ang kalinaw sa Dios?<br/><br/>Sa kanunay nag-ampo ka ba?</lines>
     </verse>
     <verse name="v1b">
-      <lines>Imo nga maangkon ang pahulay'ng dayon,<br/>Kon ihalad ang imong tanan.</lines>
+      <lines>Imo nga maangkon<br/>ang pahulay'ng dayon,<br/><br/>Kon ihalad ang imong tanan.</lines>
     </verse>
     <verse name="v2a">
-      <lines>Kon mokuyog ikaw sa Ginoong Jesus,<br/>Pulong N'ya mao ang suga mo;</lines>
+      <lines>Kon mokuyog ikaw<br/>sa Ginoong Jesus,<br/><br/>Pulong N'ya<br/>mao ang suga mo;</lines>
     </verse>
     <verse name="v2b">
-      <lines>Sunda ang Iya nga kabubut-on sa Dios,<br/>Ug ihalad ang imong tanan.</lines>
+      <lines>Sunda ang Iya nga<br/>kabubut-on sa Dios,<br/><br/>Ug ihalad ang imong tanan.</lines>
     </verse>
     <verse name="v3a">
-      <lines>Di maangkong mga panalangin sa Dios,<br/>Nga kanato ginaandam na;</lines>
+      <lines>Di maangkong mga<br/>panalangin sa Dios,<br/><br/>Nga kanato ginaandam na;</lines>
     </verse>
     <verse name="v3b">
-      <lines>Hangtud ang kinabuhi ug ang kalag ta,<br/>Igahalad ta N'ya ang tanan.</lines>
+      <lines>Hangtud ang kinabuhi<br/>ug ang kalag ta,<br/><br/>Igahalad ta N'ya ang tanan.</lines>
     </verse>
     <verse name="v4a">
-      <lines>Di matukib ang gugma g'yud N'ya ni Jesus,<br/>Nga kanato gibubo sa Dios;</lines>
+      <lines>Di matukib ang gugma<br/>g'yud N'ya ni Jesus,<br/><br/>Nga kanato gibubo sa Dios;</lines>
     </verse>
     <verse name="v4b">
-      <lines>Diha lang kang Jesus makig-ambitay ta,<br/>Kon ihalad ang atong tanan.</lines>
+      <lines>Diha lang kang Jesus<br/>makig-ambitay ta,<br/><br/>Kon ihalad ang atong tanan.</lines>
     </verse>
   </lyrics>
 </song>
