@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:26">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-11T04:58:01">
   <properties>
     <titles>
       <title>Ang Kalag Ko May Kahayag Na</title>
@@ -13,13 +13,13 @@
       <lines>May kahayag nga bulahan,<br/>Ug kalipay nga hilabihan;</lines>
     </verse>
     <verse name="c1b">
-      <lines>Nawong ni Jesus ang nagsidlak,<br/>Ang kalag ko hayag na</lines>
+      <lines>Nawong ni Jesus<br/>ang nagsidlak,<br/><br/>Ang kalag ko hayag na</lines>
     </verse>
     <verse name="v1a">
-      <lines>Ang kalag ko may kahayag na,<br/>Ug kalipay nga bug-os;</lines>
+      <lines>Ang kalag ko<br/>may kahayag na,<br/><br/>Ug kalipay nga bug-os;</lines>
     </verse>
     <verse name="v1b">
-      <lines>Ang kangitngit akong likayan,<br/>Suga ko si Jesus.</lines>
+      <lines>Ang kangitngit<br/>akong likayan,<br/><br/>Suga ko si Jesus.</lines>
     </verse>
     <verse name="v2a">
       <lines>Ang kalag ko nagaawit na,<br/>Ug nagday'g sa Hari ko;</lines>
@@ -28,16 +28,16 @@
       <lines>Nanimati si Jesus karon,<br/>Sa alawiton ko.</lines>
     </verse>
     <verse name="v3a">
-      <lines>Ang kalag ko may kabag-o na, <br/>Kuyog man sa Ginoo;</lines>
+      <lines>Ang kalag ko<br/>may kabag-o na,<br/><br/>Kuyog man sa Ginoo;</lines>
     </verse>
     <verse name="v3b">
-      <lines>May kalinaw'ng kasingkasing ko,<br/>Nahanaw'ng kaguol.</lines>
+      <lines>May kalinaw'ng<br/>kasingkasing ko,<br/><br/>Nahanaw'ng kaguol.</lines>
     </verse>
     <verse name="v4a">
-      <lines>Ang kalag ko may kalipay na,<br/>May pagtoo , gugma man;</lines>
+      <lines>Ang kalag ko<br/>may kalipay na,<br/><br/>May pagtoo, gugma man;</lines>
     </verse>
     <verse name="v4b">
-      <lines>Ang mahal nga panalangin N'ya,<br/>Kanako gihatag.</lines>
+      <lines>Ang mahal<br/>nga panalangin N'ya,<br/><br/>Kanako gihatag.</lines>
     </verse>
   </lyrics>
 </song>

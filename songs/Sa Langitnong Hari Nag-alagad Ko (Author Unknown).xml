@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:33">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-02-11T04:53:30">
   <properties>
     <titles>
       <title>Sa Langitnong Hari Nag-alagad Ko</title>
     </titles>
-    <verseOrder>c1 v1 v1 v2 v1 v3 v1 v4</verseOrder>
     <authors>
       <author>Author Unknown</author>
     </authors>
@@ -17,19 +16,28 @@
       <lines>May kalipay ug kalinaw,<br/>Pag-alagad ko sa Dios.</lines>
     </verse>
     <verse name="v1a">
-      <lines>Sa langitnong Hari nag-alagad ko,<br/>May kalipay sa kanunay;</lines>
+      <lines>Sa langitnong Hari<br/>nag-alagad ko,<br/><br/>May kalipay sa kanunay;</lines>
     </verse>
     <verse name="v1b">
-      <lines>Ang kalinaw ako nang nabatonan,<br/>Nga nagagikan sa Dios.</lines>
+      <lines>Ang kalinaw<br/>ako nang nabatonan,<br/><br/>Nga nagagikan sa Dios.</lines>
     </verse>
-    <verse name="v2">
-      <lines>Magaawit ko bisan sa kalisud,<br/>S'ya gialagaran ko.</lines>
+    <verse name="v2a">
+      <lines>Sa langitnong Hari<br/>nag-alagad ko,<br/><br/>May kalipay sa kanunay;</lines>
     </verse>
-    <verse name="v3">
-      <lines>Sa gihapon ang kamot N'ya kuptan ko,<br/>Kay nagmando man Siya.</lines>
+    <verse name="v2b">
+      <lines>Magaawit ko<br/>bisan sa kalisud,<br/><br/>S'ya gialagaran ko.</lines>
     </verse>
-    <verse name="v4">
-      <lines>Kang Jesus itugyan nako ang tanan,<br/>Sa kalipay nga daku</lines>
+    <verse name="v3a">
+      <lines>Sa langitnong Hari<br/>nag-alagad ko,<br/><br/>May kalipay sa kanunay;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Sa gihapon ang kamot N'ya kuptan ko,<br/><br/>Kay nagmando man Siya.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Sa langitnong Hari<br/>nag-alagad ko,<br/><br/>May kalipay sa kanunay;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Kang Jesus<br/>itugyan nako ang tanan,<br/><br/>Sa kalipay nga daku</lines>
     </verse>
   </lyrics>
 </song>
