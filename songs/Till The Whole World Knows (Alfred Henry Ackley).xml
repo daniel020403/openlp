@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-05-11T14:14:43">
+  <properties>
+    <titles>
+      <title>Till The Whole World Knows</title>
+    </titles>
+    <authors>
+      <author>Alfred Henry Ackley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Till the whole world knows,<br/><br/>Till the whole world knows,</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>I will shout and sing<br/>of Christ my King,<br/><br/>Till the whole world knows.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I’ll tell to all<br/>that God is love;<br/><br/>For the world<br/>has never known</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>The great compassion<br/>of His heart<br/><br/>For the wayward<br/>and the lone.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>I’ll tell of mercy’s boundless tide,<br/><br/>Like the waters<br/>of the sea,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>That covers<br/>ev’ry sin of man;<br/><br/>‘Tis salvation<br/>full and free.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I’ll tell of grace<br/>that keeps the soul,<br/><br/>Of abiding<br/>peace within,</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Of faith that overcomes the world,<br/><br/>With its tumult<br/>and its din.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Eternal glory is the goal<br/><br/>That awaits<br/>the sons of light;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Eternal darkness,<br/>black as death,<br/><br/>For the children<br/>of the night.</lines>
+    </verse>
+  </lyrics>
+</song>
