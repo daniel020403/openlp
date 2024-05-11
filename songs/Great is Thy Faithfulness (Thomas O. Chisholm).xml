@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-05-11T15:02:55">
+  <properties>
+    <titles>
+      <title>Great is Thy Faithfulness</title>
+    </titles>
+    <authors>
+      <author>Thomas O. Chisholm</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Great is<br/>Thy faithfulness!<br/><br/>Great is<br/>Thy faithfulness!<br/><br/>Morning by morning<br/>new mercies I see;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>All I have needed<br/>Thy hand hath provided:<br/><br/>Great is<br/>Thy faithfulness,<br/><br/>Lord, unto me!</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Great is<br/>Thy faithfulness, <br/><br/>O God my Father;<br/><br/>There is no shadow<br/>of turning with Thee;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Thou changest not<br/><br/>Thy compassions,<br/>they fail not;<br/><br/>As thou has been<br/>Thou forever wilt be.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Summer and winter,<br/>and spring-time<br/>and harvest;<br/><br/>Sun, moon, and stars<br/>in their courses above</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Join with all nature<br/>in manifold witness<br/><br/>To Thy<br/>great faithfulness,<br/>mercy, and love.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Pardon for sin<br/>and a peace<br/>that endureth,<br/><br/>Thy own dear presence<br/>to cheer and to guide;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Strength for today<br/>and bright hope<br/>for tomorrow:<br/><br/>Blessings all mine,<br/>with ten thousand beside!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T05:12:57">
+  <properties>
+    <titles>
+      <title>Sweet By and By</title>
+    </titles>
+    <verseOrder>c1 c1 v1 v2 v3</verseOrder>
+    <authors>
+      <author>Sanford Fillmore Bennett</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>In the sweet by and by,<br/><br/>We shall meet on that beautiful shore</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>There’s a land<br/>that is fairer than day,<br/><br/>And by faith<br/>we can see it afar,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>For the Father<br/>waits over the way<br/><br/>To prepare us<br/>a dwelling place there.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>We shall sing<br/>on that beautiful shore<br/><br/>The melodious songs of the blest;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>And our spirits<br/>shall sorrow no more -<br/><br/>Not a sigh<br/>for the blessing of rest.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>To our bountiful<br/>Father above<br/><br/>We will offer<br/>the tribute of praise</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>For the glorious gift<br/>of His love<br/><br/>And the blessings<br/>that hallow our days.</lines>
+    </verse>
+  </lyrics>
+</song>

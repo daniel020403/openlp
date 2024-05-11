@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-05-11T14:49:38">
+  <properties>
+    <titles>
+      <title>There Shall Be Showers of Blessing</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Daniel Webster Whittle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Showers of blessing,<br/><br/>Showers of blessing<br/>we need:</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Mercy-drops round us<br/>are falling,<br/><br/>But for the showers<br/>we plead.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>There shall be showers<br/>of blessing:<br/><br/>This is the promise<br/>of love;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>There shall be seasons refreshing,<br/><br/>Sent from the Saviour above.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>There shall be showers <br/>of blessing,<br/><br/>Precious reviving again; </lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Over the hills<br/>and the valleys,<br/><br/>Sound of abundance<br/>of rain.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>There shall be showers<br/>of blessing:<br/><br/>Send them upon us,<br/>O Lord;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Grant to us now<br/>a refreshing,<br/><br/>Come and now honor<br/>Thy Word.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>There shall be showers <br/>of blessing:<br/><br/>Oh, that today<br/>they might fall,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Now as to God<br/>we’re confessing,<br/><br/>Now as on Jesus we call!</lines>
+    </verse>
+  </lyrics>
+</song>
