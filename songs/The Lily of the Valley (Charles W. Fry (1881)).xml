@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-12-16T13:07:31">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-05-19T05:45:18">
   <properties>
     <titles>
       <title>The Lily of the Valley</title>
@@ -10,47 +10,34 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines break="optional">He's the<br/>Lily of the Valley,<br/></lines>
-      <lines break="optional">the Bright<br/>and Morning Star,<br/></lines>
-      <lines>He’s the fairest of  ten thousand to my soul.</lines>
+      <lines>He's the<br/>Lily of the Valley,<br/><br/>the Bright<br/>and Morning Star,<br/><br/>He’s the fairest of  ten thousand to my soul.</lines>
     </verse>
     <verse name="v1a">
-      <lines break="optional">I have found<br/>a friend in Jesus,<br/></lines>
-      <lines break="optional">He’s everything to me, <br/></lines>
-      <lines>He’s the fairest of ten thousand to my soul;</lines>
+      <lines>I have found<br/>a friend in Jesus,<br/><br/>He’s everything to me, <br/><br/>He’s the fairest of ten thousand to my soul;</lines>
     </verse>
     <verse name="v1b">
-      <lines break="optional">The Lily of the Valley,<br/>in Him alone I see<br/></lines>
-      <lines>All I need to cleanse and make me fully whole.</lines>
+      <lines>The Lily of the Valley,<br/>in Him alone I see<br/><br/>All I need to cleanse and make me fully whole.</lines>
     </verse>
     <verse name="v1c">
-      <lines break="optional">In sorrow He’s my comfort, in trouble He’s my stay,<br/></lines>
-      <lines>He tells me every care on Him to roll:</lines>
+      <lines>In sorrow He’s my comfort, in trouble He’s my stay,<br/><br/>He tells me every care on Him to roll:</lines>
     </verse>
     <verse name="v2a">
-      <lines break="optional">He all my griefs has taken, <br/>and all my sorrows borne;<br/></lines>
-      <lines>In temptation He’s my strong and mighty tower;</lines>
+      <lines>He all my griefs has taken, and all my sorrows borne;<br/><br/>In temptation He’s my strong and mighty tower;</lines>
     </verse>
     <verse name="v2b">
-      <lines break="optional">I have all for Him forsaken,<br/></lines>
-      <lines break="optional">and all my idols torn from my heart,<br/></lines>
-      <lines>And now He keeps me by His power.</lines>
+      <lines>I have all for Him forsaken,<br/><br/>and all my idols torn from my heart,<br/><br/>And now He keeps me by His power.</lines>
     </verse>
     <verse name="v2c">
-      <lines break="optional">Though all the world forsake me, and Satan tempt me sore, <br/></lines>
-      <lines>Through Jesus I shall safely reach the goal:</lines>
+      <lines>Though all the world forsake me, and Satan tempt me sore, <br/><br/>Through Jesus I shall safely reach the goal:</lines>
     </verse>
     <verse name="v3a">
-      <lines break="optional">He will never,<br/>never leave me, <br/>nor yet forsake me here,<br/></lines>
-      <lines>While I live by faith <br/>and do His blessed will;</lines>
+      <lines>He will never,<br/>never leave me,<br/>nor yet forsake me here,<br/><br/>While I live by faith <br/>and do His blessed will;</lines>
     </verse>
     <verse name="v3b">
-      <lines break="optional">A wall of fire about me, <br/>I’ve nothing now to fear,<br/></lines>
-      <lines>With His manna <br/>He my hungry soul shall fill.</lines>
+      <lines>A wall of fire about me, <br/>I’ve nothing now to fear,<br/><br/>With His manna <br/>He my hungry soul shall fill.</lines>
     </verse>
     <verse name="v3c">
-      <lines break="optional">Then sweeping up to glory<br/>to see His blessed face,<br/></lines>
-      <lines>Where rivers of delight shall ever roll:</lines>
+      <lines>Then sweeping up to glory<br/>to see His blessed face,<br/><br/>Where rivers of delight shall ever roll:</lines>
     </verse>
   </lyrics>
 </song>
