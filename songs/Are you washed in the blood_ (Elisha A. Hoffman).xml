@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-01-07T04:19:41">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-05-19T06:13:55">
   <properties>
     <titles>
       <title>Are you washed in the blood?</title>
@@ -11,7 +11,7 @@
   </properties>
   <lyrics>
     <verse name="c1a">
-      <lines>Are you washed in the blood, <br/><br/>In the soul cleansing blood of the Lamb?</lines>
+      <lines>Are you washed<br/>in the blood, <br/><br/>In the soul cleansing blood of the Lamb?</lines>
     </verse>
     <verse name="c1b">
       <lines>Are your garments spotless?<br/><br/>Are they white as snow?</lines>
@@ -44,7 +44,7 @@
       <lines>Are you washed<br/>in the blood of the Lamb?</lines>
     </verse>
     <verse name="v3a">
-      <lines>When the bridegroom cometh <br/>will your robes be white?</lines>
+      <lines>When the bridegroom cometh will your robes be white?</lines>
     </verse>
     <verse name="v3b">
       <lines>Are you washed<br/>in the blood of the Lamb?</lines>
@@ -62,7 +62,7 @@
       <lines>And be washed <br/>in the blood of the Lamb;</lines>
     </verse>
     <verse name="v4c">
-      <lines>There’s a fountain flowing <br/>for the soul unclean,</lines>
+      <lines>There’s a fountain flowing for the soul unclean,</lines>
     </verse>
     <verse name="v4d">
       <lines>O be washed <br/>in the blood of the Lamb!</lines>

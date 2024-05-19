@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:30">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-05-19T06:22:06">
   <properties>
     <titles>
       <title>Love Lifted Me</title>
@@ -14,25 +14,25 @@
       <lines>Love lifted me!<br/>Love lifted me!</lines>
     </verse>
     <verse name="c1b">
-      <lines>When nothing else could help,<br/>Love lifted me.<br/>Love lifted me.</lines>
+      <lines>When nothing<br/>else could help,<br/><br/>Love lifted me.</lines>
     </verse>
     <verse name="v1a">
-      <lines>I was sinking deep in sin,<br/>Far from the peaceful shore,<br/>Very deeply stained within,<br/>Sinking to rise no more.</lines>
+      <lines>I was sinking deep in sin, far from the peaceful shore,<br/><br/>Very deeply stained within, sinking to rise no more.</lines>
     </verse>
     <verse name="v1b">
-      <lines>But the Master of the sea<br/>Heard my despairing cry,<br/>From the waters lifted me;<br/>Now safe am I.</lines>
+      <lines>But the Master of the sea heard my despairing cry,<br/><br/>From the waters lifted me; now safe am I.</lines>
     </verse>
     <verse name="v2a">
-      <lines>All my heart to Him I give;<br/>Ever to Him I'll cling,<br/>In His blessed presence live,<br/>Ever His praises sing.</lines>
+      <lines>All my heart to Him I give; ever to Him I'll cling,<br/><br/>In His blessed presence live, ever His praises sing.</lines>
     </verse>
     <verse name="v2b">
-      <lines>Love so mighty and so true<br/>Merits my soul's best songs;<br/>Faithful, loving service, too,<br/>To Him belongs.</lines>
+      <lines>Love so mighty and so true merits my soul's best songs;<br/><br/>Faithful, loving service too, to Him belongs.</lines>
     </verse>
     <verse name="v3a">
-      <lines>Souls in danger, look above;<br/>Jesus completely saves.<br/>He will lift you by His love<br/>Out of the angry waves.</lines>
+      <lines>Souls in danger, look above; Jesus completely saves.<br/><br/>He will lift you by His love out of the angry waves.</lines>
     </verse>
     <verse name="v3b">
-      <lines>He's the Master of the sea,<br/>Billows His will obey.<br/>He your Savior wants to be,<br/>Be saved today.</lines>
+      <lines>He's the Master of the sea, billows His will obey.<br/><br/>He your Savior wants to be, be saved today.</lines>
     </verse>
   </lyrics>
 </song>
