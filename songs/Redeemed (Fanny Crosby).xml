@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-06-30T06:06:47">
+  <properties>
+    <titles>
+      <title>Redeemed</title>
+    </titles>
+    <copyright>1882</copyright>
+    <authors>
+      <author>Fanny Crosby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Redeemed, redeemed,<br/><br/>Redeemed by the<br/>blood of the Lamb;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Redeemed, redeemed,<br/><br/>His child, and forever,<br/>I am.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Redeemed how I love<br/>to proclaim it!<br/><br/>Redeemed by the<br/>blood of the Lamb;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Redeemed thro’ His infinite mercy,<br/><br/>His child, and forever,<br/>I am.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Redeemed and so happy<br/>in Jesus,<br/><br/>No language my rapture can tell;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>I know that the light<br/>of His presence<br/><br/>With me doth<br/>continually dwell.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>I think of my<br/>blessed Redeemer,<br/><br/>I think of Him<br/>all the day long;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>I sing,<br/>for I cannot be silent;<br/><br/>His love is the theme<br/>of my song.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>I know I shall see<br/>in His beauty<br/><br/>The King in whose law<br/>I delight;</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Who lovingly guardeth<br/>my footsteps,<br/><br/>And giveth me songs<br/>in the night.</lines>
+    </verse>
+  </lyrics>
+</song>
