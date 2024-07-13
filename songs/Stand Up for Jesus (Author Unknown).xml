@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-03-31T06:52:58">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-07-07T04:53:58">
   <properties>
     <titles>
       <title>Stand Up for Jesus</title>
@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>Stand up,<br/>stand up for Jesus,<br/>ye soldiers of the cross;<br/><br/>Lift high His royal banner,<br/>It must not suffer loss;</lines>
+      <lines>Stand up,<br/>stand up for Jesus,<br/>ye soldiers of the cross;<br/><br/>Lift high<br/>His royal banner,<br/>It must not suffer loss;</lines>
     </verse>
     <verse name="v1b">
-      <lines>From vict’ry unto vict’ry,<br/>His army shall He lead,<br/><br/>Till every foe<br/>is vanquished,<br/>And Christ is Lord indeed.</lines>
+      <lines>From vict’ry<br/>unto vict’ry,<br/>His army shall He lead,<br/><br/>Till every foe<br/>is vanquished,<br/>And Christ is Lord indeed.</lines>
     </verse>
     <verse name="v2a">
       <lines>Stand up,<br/>stand up for Jesus,<br/>the trumpet call obey;<br/><br/>Forth to<br/>the mighty conflict,<br/>In this His glorious day.</lines>
@@ -22,7 +22,7 @@
       <lines>Ye that are men<br/>now serve Him,<br/>Against unnumbered foes;<br/><br/>Let courage rise<br/>with danger,<br/>And strength to strength oppose.</lines>
     </verse>
     <verse name="v3a">
-      <lines>Stand up,<br/>stand up for Jesus,<br/>Stand in His strength alone;<br/><br/>The arm of flesh<br/>will fail you,<br/>Ye dare not trust your own;</lines>
+      <lines>Stand up,<br/>stand up for Jesus,<br/>Stand in His strength alone;<br/><br/>The arm of flesh will fail you, Ye dare not trust your own;</lines>
     </verse>
     <verse name="v3b">
       <lines>Put on the gospel armor,<br/>And, watching unto prayer,<br/><br/>Where duty calls,<br/>or danger,<br/>Be never wanting there.</lines>

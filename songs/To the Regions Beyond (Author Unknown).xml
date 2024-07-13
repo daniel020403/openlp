@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-29T06:45:35">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-07-07T05:18:39">
   <properties>
     <titles>
       <title>To the Regions Beyond</title>
@@ -13,31 +13,31 @@
       <lines>To the regions beyond,<br/>I must go, I must go,</lines>
     </verse>
     <verse name="c1b">
-      <lines>Till the world, all the world,<br/>His salvation shall know.</lines>
+      <lines>Till the world,<br/>all the world,<br/><br/>His salvation shall know.</lines>
     </verse>
     <verse name="v1a">
-      <lines>To the regions beyond<br/>I must go, I must go,<br/>Where the story<br/>has never been told;</lines>
+      <lines>To the regions beyond<br/>I must go, I must go,<br/><br/>Where the story<br/>has never been told;</lines>
     </verse>
     <verse name="v1b">
-      <lines>To the millions that never <br/>have heard of His love,<br/>I must tell<br/>the sweet story of old.</lines>
+      <lines>To the millions that never  have heard of His love,<br/><br/>I must tell<br/>the sweet story of old.</lines>
     </verse>
     <verse name="v2a">
-      <lines>To the hardest of places<br/>He calls me to go,<br/>Not thinking<br/>of comfort or ease,</lines>
+      <lines>To the hardest of places<br/>He calls me to go,<br/><br/>Not thinking<br/>of comfort or ease,</lines>
     </verse>
     <verse name="v2b">
-      <lines>The world may pronounce me <br/>a dreamer, a fool,<br/>Enough if the Master<br/>I please.</lines>
+      <lines>The world may pronounce me a dreamer, a fool,<br/><br/>Enough if the Master<br/>I please.</lines>
     </verse>
     <verse name="v3a">
-      <lines>Oh, ye that are spending <br/>your leisure and powers<br/>In pleasures so foolish<br/>and fond,</lines>
+      <lines>Oh, ye that are spending <br/>your leisure and powers<br/><br/>In pleasures<br/>so foolish and fond,</lines>
     </verse>
     <verse name="v3b">
-      <lines>Awake from your selfishness, <br/>folly and sin,<br/>And go to the regions beyond.</lines>
+      <lines>Awake from your selfishness, folly and sin,<br/><br/>And go<br/>to the regions beyond.</lines>
     </verse>
     <verse name="v4a">
-      <lines>There are other "lost sheep" <br/>that the Master must bring,<br/>And they must<br/>the message be told;</lines>
+      <lines>There are other "lost sheep" that the Master must bring,<br/><br/>And they must<br/>the message be told;</lines>
     </verse>
     <verse name="v4b">
-      <lines>He sends me to gather<br/>them out of all lands,<br/>And welcome<br/>them back to his fold.</lines>
+      <lines>He sends me to gather<br/>them out of all lands,<br/><br/>And welcome<br/>them back to his fold.</lines>
     </verse>
   </lyrics>
 </song>
