@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-11-19T06:03:11">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-07-28T05:03:09">
   <properties>
     <titles>
       <title>He abides</title>
@@ -10,44 +10,34 @@
   </properties>
   <lyrics>
     <verse name="c1a">
-      <lines break="optional">He abides, He abides,<br/></lines>
-      <lines>Hallelujah,<br/>He abides with me!</lines>
+      <lines>He abides, He abides,<br/><br/>Hallelujah,<br/>He abides with me!</lines>
     </verse>
     <verse name="c1b">
-      <lines break="optional">I’m rejoicing<br/>night and day,<br/>as I walk the narrow way,<br/></lines>
-      <lines>For the Comforter abides with me.</lines>
+      <lines>I’m rejoicing night and day, as I walk the narrow way,<br/><br/>For the Comforter<br/>abides with me.</lines>
     </verse>
     <verse name="v1a">
-      <lines break="optional">I’m rejoicing<br/>night and day, <br/>As I walk the pilgrim way,<br/></lines>
-      <lines>For the hand of God<br/>in all my life I see,</lines>
+      <lines>I’m rejoicing night and day, as I walk the pilgrim way,<br/><br/>For the hand of God<br/>in all my life I see,</lines>
     </verse>
     <verse name="v1b">
-      <lines break="optional">And the reason of my bliss,<br/>Yes, the secret<br/>all is this:<br/></lines>
-      <lines>That the Comforter<br/>abides with me.</lines>
+      <lines>And the reason of my bliss, Yes, the secret all is this:<br/><br/>That the Comforter<br/>abides with me.</lines>
     </verse>
     <verse name="v2a">
-      <lines break="optional">Once my heart<br/>was full of sin,<br/>once I had no peace within,<br/></lines>
-      <lines>Till I heard how Jesus<br/>died upon the tree;</lines>
+      <lines>Once my heart was full of sin, once I had no peace within,<br/><br/>Till I heard how Jesus<br/>died upon the tree;</lines>
     </verse>
     <verse name="v2b">
-      <lines break="optional">Then I fell down<br/>at His feet,<br/>and there came a peace so sweet,<br/></lines>
-      <lines>Now the Comforter<br/>abides with me.</lines>
+      <lines>Then I fell down at His feet, and there came a peace so sweet,<br/><br/>Now the Comforter<br/>abides with me.</lines>
     </verse>
     <verse name="v3a">
-      <lines break="optional">He is with me everywhere, <br/>and He knows my every care,<br/></lines>
-      <lines>I’m as happy as a bird<br/>and just as free;</lines>
+      <lines>He is with me everywhere, <br/>and He knows my every care,<br/><br/>I’m as happy as a bird<br/>and just as free;</lines>
     </verse>
     <verse name="v3b">
-      <lines break="optional">For the Spirit has control, <br/>Jesus satisfies my soul,<br/></lines>
-      <lines>Since the Comforter<br/>abides with me.</lines>
+      <lines>For the Spirit has control, Jesus satisfies my soul,<br/><br/>Since the Comforter<br/>abides with me.</lines>
     </verse>
     <verse name="v4a">
-      <lines break="optional">There’s no thirsting<br/>for the things <br/>of the world<br/>they’ve taken wings;<br/></lines>
-      <lines>Long ago I gave them up,<br/>and instantly</lines>
+      <lines>There’s no thirsting for the things of the world they’ve taken wings;<br/><br/>Long ago I gave them up,<br/>and instantly</lines>
     </verse>
     <verse name="v4b">
-      <lines break="optional">All my night<br/>was turned to day,<br/>All my burdens rolled away,<br/></lines>
-      <lines>Now the Comforter<br/>abides with me.</lines>
+      <lines>All my night was turned to day, all my burdens rolled away,<br/><br/>Now the Comforter<br/>abides with me.</lines>
     </verse>
   </lyrics>
 </song>
