@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-07-28T04:51:45">
+  <properties>
+    <titles>
+      <title>Sunlight</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Judson Van DeVenter Winfield S. Weeden</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Sunlight, sunlight<br/>in my soul today!<br/><br/>Sunlight, sunlight<br/>all along the way;</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Since the Savior found me<br/><br/>Took away my sin,<br/>I have had the sunlight of His love within.</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>I wandered in the shades of night,<br/><br/>Till Jesus came to me,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>And with the sunlight<br/>of His love<br/><br/>Bid all my darkness flee.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Tho' clouds may gather<br/>in the sky,<br/><br/>And billows<br/>round me roll,</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>However dark<br/>the world may be,<br/><br/>I've sunlight in my soul.</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>While walking<br/>in the light of God,<br/><br/>I sweet communion find;</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>O press<br/>with holy vigor on,<br/><br/>And leave the world behind.</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>I cross<br/>the wide-extended fields,<br/><br/>I journey o'er the plain,</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>And in the sunlight<br/>of His love<br/><br/>I reap the golden grain.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Soon I shall see Him<br/>as He is,<br/><br/>The light<br/>that came to me,</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Behold the brightness<br/>of His face,<br/><br/>Thro'out eternity.</lines>
+    </verse>
+  </lyrics>
+</song>
