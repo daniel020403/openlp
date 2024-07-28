@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-11-19T06:57:20">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-07-28T04:39:27">
   <properties>
     <titles>
       <title>Do Right</title>
@@ -10,36 +10,28 @@
   </properties>
   <lyrics>
     <verse name="c1a">
-      <lines break="optional">Do right<br/>'til the stars fall,<br/></lines>
-      <lines>Do right<br/>'til the last call,</lines>
+      <lines>Do right<br/>'til the stars fall,<br/><br/>Do right<br/>'til the last call,</lines>
     </verse>
     <verse name="c1b">
-      <lines break="optional">Do right<br/></lines>
-      <lines>when there's no one else<br/>to stand by you.</lines>
+      <lines>Do right<br/><br/>when there's no one else<br/>to stand by you.</lines>
     </verse>
     <verse name="c1c">
-      <lines break="optional">Do right<br/>when you're all alone<br/></lines>
-      <lines>Do right<br/>though it's never known</lines>
+      <lines>Do right<br/>when you're all alone<br/><br/>Do right<br/>though it's never known</lines>
     </verse>
     <verse name="c1d">
-      <lines break="optional">Do right<br/>since you love the Lord<br/></lines>
-      <lines>Do right, do right.</lines>
+      <lines>Do right<br/>since you love the Lord<br/><br/>Do right, do right.</lines>
     </verse>
     <verse name="v1a">
-      <lines break="optional">From the very start<br/>have purpose in your heart,<br/></lines>
-      <lines>To do what's right and never question why.</lines>
+      <lines>From the very start<br/>have purpose in your heart,<br/><br/>To do what's right and never question why.</lines>
     </verse>
     <verse name="v1b">
-      <lines break="optional">Never count the cost<br/>though everything<br/>seems lost;<br/></lines>
-      <lines>The price of doing right<br/>is sometimes high.</lines>
+      <lines>Never count the cost<br/>though everything<br/>seems lost;<br/><br/>The price of doing right<br/>is sometimes high.</lines>
     </verse>
     <verse name="v2a">
-      <lines break="optional">Right is always right,<br/>and wrong is always wrong,<br/></lines>
-      <lines>And we must learn to separate the two.</lines>
+      <lines>Right is always right,<br/>and wrong is always wrong,<br/><br/>And we must learn to separate the two.</lines>
     </verse>
     <verse name="v2b">
-      <lines break="optional">If you love the right,<br/>the Lord<br/>will give you light;<br/></lines>
-      <lines>So  seek the right in everything you do.</lines>
+      <lines>If you love the right,<br/>the Lord will give you light;<br/><br/>So  seek the right in everything you do.</lines>
     </verse>
   </lyrics>
 </song>
